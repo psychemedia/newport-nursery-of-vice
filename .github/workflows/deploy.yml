@@ -5,12 +5,11 @@ on:
     types: [published]
   workflow_dispatch:
 
-# This job installs dependencies, builds the book, and pushes it to `gh-pages`
 jobs:
   deploy-book:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v5
 
       # Cache Jupyter Book build artifacts
     - name: Cache Jupyter Book build
