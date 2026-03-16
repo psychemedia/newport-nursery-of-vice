@@ -1,0 +1,27 @@
+format: jb-book
+root: preface
+parts:
+- caption: Nurseries of Vice and Invention
+  chapters:
+  - file: 00-preface
+  - file: 05-setting-the-scene
+  - file: 07-culturally-speaking
+  - file: 10-a-picture-of-newport
+  - file: 13-the-new-church
+  - file: 15-letter-to-magistrates
+  - file: 20-tempters-and-tempted
+  - file: 22-carus-wilson-aside-soldiers
+  - file: 25-pittis-libel
+  - file: 28-following-the-libel-case
+  - file: 30-church-opened
+  - file: 32-into-the-1860s
+  - file: 34-portsmouth-in-flames
+  - file: 40-death-of-currer-bell
+  - file: 45-school-clergymens-daughters
+  - file: 50-wilson-nicholls-controversy
+  - file: 55-carus-wilson-end
+  - file: 60-finale
+  - file: 65-appendix-portsmouth-in-flames
+  - file: 70-appendix-shepheard-vindication
+  - file: 72-appendix-carus-wilson-memoir
+
