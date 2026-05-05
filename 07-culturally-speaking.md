@@ -12,8 +12,7 @@ Reading through some early reviews of *Jane Eyre*, the lead character's early li
 
 ```{admonition} "Not merely a work of great promise", October 1847
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/BL/0002115/18471023/030/0011?browse=true
-Atlas - Saturday 23 October 1847
+In *Atlas*, [Saturday 23 October 1847](https://britishnewspaperarchive.co.uk/viewer/BL/0002115/18471023/030/0011?browse=true).
 
 *Jane Eyre; an Autobiography.* Edited by CURRER BELL 3 vols. London: Smith, Elder, and Co.
 
@@ -39,7 +38,7 @@ LITERARY CHRONICLE. JANE EYRE. An Autobiography. Edited by Currer Bell. 3 Vols.�
 
 ```{admonition} The orphan daughter of a clergyman, November 1847
 :class: dropdown
-[Liverpool Standard and General Commercial Advertiser - Tuesday 16 November 1847](https://britishnewspaperarchive.co.uk/viewer/bl/0002088/18471116/215/0014)
+In *Liverpool Standard and General Commercial Advertiser*, [Tuesday 16 November 1847](https://britishnewspaperarchive.co.uk/viewer/bl/0002088/18471116/215/0014).
 
 Jane Eyre. An Autobiography. Edited by Currer Bell. In three volumes. London: Smith, Elder, and Co., Cornhill.
 
@@ -55,7 +54,7 @@ The fate of one of the poor neglected children—Mary Burns—for wham such esta
 
 ```{admonition} Tolerable teachers, intolerable fare, November 1847
 :class: dropdown
-[Manchester Examiner - Tuesday 16 November 1847](https://britishnewspaperarchive.co.uk/viewer/bl/0003398/18471116/033/0003)
+In *Manchester Examiner*, [Tuesday 16 November 1847](https://britishnewspaperarchive.co.uk/viewer/bl/0003398/18471116/033/0003).
 
 LITERARY EXAMINER.
 
@@ -71,7 +70,7 @@ The heroine begins her story pretty far back in her life,— when she is quite a
 
 ```{admonition} Bad sanitary circumstances and an insufficient supply of food, November 1847
 :class: dropdown
-[Morning Post - Wednesday 03 November 1847](https://britishnewspaperarchive.co.uk/viewer/BL/0000174/18471103/003/0002)
+In *Morning Post*, [Wednesday 03 November 1847](https://britishnewspaperarchive.co.uk/viewer/BL/0000174/18471103/003/0002).
 
 LITERATURE.
 
