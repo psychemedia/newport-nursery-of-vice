@@ -28,7 +28,7 @@ Amidst the hustle and bustle of the town, the sound of an accordion might perhap
 
 ```{admonition} A persistent, vagrant, Italian minor, begging with an accordion for 16d. a day, December, 1848
 :class: dropdown
-[Hampshire Independent - Saturday 30 December 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18481230/084/0008)
+In *Hampshire Independent*, [Saturday 30 December 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18481230/084/0008).
 
 Borough Court
 
@@ -50,7 +50,7 @@ In the central part of Newport, steps were being made to introduce street gas li
 
 ```{admonition} Preparations in a great state forwardness, October 1820
 :class: dropdown
-[Hampshire Chronicle - Monday 09 October 1820](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18201009/019/0004)
+In *Hampshire Chronicle*, [Monday 09 October 1820](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18201009/019/0004).
 
 Newport, Oct. 6.— The preparations making for lighting this town with gas are in great state forwardness.
 ```
@@ -59,8 +59,7 @@ The necessary Act of Parliament was then passed in 1821.
 
 ```{admonition} Act of Parliament announced, June 1821
 :class: dropdown
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18210604/014/0004
-Hampshire Chronicle - Monday 04 June 1821
+In *Hampshire Chronicle*, [Monday 04 June 1821](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18210604/014/0004).
 
 Saturday Night's Gazette
 
@@ -69,7 +68,7 @@ THIS announces Royal to numerous public and private Acts of Parliament, amongst 
 
 ```{admonition} Act of Parliament, May 1821
 :class: dropdown
-[Newport (Isle of Wight) Gas Act 1821](https://www.legislation.gov.uk/ukla/Geo4/1-2/57/contents/enacted)
+[Newport (Isle of Wight) Gas Act 1821](https://www.legislation.gov.uk/ukla/Geo4/1-2/57/contents/enacted).
 
 Cap. lvii
 
@@ -83,7 +82,7 @@ By 1823, *The Newport Gas Light Company* was ready for incorporation.
 
 ```{admonition} The Newport Gas Light Company, January 1823
 :class: dropdown
-[Hampshire Telegraph - Monday 20 January 1823](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18230120/012/0003)
+In *Hampshire Telegraph*, [Monday 20 January 1823](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18230120/012/0003).
 
 The Newport Gas Light Company
 
@@ -97,7 +96,7 @@ Improvements were also made to the gas provision in the early 1850s, albeit at t
 
 ```{admonition} leading thoroughfares are being broken-up, January 1852
 :class: dropdown
-[Hampshire Advertiser - Saturday 03 January 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18520103/026/0005)
+In *Hampshire Advertiser*, [Saturday 03 January 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18520103/026/0005).
 
 NEWPORT, SATURDAY, January 3. The Newport Gas Company.— The brilliancy of the new lights, as seen this week, placed alongside of the old ones, seems to have "won golden opinions from all sorts of people," and made new gas the order of the day. Mr. Nunn's extensive lace factory, we hear, is to be supplied with one hundred and fifty burners, and a large number of tradesmen and professional men, as well as private persons, are being supplied. To accomplish this, of course, the leading thoroughfares are being broken-up,— a temporary inconvenience, which if perpetuated, it seems, would now be more tolerable than the light of other days, or rather nights.
 
@@ -107,7 +106,7 @@ The age of electric communication was still a few years away, however. The "elec
 
 ```{admonition} The rest of the civilised world, September 1859
 :class: seealso dropdown
-[Hampshire Telegraph - Saturday 17 September 1859](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18590917/016/0006)
+In *Hampshire Telegraph*, [Saturday 17 September 1859](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18590917/016/0006).
 
 NEWPORT
 
@@ -122,7 +121,7 @@ In November 1852, council members unanimously elected Francis Pittis, a well-reg
 
 ```{admonition} General meeting of the council
 :class: dropdown
-[Isle of Wight Observer - Saturday 13 November 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18521113/007/0003)
+In *Isle of Wight Observer*, [Saturday 13 November 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18521113/007/0003).
 
 TOWN COUNCIL
 
@@ -143,7 +142,7 @@ He was also reappointed for a second term the year afterwards.
 
 ```{admonition} Re-election of F. Pittis
 :class: dropdown
-[Isle of Wight Observer - Saturday 12 November 1853](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000170/18531112/007/0002?browse=true)
+In *Isle of Wight Observer*, [Saturday 12 November 1853](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000170/18531112/007/0002?browse=true).
 
 TOWN COUNCIL. The quarterly meeting of the Town Council was held at the Guildhall on Wednesday last, the Mayor. F.Pittis, Esq., in the chair.
 
@@ -154,7 +153,7 @@ As a reward for his service, and mid-way through his second term as Mayor of New
 
 ```{admonition} Proposing Mr. F. Pittis as Alderman, April 1854
 :class: dropdown
-[Isle of Wight Observer - Saturday 15 April 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540415/014/0003)
+In *Isle of Wight Observer*, [Saturday 15 April 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540415/014/0003).
 
 Town Council.
 
@@ -207,7 +206,7 @@ For more information about the Newport Bridewell and Town Gaol, see https://www.
 
 ```{admonition} On converting Newport Bridewell to a Police-station, July 1849
 :class: dropdown
-[Hampshire Advertiser - Saturday 07 July 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18490707/012/0003)
+In *Hampshire Advertiser*, [Saturday 07 July 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18490707/012/0003).
 
 Newport Bridewell
 
@@ -227,7 +226,7 @@ Troops were landed at Fountain Quay in Cowes, and then marched south to Parkhurs
 
 ```{admonition} A footpath to the Barracks and Prison
 :class: dropdown
-[Hampshire Telegraph - Saturday 09 February 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18560209/013/0004)
+In *Hampshire Telegraph*, [Saturday 09 February 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18560209/013/0004).
 
 MEETING OF THE NEWPORT TOWN COUNCIL.
 
@@ -256,7 +255,7 @@ A brief report in the *Hampshire Telegraph* of Saturday, 11th October, 1856, est
 
 ```{admonition} Hampshire Telegraph - Saturday 11 October 1856
 :class: dropdown
-[Hampshire Telegraph - Saturday 11 October 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18561011/011/0004)
+In *Hampshire Telegraph*, [Saturday 11 October 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18561011/011/0004).
 
 The military depots at Parkhurst Barracks, in the Isle of Wight, muster about 1,300 men and officers. A number of the men have volunteered recently into the Military Train, which is the name of a permanent corps that is to be a substitute for the Land Transport Corps. The military train is to number about 3,000, and the head-quarters is at Bristol. As soon as there is any large number of volunteers at Parkhurst they are sent under an escort to that city.
 
@@ -267,7 +266,7 @@ Reports occasionally appeared in the local press announcing the latest troop mov
 ```{admonition} 23rd, 58th, 65th, 63rd, 93rd; Isle of Wight Observer - Saturday 11 March 1854
 :class: dropdown
 
-[Isle of Wight Observer - Saturday 11 March 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540311/015/0003)
+In *Isle of Wight Observer*, [Saturday 11 March 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540311/015/0003).
 
 PARKHURST BARRACKS. The 23rd Regiment Royal Welsh Fusileers left these barracks on the 25th ult. for Portsmouth, from whence they will embark for the East on or about the 12th, as a portion of the second division to be sent out.
 
@@ -283,14 +282,14 @@ On Monday a Depot of the 63rd Rifle Brigade, of about 150 men, and Tuesday Depot
 ```{admonition} 4th, 77th, Hampshire Telegraph - Saturday 01 April 1854
 :class: dropdown
 
-[Hampshire Telegraph - Saturday 01 April 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18540401/014/0004)
+In *Hampshire Telegraph*, [Saturday 01 April 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18540401/014/0004).
 
 The Depot of the 77th Regiment arrived here on Friday, and on the two previous days the depots of the 4th and another Regiment were landed at the Fountain Quay, and thence marched for Parkhurst Barracks, where they will be stationed for some time.
 ```
 
 ```{admonition} 4th, 20th, 26th, 28th, Sun (London) - Saturday 18 November 1854
 :class: dropdown
-[Sun (London) - Saturday 18 November 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18541118/010/0001)
+In *Sun (London)*, [Saturday 18 November 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18541118/010/0001).
 
 Cowes, Isle of Wight, Nov. 17
 
@@ -301,14 +300,14 @@ Detachments form the 4th, 20th, 26th and 28th Regiments embarked from Cowes this
 
 ```{admonition} 77th, Hampshire Telegraph - Saturday 27 January 1855
 :class: dropdown
-[Hampshire Telegraph - Saturday 27 January 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18550127/012/0004)
+In *Hampshire Telegraph*, [Saturday 27 January 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18550127/012/0004).
 
 COWES. A detachment of 300 men of the 77th Regiment marched from Parkhurst Barracks on Friday morning, and embarked for Portsmouth, *en route* for the Crimea. The men seemed in good spirits, and well pleased with the prospect of proceeding to aid their fellow soldiers in the East.
 ```
 
 ```{admonition} *Cheerful countenance*, Hampshire Telegraph - Saturday 10 February 1855
 :class: dropdown
-[Hampshire Telegraph - Saturday 10 February 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18550210/012/0004)
+In *Hampshire Telegraph*, [Saturday 10 February 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18550210/012/0004).
 
 Owing to the severity of the weather, our poor would have fared badly had it not been for the liberality of the wealthy. As it is, coals, bread, and other comforts have been distributed among the necessitous, and an intimation given that whilst the cold continued the wants of the needy would not be forgotten nor disregarded.
 
@@ -318,14 +317,14 @@ During the week we have had fresh arrivals of recruits for Parkhurst Barracks, a
 ```{admonition} *28th Slashers-Sebastopol, or death!*, Hampshire Telegraph - Saturday 14 April 1855
 :class: dropdown
 
-[Hampshire Telegraph - Saturday 14 April 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18550414/011/0004)
+In *Hampshire Telegraph*, [Saturday 14 April 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18550414/011/0004).
 
 A large draft of upwards of 300 left Parkhurst Barracks, on Friday, for the Crimea, in excellent spirits, and eager for the fight. A flag was unfurled which had been got up by the men, inscribed "The 28th Slashers-Sebastopol, or death!"
 ```
 
 ```{admonition} 48th, Hampshire Telegraph - Saturday 07 July 1855
 :class: dropdown
-[Hampshire Telegraph - Saturday 07 July 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18550707/015/0004)
+In *Hampshire Telegraph*, [Saturday 07 July 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18550707/015/0004).
 
 Visitors continue to arrive daily in considerable numbers in the Isle of Wight, the coaches appear well laden, and carriages of all descriptions are again in motion; lodgings are getting in request, and in Newport many are occupied by military officers and their families, in consequence of the quarters at Parkhurst not affording accommodation for the number. 
 
@@ -345,16 +344,31 @@ Considerable drafts have left Parkhurst barracks within a short time for the sea
 
 ```{admonition} 15th, 30th, 55th arrivals, Hampshire Advertiser - Saturday 06 June 1857
 :class: dropdown
-[Hampshire Advertiser - Saturday 06 June 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18570606/040/0007)
+In *Hampshire Advertiser*, [Saturday 06 June 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18570606/040/0007).
 
 Our Garrison.— About 350 men of the 15th, 30th, and 55th Regiments, came into Barracks, from off station in the Mediterranean, on Thursday. We have now 1100 men in Garrison.
+```
+
+The soldiers would also, on occasion, be followed by their womenfolk, although not always to a warm welcome.
+
+```{admonition}
+In *Hampshire Advertiser*, [Saturday 16 February 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18560216/046/0007).
+
+ISLE OF WIGHT PETTY SESSIONS.
+
+COUNTY BENCH.
+
+SATURDAY.—Magistrates present: Sir H. P. Gordon, bart., (chairman), Sir John Simeon, bart., Captain Hamond, and White Popham, esq.
+
+Unrequited Affection.— A destitute looking female, with a discoloured eye, and other marks of violence on ber face, who gave ber name as *Caroline Edwards*, was charged with being found asleep on a door-step, at West Cowes, at one o'clock at night. She bud but a few halfpence about ber, and said sbe was in distress, as she had wandered from Newport, in Wales, to see a soldier in Parkhurst Garrison, who had been betting and knocking her about, and she wished to get back over the water again. The poor girl cried bitterly, and assured the Magistrates such was the case, who gave her a few shillings, with strict injunctions that she should leave the Island immediately. 
+
 ```
 
 The officer class of regiments stationed at the garrison seem to have integrated themselves into Island society:
 
 ```{admonition} A grand entertainment, September 1853
 :class: dropdown
-[Isle of Wight Observer - Saturday 17 September 1853](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18530917/007/0002)
+In *Isle of Wight Observer*, [Saturday 17 September 1853](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18530917/007/0002).
 
 HURRAH FOR THE WELSH FUSILIERS!
 
@@ -364,7 +378,7 @@ The ball was most appropriately wound up with that Old English dance "Sir Roger 
 
 The cordial *empressement* and affable hospitality of the gallant Fusiliers won all hearts, rendering every one who had the good fortune to be present happy and delighted. The most cynical could not refuse their full meed of approbation to their successful exertions in diffusing pleasure and amusement throughout the evening. For many years a more brilliant gathering has not been seen in Newport, and we most sincerely congratulate the Royal "Goats" on their signal success.
 
-... [A list of the notable persons who attended is prodvided.]
+... [A list of the notable persons who attended is provided.]
 
 ```
 
@@ -372,7 +386,7 @@ And on the whole, it seems as if there was no real enmity between the garrison a
 
 ```{admonition} Disrupting the peace between the gentlemen of the garrison and the inhabitants the town, August 1854
 :class: dropdown
-[Isle of Wight Observer - Saturday 12 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540812/009/0002)
+In *Isle of Wight Observer*, [Saturday 12 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540812/009/0002).
 
 BOROUGH SESSIONS.
 
@@ -430,7 +444,7 @@ But as we shall see, the soldiery did have lots of other contact with certain of
 
 ```{admonition} Disorderly females infesting the road, June 1842
 :class: dropdown
-[Hampshire Independent - Saturday 11 June 1842](https://www.britishnewspaperarchive.co.uk/viewer/BL/0002941/18420611/033/0003)
+In *Hampshire Independent*, [Saturday 11 June 1842](https://www.britishnewspaperarchive.co.uk/viewer/BL/0002941/18420611/033/0003).
 
 At the Petty Sessions, on Saturday last, before the County Magistrates, at the Guildhall.
 
