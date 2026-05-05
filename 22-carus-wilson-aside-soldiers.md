@@ -18,7 +18,7 @@ A report a month or so after it opened in the Leeds Mercury gives a sense of wha
 
 ```{admonition} Soldiers' Institutes, February 1856
 :class: dropdown
-[Leeds Mercury - Thursday 28 February 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18560228/016/0003)
+In *Leeds Mercury*, [Thursday 28 February 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18560228/016/0003).
 
 SOLDIERS' INSTITUTES.—
 
@@ -34,7 +34,7 @@ A more comprehensive and contemporaneous review of the opening of the institute 
 
 ```{admonition} Opening of a Soldiers' Institute in Portsmouth, January 1856
 :class: dropdown
-[Portsmouth Times and Naval Gazette - Saturday 26 January 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001365/18560126/104/0005)
+In *Portsmouth Times and Naval Gazette*, [Saturday 26 January 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001365/18560126/104/0005).
 
 OPENING OF A SOLDIERS' INSTITUTE AT PORTSMOUTH.
 

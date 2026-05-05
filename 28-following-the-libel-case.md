@@ -6,7 +6,7 @@ Perhaps the first thing to note is that in the week following the libel case, Ca
 
 ```{admonition} Still just published, March 1856
 :class: dropdown
-[Isle of Wight Mercury - Saturday 08 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560308/013/0002)
+In *Isle of Wight Mercury*, [Saturday 08 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560308/013/0002).
 
 JUST PUBLISHED.
 
@@ -22,7 +22,7 @@ It's also worth noting that even a month later, Carus Wilson was still identifie
 
 ```{admonition} Much difference of opinion exists, May 1856
 :class: dropdown
-[Isle of Wight Mercury - Saturday 10 May 1856](https://www.britishnewspaperarchive.co.uk/viewer/BL/0001417/18560510/027/0004)
+In *Isle of Wight Mercury*, [Saturday 10 May 1856](https://www.britishnewspaperarchive.co.uk/viewer/BL/0001417/18560510/027/0004).
 
 Newport
 
@@ -32,7 +32,7 @@ Two Sermons will be preached in St. John's Church, Newport, on Sunday the 11th i
 
 ```{admonition} The high celebrity of the preacher, May 1856
 :class: dropdown
-[Portsmouth Times and Naval Gazette - Saturday 10 May 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18560510/100/0005)
+In *Portsmouth Times and Naval Gazette*, [Saturday 10 May 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18560510/100/0005).
 
 NEWPORT.
 
@@ -41,7 +41,7 @@ Two sermons will be preached at St. John's Church, Sunday the 11th inst., by the
 
 ```{admonition} Sermons much admired, May 1856
 :class: dropdown
-[Isle of Wight Mercury - Saturday 17 May 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560517/031/0004)
+In *Isle of Wight Mercury*, [Saturday 17 May 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560517/031/0004).
 
 On Sunday last, May 11th, two Sermons were preached at St. John's Newport, by the Rev. Carus Wilson, to large congregations, and collections made to assist the Sunday schools in connexion with that Church, in which 300 children are taught. The sermons were much admired, and collections of above £18 were made after the services.
 
@@ -51,11 +51,11 @@ In the courts, it is possible that things may have improved slightly, with busin
 
 ```{admonition} Girls of the pave, April 1856
 :class: dropdown
-[Isle of Wight Mercury - Saturday 26 April 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560426/028/0004)
+In *Isle of Wight Mercury*, [Saturday 26 April 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560426/028/0004).
 
 NEWPORT. COUNTY PETTY SESSIONS
 
-Monday April 1st, (before Thomas Cooke, Esq.)
+Monday April 1st, (before Thomas Cooke, Esq.).
 
 Caroline Pierce, one of the girls of the pave, was charged with disorderly conduct and being within Parkhurst Barracks between four and five o'clock on Sunday morning, for the purpose of prostitution. The prosecution was promoted by the Colonel Commandant, who has been attempting to control the profligate tendency of some of the officers. The defendant denied that she was guilty, but the evidence left no doubt of the charge.— Committed to one month's imprisonment with hard labour.
 
@@ -63,7 +63,7 @@ Caroline Pierce, one of the girls of the pave, was charged with disorderly condu
 
 ```{admonition} Disorderly conduct near the Barrack gate, June 1856
 :class: dropdown
-[Isle of Wight Mercury - Saturday 28 June 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560628/040/0008)
+In *Isle of Wight Mercury*, [Saturday 28 June 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560628/040/0008).
 
 COUNTY PETTY SESSIONS, Saturday
 
@@ -79,9 +79,9 @@ Charges of petty theft also continued to be levied against some of the working g
 
 ```{admonition} Stealing a carbuncle gold pin, July 1856
 :class: dropdown
-[Isle of Wight Mercury - Saturday 19 July 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560719/044/0008)
+In *Isle of Wight Mercury*, [Saturday 19 July 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560719/044/0008).
 
-BOROUGH POLICE COURT, TUESDAY, JULY (Before the Mayor and R. M. Wavell, Esq.)
+BOROUGH POLICE COURT, TUESDAY, JULY (Before the Mayor and R. M. Wavell, Esq.).
 
 Caroline Pierce and Caroline Sibley, two prostitutes, were charged by Lieut. Davey, of the 1st Royals, with stealing a carbuncle gold pin from his person, on Monday night, at the Rose and Crown. It appeared that the prisoners and prosecutor were in company, and one, if not both girls, sat on his knees. He missed the pin soon after, but did not see either of them take it, and it was not found.—The case was dismissed.
 
@@ -89,14 +89,14 @@ Caroline Pierce and Caroline Sibley, two prostitutes, were charged by Lieut. Dav
 
 ```{admonition} Two of the elite of the Newport pave, July 1856
 :class: dropdown
-[Hampshire Advertiser - Saturday 19 July 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560719/047/0008)
+In *Hampshire Advertiser*, [Saturday 19 July 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560719/047/0008).
 
 On Tuesday (before the Mayor, and R. M. Wavell, esq.), two of the elite of the Newport pave, named Caroline Pierce and Caroline Bartlett, were charged with feloniously stealing a gold pin from the person of William Davey, an ensign of the 1st Royal. It appeared that he and two other officers were in the bar of a public-house in the town, with half-a-dozen girls, about eleven o'clock the previous night, and no doubt some of them endeavoured to abstract the pin (which wad a valuable one— a carbuncle, with a gold twist round it.) from his scarf, as the two girls and himself were "very gracious" while there,— till he put his hand up to his "choker," and found the pin *non est.* when it was "all t'other." He did not, however, see them take it, and the police were sent for, who searched for it, but it could not be found; and it seemed foolish to bring the charges before the Magistrates, under such circumstances. Of course the girls were discharged.
 ```
 
 ```{admonition} Standing in class A 1 on the pave, February 1860
 :class: dropdown
-[Hampshire Independent - Saturday 11 February 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18600211/162/0011)
+In *Hampshire Independent*, [Saturday 11 February 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18600211/162/0011).
 
 BOROUGH COURT. On Monday, before Dr. Wavell and E. Way, Esq.
 
@@ -119,7 +119,7 @@ Whilst many of the reports paint a picture of women perhaps of a rather a hard c
 
 ```{admonition} Attempt to commit a rape, September 1860
 :class: dropdown
-[Isle of Wight Observer - Saturday 29 September 1860](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18600929/013/0004)
+In *Isle of Wight Observer*, [Saturday 29 September 1860](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18600929/013/0004).
 
 BOROUGH PETTY SESSIONS. Monday.—Before Worshipful the Mayor (chairman), and Dr. Wavell.
 
@@ -128,7 +128,7 @@ John Love corporal in the 50th regiment, was charged by Caroline Pierce with an 
 
 ```{admonition} Assault, with intent, &c. &c., September 1860
 :class: dropdown
-[Hampshire Telegraph - Saturday 29 September 1860](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18600929/024/0006)
+In *Hampshire Telegraph*, [Saturday 29 September 1860](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18600929/024/0006).
 
 BOROUGH COURT, Monday.—Before the Mayor, and R. M. Wavell, Esq.—
 
@@ -138,7 +138,7 @@ John Love, a corporal in the 50th Regiment, was charged with having assaulted Ca
 ```{admonition} John Love, sentenced, October, 1860
 :class: dropdown
 
-[Hampshire Independent - Saturday 20 October 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18601020/105/0008)
+In *Hampshire Independent*, [Saturday 20 October 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18601020/105/0008).
 
 John Love, aged 20, soldier, for assaulting Caroline Pierce, at Newport.— Nine months.
 ```
@@ -147,7 +147,7 @@ In the following report, Caroline Pierce is in Court as a prosecutrix. The doubl
 
 ```{admonition} The loss of a shawl, a brooch and a locket, March 1862
 :class: dropdown
-[Hampshire Telegraph - Saturday 01 March 1862](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18620301/016/0005)
+In *Hampshire Telegraph*, [Saturday 01 March 1862](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18620301/016/0005).
 
 BOROUGH COURT.—Monday.—Before R. M. Wavell, T. P. Mew, and E. Way, Esqrs.—George Wheeler, 18, was charged with stealing one shawl, a locket, and a brooch, the property of Caroline Pierce. The prosecutrix, it appeared, had been assaulted by a woman named Vine in the public streets in the middle of the night, and in the scuffle the complainant lost the articles mentioned, which were sworn to by a witness as having been picked up by the prisoner, but the lad who actually picked up the shawl having come forward and proved that he was the person, and that he took it only till he could discover the owner, the prisoner was acquitted.—Prisoner was next charged with stealing a brass candlestick the property of Thomas Frampton, which was found in his pocket on his being searched at the station after the loss of the shawl, but as the prisoner proved that in this instance also it was flung at him in the open street by another lad, and that he only pocketed it till he could discover who it belonged to, the Court dismissed this charge as well.
 
@@ -158,7 +158,7 @@ Caroline Pierce's name was still appearing in the courts many years later, altho
 ```{admonition} A wretched profligate, brawling in the street, January 1869
 :class: dropdown
 
-[Hampshire Advertiser - Saturday 16 January 1869](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18690116/054/0008)
+In *Hampshire Advertiser*, [Saturday 16 January 1869](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18690116/054/0008).
 
 BOROUGH COURT. Monday.— The borough magistrates in attendance were the Mayor (Mr. Robert Pinnock) and Mr. F. Pittis.
 
@@ -170,7 +170,7 @@ If the death notice of a Caroline Pierce, in Cross-street, Newport, of 1873 is t
 
 ```{admonition} On the 18th instant, May 1873
 :class: dropdown
-[Hampshire Advertiser - Wednesday 21 May 1873](https://britishnewspaperarchive.co.uk/viewer/bl/0000495/18730521/005/0002)
+In *Hampshire Advertiser*, [Wednesday 21 May 1873](https://britishnewspaperarchive.co.uk/viewer/bl/0000495/18730521/005/0002).
 
 On the 18th instant, in Cross-street, Newport, Isle of Wight, Caroline Pierce, aged 36.
 ```
@@ -184,7 +184,7 @@ One such case was reported widely in July, 1856, a tale that begins in the Old K
 ```{admonition} Administering a deleterious drug, July 1856
 :class: dropdown
 
-[Isle of Wight Mercury - Saturday 19 July 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560719/044/0008)
+In *Isle of Wight Mercury*, [Saturday 19 July 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560719/044/0008).
 
 NEWPORT. COUNTY PETTY SESSIONS.
 
@@ -198,7 +198,7 @@ The report in the *Hampshire Advertiser* seems rather garbled, locating the tale
 
 ```{admonition} Seized with vomiting and diarrhoea, July 1856
 :class: dropdown
-[Hampshire Advertiser - Saturday 19 July 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560719/047/0008)
+In *Hampshire Advertiser*, [Saturday 19 July 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560719/047/0008).
 
 NEWPORT
 
@@ -226,7 +226,7 @@ When transferred to the Summer Assizes, a technical defense appears to have been
 
 ```{admonition} An objection to the indictment, July 1856
 :class: dropdown
-[Hampshire Chronicle - Saturday 19 July 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000231/18560719/043/0010)
+In *Hampshire Chronicle*, [Saturday 19 July 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000231/18560719/043/0010).
 
 HAMPSHIRE SUMMER ASSIZES
 
@@ -246,7 +246,7 @@ Even though there seems to have been no doubt that the doctored beer had caused 
 
 ```{admonition} No force was used to get them to drink, July 1856
 :class: dropdown
-[Hampshire Advertiser - Saturday 19 July 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560719/013/0004)
+In *Hampshire Advertiser*, [Saturday 19 July 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560719/013/0004).
 
 HAMPSHIRE ASSIZES
 
@@ -272,7 +272,7 @@ A few months later, another night in the Old King's Arms for Elizabeth Hurst and
 
 ```{admonition} At the Old King's Arms, December 1856
 :class: dropdown
-[Isle of Wight Mercury - Saturday 06 December 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18561206/018/0005)
+In *Isle of Wight Mercury*, [Saturday 06 December 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18561206/018/0005).
 
 COUNTY PETTY SESSIONS, Saturday (before Capt. Duff, Le Marchant Thomas, Esq., and Capt. Hammond and Crozier, R.N.)
 
@@ -284,7 +284,7 @@ A report in the *Hampshire Advertiser* provides a little more details of the ori
 
 ```{admonition} Going home to get some "tin", December 1856
 :class: dropdown
-[Hampshire Advertiser - Saturday 06 December 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18561206/045/0008)
+In *Hampshire Advertiser*, [Saturday 06 December 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18561206/045/0008).
 
 Lost in the Snow.— Severe cold weather suddenly set in here the latter end of last week, accompanied with a considerable fall of snow; and on Friday, Atwell, the Calborne postman, bad a narrow escape of perishing through its intensity. Not arriving with his mail-bag, which was due at Carisbrooke at six o'clock in the evening, Mr. Redstone, the Carisbrooke postmaster, and a neighbour named Jones, set off on the Calbourne road in search of him, and ultimately discovered him in a ditch, under a bank, benumbed, asleep with the cold, and covered with the drifting snow. He was conveyed home, and is recovering under the surgical aid of Mr. Tuttiett, surgeon.
 
@@ -319,7 +319,7 @@ In trial at the Assizes, the soldier accused of theft was acquitted.
 ```{admonition} Indicted for robbing his pay sergeant, December 1856
 :class: dropdown
 
-[Poole & Dorset Herald - Thursday 11 December 1856](https://britishnewspaperarchive.co.uk/viewer/BL/0002325/18561211/064/0007)
+In *Poole & Dorset Herald*, [Thursday 11 December 1856](https://britishnewspaperarchive.co.uk/viewer/BL/0002325/18561211/064/0007).
 
 Charles Gosling, a private soldier of the 96th Regiment, indicted for having, on the 26th of November, at Parkhurst Barracks, robbed his pay sergeant, George Wolfe, of the sum of £7 9s., was acquitted.
 

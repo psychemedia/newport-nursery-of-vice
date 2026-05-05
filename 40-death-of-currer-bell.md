@@ -8,7 +8,7 @@ JANE EYRE: AN AUTOBIOGRAPHY. Edited by CURRER BELL. 3 vols. Published: October, 
 
 ```{admonition} The Obituary this week, April 1855
 :class: dropdown
-[Hampshire Advertiser - Saturday 07 April 1855](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18550407/009/0003)
+In *Hampshire Advertiser*, [Saturday 07 April 1855](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18550407/009/0003).
 
 THE OBITUARY this week includes—
 
@@ -17,7 +17,7 @@ Mrs. Nichol, formerly Miss Bronte, who, under the nom de plume of Currer Bell es
 
 ```{admonition} The Author of Jane Eyre, June 1855
 :class: dropdown
-[Durham County Advertiser - Friday 15 June 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000614/18550615/077/0006)
+In *Durham County Advertiser*, [Friday 15 June 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000614/18550615/077/0006).
 
 THE AUTHOR OF JANE EYRE ( From Sharpe's Magazine )
 
@@ -64,7 +64,7 @@ A couple of months after the death of Charlotte Brontë, before heading south to
 
 ```{admonition} A visit to Casterton Hall, June 1855
 :class: dropdown
-[Lancaster Guardian - Saturday 02 June 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001673/18550602/061/0005)
+In *Lancaster Guardian*, [Saturday 02 June 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001673/18550602/061/0005).
 
 KIRKBY LONSDALE.
 

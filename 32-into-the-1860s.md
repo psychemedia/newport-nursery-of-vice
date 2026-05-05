@@ -4,7 +4,7 @@ So did Carus Wilson's tracts, and the opening of the new Church, lead to an impr
 
 ```{admonition} Female debauchery, January 1857
 :class: dropdown
-[Isle of Wight Mercury - Saturday 03 January 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570103/020/0002)
+In *Isle of Wight Mercury*, [Saturday 03 January 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570103/020/0002).
 
 BOROUGH PETTY SESSIONS. (Monday. Dec. 29.—Before Edward Way, and J. H. Hearn, Esqrs.)
 
@@ -21,7 +21,7 @@ The following tale amusingly tells of how one visitor to the Tontine Tap had his
 ```{admonition} A woman of low character and depraved habits, March 1857
 :class: dropdown
 
-[Isle of Wight Mercury - Saturday 21 March 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570321/051/0003)
+In *Isle of Wight Mercury*, [Saturday 21 March 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570321/051/0003).
 
 BOROUGH PETTY SESSIONS. [Monday.— Before R. M. Wavell, and E. Scott, Esqrs.]
 
@@ -31,7 +31,7 @@ Felony.— Sarah Duffy, a woman of low character and depraved habits, was charge
 
 ```{admonition} Stealing his Sunday's dinner, March 1857
 :class: dropdown
-[Hampshire Telegraph - Saturday 21 March 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18570321/009/0004)
+In *Hampshire Telegraph*, [Saturday 21 March 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18570321/009/0004).
 
 At the Borough Court, on Monday, before R. H. Wavell, J. Hearn, and E. Way, Esqrs, Wm. Lane, a countryman, charged Sarah Duffy, residing in Tontine Yard, with stealing his Sunday's dinner. It appeared that after he had been drinking with the prisoner for some hours at the Tontine tap, he accompanied her home, where his basket was speedily eased of its contents of bread and pork, whilst he was gone after more beer. Prisoner pleaded guilty— 28 days to hard labour.
 
@@ -41,14 +41,14 @@ Did Sarah Duffy also have a sister, perhaps, Emma Duffey, who had also appeared 
 
 ```{admonition} Using indecent language in the public streets, July 1857
 :class: dropdown
-[Hampshire Telegraph - Saturday 04 July 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18570704/019/0006)
+In *Hampshire Telegraph*, [Saturday 04 July 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18570704/019/0006).
 
 At the Borough Court on Monday, before the Mayor and Borough Magistrates, ... Emma Duffey, a common prostitute, charged with using indecent language in the public streets, was committed for one month.
 ```
 
 ```{admonition} A lively nymph, September 1857
 :class: dropdown
-[Isle of Wight Mercury - Saturday 05 September 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570905/048/0003)
+In *Isle of Wight Mercury*, [Saturday 05 September 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570905/048/0003).
 
 BOROUGH PETTY SESSIONS. Monday, August 31. Before Robt. M. Wavell, Esq. (in the chair), J. H. Hearn, Esq. and E. Way, Esq.
 
@@ -61,8 +61,7 @@ Elsewhere in the environs of Newport, the Revd. W. Carus Wilson was still using 
 
 ```{admonition} Sermons were preached, April 1857
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18570425/048/0007
-Hampshire Advertiser - Saturday 25 April 1857
+In *Hampshire Advertiser*, [Saturday 25 April 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18570425/048/0007).
 
 Sermons were preached on Sunday last at Carisbrooke Church, by the Rev. Carus Wilson, M.A., in aid of the fund for supporting the Infant School connected with that parish, when about £12 was collected.
 ```
@@ -81,7 +80,7 @@ Three weeks or so later, Revd. W. Carus Wilson's son, the Revd. W. W. Carus Wils
 
 ```{admonition} The Progress of Morality and Religion, June 1857
 :class: dropdown
-[Isle of Wight Mercury - Saturday 06 June 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001417/18570606/049/0003)
+In *Isle of Wight Mercury*, [Saturday 06 June 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001417/18570606/049/0003).
 
 NEWPORT
 
@@ -94,7 +93,7 @@ Meanwhile, many of the Court reports suggest a picture of what the comings and g
 
 ```{admonition} Sleight of hand, and a pocket picked by one "as innocent a child unborn!", June 1857
 :class: dropdown
-[Isle of Wight Mercury - Saturday 06 June 1857](https://britishnewspaperarchive.co.uk/viewer/BL/0001417/18570606/048/0002)
+In *Isle of Wight Mercury*, [Saturday 06 June 1857](https://britishnewspaperarchive.co.uk/viewer/BL/0001417/18570606/048/0002).
 
 NEWPORT BOROUGH POLICE.
 
@@ -110,7 +109,7 @@ Injured Innocent.— William Spencer, a well-dressed young fellow with a fair am
 
 ```{admonition} Very drunk at the time, March 1858
 :class: dropdown
-[Isle of Wight Mercury - Saturday 27 March 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0001417/18580327/046/0005)
+In *Isle of Wight Mercury*, [Saturday 27 March 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0001417/18580327/046/0005).
 
 Borough Petty Sessions, March 23rd. Before the Mayor (E. Way, Esq.) and Percy Scott, Esq.
 
@@ -121,7 +120,7 @@ In the following case, it is perhaps interesting to wonder what the accused was 
 
 ```{admonition} A dual assault, July 1858
 :class: dropdown
-[Hampshire Advertiser - Saturday 31 July 1858](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18580731/036/0007)
+In *Hampshire Advertiser*, [Saturday 31 July 1858](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18580731/036/0007).
 
 BOROUGH COURT. Monday— Magistrates present: The Mayor, R. M. Wavell, and E. Way, esqrs.
 
@@ -132,7 +131,7 @@ The defendant, Henry Underwood, was now charged with striking three prostitutes,
 
 ```{admonition} Caught in an attack, July 1858
 :class: dropdown
-[Isle of Wight Mercury - Saturday 31 July 1858](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18580731/025/0002)
+In *Isle of Wight Mercury*, [Saturday 31 July 1858](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18580731/025/0002).
 
 Borough Petty Sessions, July— Before the Worshipful the Mayor (in the chair), R. M. Wavell, and E. Way, Esqrs.
 
@@ -165,7 +164,7 @@ At the Borough Licensing day in 1858, some old familiar pub names appear on the 
 
 ```{admonition} Reprimanded for keeping disorderly houses, 1858
 :class: dropdown
-[Isle of Wight Mercury - Saturday 28 August 1858](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18580828/026/0002)
+In *Isle of Wight Mercury*, [Saturday 28 August 1858](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18580828/026/0002).
 
 Borough Petty Sessions, August 23rd, 1858. Before the Mayor, (in the chair) and R. M. Wavell Esq.
 
@@ -177,7 +176,7 @@ One of the licensees, James Tribbick of the White Hart, seemed to have only rece
 
 ```{admonition} Transfer of licenses, April 1858
 :class: dropdown
-[Isle of Wight Mercury - Saturday 17 April 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0001417/18580417/015/0002)
+In *Isle of Wight Mercury*, [Saturday 17 April 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0001417/18580417/015/0002).
 
 Transfer of Licences.— Tho White Hart, Pyle-street, from Mrs. Jenkins to James Tribbick.— The Fountain inn, Newport Quay, from James Shephard to Thomas Coleman.—The Crown and Sceptre, Quay-street, from William Tucker, deceased, to Mrs. Tucker.
 
@@ -187,7 +186,7 @@ The following account of a disorderly house also paints its own picture of what 
 
 ```{admonition} Entertaining the band of the Limerick Militia, March 1859
 :class: dropdown
-[Hampshire Telegraph - Saturday 19 March 1859](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18590319/025/0006)
+In *Hampshire Telegraph*, [Saturday 19 March 1859](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18590319/025/0006).
 
 Borough Court, Monday— Before the Mayor, R. M. Wavell and E. Way, Esqrs.
 
@@ -202,7 +201,7 @@ Various of the court appearances of *Caroline Pierce* are collated elsewhere.
 
 ```{admonition} Common disturbers of the peace, February 1860
 :class: dropdown
-[Hampshire Telegraph - Saturday 11 February 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18600211/021/0006)
+In *Hampshire Telegraph*, [Saturday 11 February 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18600211/021/0006).
 
 BOROUGH COURT, MONDAY.—Before Dr. Wavell, and E. Way, Esq.
 
@@ -213,7 +212,7 @@ A more complete report from the *Hampshire Independent*, excerpted previously in
 
 ```{admonition} Screamer, not so luck, and another still, February 1860
 :class: dropdown
-[Hampshire Independent - Saturday 11 February 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18600211/162/0011)
+In *Hampshire Independent*, [Saturday 11 February 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18600211/162/0011).
 
 BOROUGH COURT. On Monday, before Dr. Wavell and E. Way, Rio.
 
@@ -248,7 +247,7 @@ Sarah Baxen, the last of the batch, was next charged by P.C. Jolliffe with being
 
 ```{admonition} Indecent and disorderly conduct, June 1861
 :class: dropdown
-[Hampshire Independent - Saturday 29 June 1861](https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18610629/137/0012)
+In *Hampshire Independent*, [Saturday 29 June 1861](https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18610629/137/0012).
 
 Borough Court
 
@@ -262,14 +261,14 @@ Another of the names that makes several appearances in the Court reports, albeit
 
 ```{admonition} An unfortunate, charged, but the prosecutor not appearing, February 1866
 :class: dropdown
-[Isle of Wight Observer - Saturday 24 February 1866](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18660224/012/0004)
+In *Isle of Wight Observer*, [Saturday 24 February 1866](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18660224/012/0004).
 
 BOROUGH PETTY SESSIONS. Monday.—Before the Mayor (chairman), and Francis Pittis, esq. Mary Ann Cooper, 23, an unfortunate, was charged with stealing 3s. from the person of Edward Mew, a laborer, on the previous Saturday.—The prosecutor not appearing, prisoner was discharged.
 ```
 
 ```{admonition} Charged for the ninth time, September 1866
 :class: dropdown
-[Isle of Wight Observer - Saturday 01 September 1866](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18660901/005/0003)
+In *Isle of Wight Observer*, [Saturday 01 September 1866](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18660901/005/0003).
 
 BOROUGH PETTY SESSIONS. Monday.—Before H. Pinnock, esq., and E. Way, esq.
 
@@ -278,7 +277,7 @@ Mary Ann Cooper, a prostitute, was charged for the ninth time with being drunk a
 
 ```{admonition} Five pints for a gold ring, May 1868
 :class: dropdown
-[Isle of Wight Observer - Saturday 30 May 1868](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18680530/008/0003)
+In *Isle of Wight Observer*, [Saturday 30 May 1868](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18680530/008/0003).
 
 COUNTY PETTY SESSIONS. Saturday.—Before Sir H. Percy Gordon, bart. (chairman), W. G. Shedden, esq., and C. G. MacGregor Skinner, esq.
 
@@ -289,7 +288,7 @@ Another of the situations that doesn't seem to change is the way in which stolen
 
 ```{admonition} Hiding stolen goods, January 1867
 :class: dropdown
-[Isle of Wight Observer - Saturday 26 January 1867](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18670126/011/0004)
+In *Isle of Wight Observer*, [Saturday 26 January 1867](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18670126/011/0004).
 
 BOROUGH PETTY SESSIONS. Monday.—Before the Mayor (chairman), and E. Way, esq.
 
@@ -301,7 +300,7 @@ In other situations, were items that shouldn't be there an indicator of somethin
 ```{admonition} You've got the clothes., but not the man, June 1867
 :class: dropdown
 
-[Isle of Wight Times - Wednesday 12 June 1867](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002099/18670612/031/0003)
+In *Isle of Wight Times*, [Wednesday 12 June 1867](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002099/18670612/031/0003).
 
 BOROUGH PETTY SESSIONS. MONDAY.—Before the Mayor, and F. Pittis Esq.
 
@@ -312,7 +311,7 @@ Presumably some relation to the James Tribbick who had taken on the White Hart i
 
 ```{admonition} A coffee-house harbouring prostitutes? May 1868
 :class: dropdown
-[Hampshire Advertiser - Saturday 16 May 1868](https://britishnewspaperarchive.co.uk/viewer/bl/0000495/18680516/037/0008)
+In *Hampshire Advertiser*, [Saturday 16 May 1868](https://britishnewspaperarchive.co.uk/viewer/bl/0000495/18680516/037/0008).
 
 ISLE OF WIGHT PETTY SESSIONS. BOROUGH COURT. Monday.— The borough magistrates in attendance were Mr. F. Pittis, Captain W. S. Graham, and Mr. F. Vulliamy.
 
@@ -324,7 +323,7 @@ Mary Ann Tribbick is back in court again, although this time as a victim of a th
 
 ```{admonition} Stealing a petticoat, September 1869
 :class: dropdown
-[Hampshire Telegraph - Wednesday 01 September 1869](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18690901/019/0004)
+In *Hampshire Telegraph*, [Wednesday 01 September 1869](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18690901/019/0004).
 
 BOROUGH COURT.-Monday.-Before the Mayor (R. Pinnock, Esq.) and F. Pittis, and F. Vulliamy, Esqrs.
 
@@ -336,7 +335,7 @@ At the Borough Licensing Day of September 1869, it seems that town's citizenry h
 
 ```{admonition} Licensing Day, September 1869
 :class: dropdown
-[Hampshire Telegraph - Wednesday 01 September 1869](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18690901/019/0004)
+In *Hampshire Telegraph*, [Wednesday 01 September 1869](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18690901/019/0004).
 
 BOROUGH COURT.-Monday.-Before the Mayor (R. Pinnock, Esq.) and F. Pittis, and F. Vulliamy, Esqrs.— Licensing Day.-After the clerk had read several extracts from the new Wine and Beerhouse Act, and from the Habitual Criminals Act, the Mayor said that the magistrates had received a memorial signed by 500 residents of the borough, of Newport. requesting them to refuse licenses to the landlords of those houses which had not been properly kept. A great many complaints had been made of several publicans opening their houses on a Sunday before the proper time, and the magistrates had resolved for the future to be more strict with such houses. William Woodford, of the "Valiant Soldier," South-street, and Charles Morris, of the "Waggon and Horses," Crocker-street, having been complained of, the magistrates, in granting their licenses, informed the applicants that the police would be instructed to keep a watchful eye upon their houses. —...-Mr. Howes, of. the "Tontine" beershop, applied for and was refused his license because he had been fined three times during the past year for irregularities in his house. John Micffin was refused his license for the "Horse and Groom," Upper Pyle-street, from insufficiency of rating.—Henry James was refused his license for the "Orange Tree," Upper Pyle-street, for being twice convicted during the past year, and for the house not having been decently conducted. ...
 
@@ -347,7 +346,7 @@ Another tale from the King's Arms, which seems to have been a go to place for fi
 ```{admonition} Obstructing a picquet sergeant, November 1869
 :class: dropdown
 
-[Hampshire Independent - Wednesday 03 November 1869](https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18691103/034/0004)
+In *Hampshire Independent*, [Wednesday 03 November 1869](https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18691103/034/0004).
 
 NEWPORT BOROUGH POLICE COURT. On Monday, at the Town Hall, before the Mayor (B. Pinnock, Esq.), Francis Pittis, Esq., and F. Valliamy, Esq.
 
@@ -368,7 +367,7 @@ One name that keeps recurring in the court reports throughout the 1860s is a cer
 
 ```{admonition} A girl of the House of Industry, being riotous, April 1864
 :class: dropdown
-[Isle of Wight Observer - Saturday 02 April 1864](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18640402/009/0003)
+In *Isle of Wight Observer*, [Saturday 02 April 1864](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18640402/009/0003).
 
 COUNTY PETTY SESSIONS
 
@@ -380,7 +379,7 @@ Emily Kent, a girl of the House of Industry, was brought up upon two charges: fi
 
 ```{admonition} Disorderly behaviour and wilful damage, December 1864
 :class: dropdown
-[Isle of Wight Observer - Saturday 24 December 1864](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18641224/013/0004)
+In *Isle of Wight Observer*, [Saturday 24 December 1864](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18641224/013/0004).
 
 COUNTY PETTY SESSIONS
 
@@ -391,7 +390,7 @@ Harriet Cooper and Emily Kent, two girls of the House of Industry, were brought 
 
 ```{admonition} Riotous behaviour, February 1865
 :class: dropdown
-[Isle of Wight Observer - Saturday 11 February 1865](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18650211/015/0004)
+In *Isle of Wight Observer*, [Saturday 11 February 1865](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18650211/015/0004).
 
 COUNTY PETTY SESSIONS
 
@@ -402,7 +401,7 @@ Elizabeth Lacey and Emily Kent were charged with riotous behaviour in the House 
 
 ```{admonition} Incorrigible behaviour, April 1865
 :class: dropdown
-[Isle of Wight Observer - Saturday 01 April 1865](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18650401/009/0004)
+In *Isle of Wight Observer*, [Saturday 01 April 1865](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18650401/009/0004).
 
 COUNTY PETTY SESSIONS
 
@@ -413,7 +412,7 @@ Emily Kent and Elizabeth Lacy were again placed at the bar, for the third time l
 
 ```{admonition} Unruly and disorderly conduct, August 1865
 :class: dropdown
-[Isle of Wight Observer - Saturday 26 August 1865](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18650826/004/0003)
+In *Isle of Wight Observer*, [Saturday 26 August 1865](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18650826/004/0003).
 
 COUNTY PETTY SESSIONS
 
@@ -425,7 +424,7 @@ Emily Kent, an inmate of the House of Industry, was placed at the bar, being her
 
 ```{admonition} Notorious bad behaviour, April 1867
 :class: dropdown
-[Isle of Wight Observer - Saturday 27 April 1867](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18670427/010/0003)
+In *Isle of Wight Observer*, [Saturday 27 April 1867](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18670427/010/0003).
 
 COUNTY PETTY SESSIONS
 
@@ -436,7 +435,7 @@ Emily Kent, a pauper in the House of Industry, who had been sentenced eight time
 
 ```{admonition} Disorderly conduct in the House of Industry, November 1867
 :class: dropdown
-[Isle of Wight Observer - Saturday 30 November 1867](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18671130/013/0003)
+In *Isle of Wight Observer*, [Saturday 30 November 1867](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18671130/013/0003).
 
 BOROUGH PETTY SESSIONS.
 
@@ -448,7 +447,7 @@ Emily Kent was charged for the ninth time with disorderly conduct in the House o
 ```{admonition} Locked up as many as a dozen times, June 1868
 :class: dropdown
 
-[Isle of Wight Observer - Saturday 06 June 1868](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18680606/011/0003)
+In *Isle of Wight Observer*, [Saturday 06 June 1868](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18680606/011/0003).
 
 BOROUGH PETTY SESSIONS.
 

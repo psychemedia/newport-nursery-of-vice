@@ -6,7 +6,7 @@ At the beginning of April, 1857, the *Lancaster Gazette* remarked on their north
 
 ```{admonition} Our late estimable neighbour, April 1857
 :class: dropdown
-[Lancaster Gazette - Saturday 11 April 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18570411/034/0008)
+In *Lancaster Gazette*, [Saturday 11 April 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18570411/034/0008).
 
 THE REV. W. CARUS WILSON
 
@@ -24,7 +24,7 @@ W. W. Carus Wilson's first letter appeared widely, and denounced the claims made
 
 ```{admonition} Allow me to make a few remarks, April 1857
 :class: dropdown
-[Morning Herald (London) - Friday 24 April 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002408/18570424/072/0005)
+In *Morning Herald (London)*, [Friday 24 April 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002408/18570424/072/0005).
 
 "JANE EYRE." TO THE EDITOR OF THE MORNING HERALD. Sir,—Allow me to make a few remarks on the "Life of Charlotte Bronte," by Mrs. Gaskell, which will be one of the popular works of the day.
 
@@ -47,7 +47,7 @@ The initial, short letter, was followed by a second, short letter that also intr
 ```{admonition} May I ask for a corner, May 1857
 :class: dropdown
 
-[Leeds Mercury - Saturday 16 May 1857](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18570516/017/0007)
+In *Leeds Mercury*, [Saturday 16 May 1857](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18570516/017/0007).
 
 CHARLOTTE BRONTE. TO THE EDITORS OF THE LEEDS MERCURY. GENTLEMEN,—
 
@@ -62,7 +62,7 @@ The review opens by recalling the original publication of "Jane Eyre", and the a
 ```{admonition} Coarse expressions and immoral tendencies, May 1857
 :class: dropdown
 
-[Essex Standard - Friday 22 May 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000165/18570522/043/0006)
+In *Essex Standard*, [Friday 22 May 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000165/18570522/043/0006).
 
 NEW PUBLICATION
 
@@ -77,7 +77,7 @@ The closing hour, pictured by Mrs. Gaskell, is very painful. Miss Bronte entered
 
 The review then addresses the depiction of Charlotte's time at the Clergy daughter's School.
 
-```{admonition} Rhe seeds of good must have been sown in her, (cont.)
+```{admonition} Rhe seeds of good must have been sown in her, (cont.).
 :class: dropdown
 
 She could not have been without religious impressions; we may be sure that in such au establishment as the "Clergy Daughters' School" the seeds of good must have been sown in her; but we fear her great talents were a snare— they were not used in after-life for the glory and honour of her God. Can we wonder, then, at the bitter attack she made in "Jane Eyre" on the "Clergy Daughters' School," and on the Rev. W. Carus Wilson, its benevolent founder? And, if report be true that Mrs. Gaskell is a Socinian, does she seek to aim a blow at our Church by such unjust and quite unnecessary personal remarks on so influential a member of it?
@@ -158,7 +158,7 @@ Elsewhere, the review might be introduced by an editorial statement, rather than
 
 ```{admonition} A work of some unkind and unjust allusions, May 1857
 :class: dropdown
-[Lancaster Gazette - Saturday 09 May 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18570509/049/0008)
+In *Lancaster Gazette*, [Saturday 09 May 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18570509/049/0008).
 
 THE REV. CARUS WILSON AND THE AUTHOR OF THE BRONTE MEMOIRS.
 
@@ -181,9 +181,9 @@ The letter was then republished a day later in various Leeds newspapers.
 
 ```{admonition} The statements referred to, May 1857
 :class: dropdown
-[Leeds Mercury - Saturday 23 May 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18570523/016/0006)
+In *Leeds Mercury*, [Saturday 23 May 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18570523/016/0006).
 
-The letter also appeared in the [Leeds Intelligencer - Saturday 23 May 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000193/18570523/041/0007).
+The letter also appeared in the In *Leeds Intelligencer*, [Saturday 23 May 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000193/18570523/041/0007).
 
 CHARLOTTE BRONTE. TO THE EDITORS OF THE LEEDS MERCURY. GENTLEMEN,-On Saturday last, you published, by request of Mr. W. W. Carus Wilson, an extract from a review, containing, he says, "a complete answer to the statements regarding his father's charitable institutions."
 
@@ -229,9 +229,9 @@ W. W. Carus Wilson responded, by what seems to be almost a return of post, to Mr
 
 ```{admonition} If you will allow me a reply, May 1857
 :class: dropdown
-[Leeds Mercury - Thursday 28 May 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18570528/016/0003)
+In *Leeds Mercury*, [Thursday 28 May 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18570528/016/0003).
 
-Also reappears in [Leeds Mercury - Thursday 04 June 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18570604/005/0001).
+Also reappears in In *Leeds Mercury*, [Thursday 04 June 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000076/18570604/005/0001).
 
 CHARLOTTE BRONTE. TO THE EDITORS OF THE LEEDS MERCURY. GENTLEMEN,— If you will allow me a reply to a letter from Mr. Nicholls, in yesterday's* Manchester Times* and to-day's *Leeds Mercury*, it shall be my last, and very brief. Mr. Nicholls is quite welcome to the "burnt pudding" fact, and to the testimony of the pupil who may, from a delicate constitution, have been as unfit as the Brontës were for any school. I cannot defend an isolated case of "wet feet," &c., in any school. But it is the charge of "bad and insufficient food" being a *general* thing that I am prepared to prove false by ten testimonies to every one Mr. Nicholls can show to the contrary.
 
@@ -249,7 +249,7 @@ He also wrote to the *Leeds Intelligencer*, which had also carried Mr. Nicholl's
 
 ```{admonition} I leave your readers to form their own judgment, May 1857
 :class: dropdown
-[Leeds Intelligencer - Saturday 30 May 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000193/18570530/004/0003)
+In *Leeds Intelligencer*, [Saturday 30 May 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000193/18570530/004/0003).
 
 CHARLOTTE BRONTE. TO THE EDITOR OF THE INTELLIGENCER. Sir, —
 
@@ -271,7 +271,7 @@ At this point, another pen joins the fray in defense of W. Carus Wilson, in the 
 
 ```{admonition} Another champion has now entered on the field, May 1857
 :class: dropdown
-[Lancaster Guardian - Saturday 30 May 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001673/18570530/026/0004)
+In *Lancaster Guardian*, [Saturday 30 May 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001673/18570530/026/0004).
 
 "JANE EYRE" AND THE CASTERTON SCHOOLS.
 
@@ -284,7 +284,7 @@ I am willing to hope that neither Charlotte Bronte herself nor her biographer ha
 
 ```{admonition} In defence of the school, May 1857
 :class: dropdown
-[Usk Observer - Saturday 30 May 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000927/18570530/038/0003)
+In *Usk Observer*, [Saturday 30 May 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000927/18570530/038/0003).
 
 The publication of the life of CHARLOTTE BRONTE, and the charges contained in it against the Cowen-bridge School has led to a good deal of angry feeling. The Rev. H. Shepheard, M.A., late Fellow and Tutor of Oriel College, Oxford, Incumbent of Casterton, and Chaplain and Secretary of the Clergy Daughters' School, in a letter in Wednesday's *Times*, defends the school, which he says has been carried on since 1833 at Casterton, and, to borrow the words of a Preston paper the vile attack made on the rev. gentleman (Mr. Carus Wilson) has reference to the Clergy Daughters' Schools; and, in consequence of what is said on the subject in the Bronte memoirs, some ignorant reviewers of the public press in London have arrived at the conclusion that at Cowen-bridge, or Casterton, "there exists," as observes the editor of the Lancaster Gazette, "a sort of Dotheboys' Hall. In this neighbourhood the interesting establishments alluded to are well known, and we can only smile at the verdancy of our London contemporaries," &c.' Now, sir, in the visitors' book of the Casterton school there appears the name of 'Mrs. Gaskill' as having visited the institution in March, 1856. She was shown over the whole house, saw the pupils, and expressed nothing but satisfaction. Would it not have been, then, an act of bare justice, as well an ingenuous and graceful acknowledgment, on her part, to have inserted in her memoir a frank avowal that whatever may have been the merits or demerits of the Cowen-bridge School of 1824, the Casterton School of 1856 presented before her own eyes a spectacle of health and comfort in the pupils, and a result of generous large-hearted benevolence in the founder, such as might well bring upon him, not calumny and vituperation, but blessings and gratitude? Such an avowal is indispensably required on Mrs. Gaskill's part, if she desires to relieve herself from the charge of conduct which I do not choose to characterise. Her own mind evidently has its misgivings as to the truth of the alleged facts even of the Cowen-bridge story.
 ```
@@ -293,7 +293,7 @@ One letter, originally sent to the *Manchester Guardian*, also appeared in the *
 
 ```{admonition} The Casterton School Controversy, June 1857
 :class: dropdown
-[Lancaster Guardian - Saturday 06 June 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001673/18570606/069/0008)
+In *Lancaster Guardian*, [Saturday 06 June 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001673/18570606/069/0008).
 
 THE CASTERTON SCHOOL CONTROVERSY.
 
@@ -349,7 +349,7 @@ The version in the Times begins as follows:
 
 ```{admonition} Trusting in the love of justice, May 1857
 :class: dropdown
-[Westmorland Gazette - Saturday 30 May 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000399/18570530/022/0005)
+In *Westmorland Gazette*, [Saturday 30 May 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000399/18570530/022/0005).
 
 "JANE EYRE" AND "CHARLOTTE BRONTE"
 
@@ -415,7 +415,7 @@ Back in Haworth, Mr Nicholls had responded to W. W. Carus Wilson's letter in the
 
 ```{admonition} All was perfection at Cowan Bridge, but..., June 1857
 :class: dropdown
-[Leeds Mercury - Tuesday 02 June 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18570602/022/0004)
+In *Leeds Mercury*, [Tuesday 02 June 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18570602/022/0004).
 
 CHARLOTTE BRONTE. TO THE EDITORS OF THE LEEDS MERCURY.
 
@@ -443,7 +443,7 @@ Much the same letter, though with a slightly different opening, also appears in 
 
 ```{admonition} A careful omission of the negatives, June 1857
 :class: dropdown
-[Leeds Intelligencer - Saturday 06 June 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000193/18570606/071/0010)
+In *Leeds Intelligencer*, [Saturday 06 June 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000193/18570606/071/0010).
 
 CHARLOTTE BRONTE. TO THE EDITOR OF THE INTELLIGENCER.
 
@@ -459,7 +459,7 @@ P.S. Will Mr. W. W. Carus Wilson give the *maiden name* of the superintendent wh
 
 ```{admonition} To the Editor of the Leeds Times, June 1857
 :class: dropdown
-[Leeds Times - Saturday 06 June 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000336/18570606/004/0002)
+In *Leeds Times*, [Saturday 06 June 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000336/18570606/004/0002).
 
 CORRESPONDENCE. CHARLOTTE BRONTE.
 
@@ -475,7 +475,7 @@ This is turn is followed directly on the page by a fragment of the Henry Shephea
 
 ```{admonition} Charlotte Bronte's own account of Cowan-bridge is not to be trusted, June 1857
 :class: dropdown
-[Leeds Intelligencer - Saturday 06 June 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000193/18570606/071/0010)
+In *Leeds Intelligencer*, [Saturday 06 June 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000193/18570606/071/0010).
 
 A long letter, in defence of the Clergy Daughters' School and Mr. Carus Wilson, from the allegations made by C. Bronte, and repeated by Mrs. Gaskill, appeared in *The Times* on Wednesday. It was signed H. Shepheard, M. A., late Fellow and Tutor of Oriel College, Oxford, incumbent of Casterton, and Chaplain and Secretary of the Clergy Daughters' School, and dated Casterton, May 25. It concluded as follows:—
 
@@ -500,7 +500,7 @@ As well as the main players in the debate, minor other communications also appea
 
 ```{admonition} A letter of support, June 1857
 :class: dropdown
-[Leeds Intelligencer - Saturday 13 June 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000193/18570613/044/0008)
+In *Leeds Intelligencer*, [Saturday 13 June 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000193/18570613/044/0008).
 
 CHARLOTTE BRONTE.
 
@@ -517,9 +517,9 @@ A few days later, a widely syndicated note remarks that the Rev. W Carus Wilson 
 
 ```{admonition} A "Refutation of the Statements", June 1857
 :class: dropdown
-[Liverpool Daily Post - Thursday 11 June 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000197/18570611/031/0007)
+In *Liverpool Daily Post*, [Thursday 11 June 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000197/18570611/031/0007).
 
-*Also in [The Halesworth Times and East Suffolk Advertiser. - Tuesday 16 June 1857](https://www.britishnewspaperarchive.co.uk/viewer/BL/0001357/18570616/013/0002) and many other publications.*
+*Also in In *The Halesworth Times and East Suffolk Advertiser.*, [Tuesday 16 June 1857](https://www.britishnewspaperarchive.co.uk/viewer/BL/0001357/18570616/013/0002) and many other publications.*
 
 We observe the Rev. W. Carus Wilson has published a "Refutation of the Statements in the Life of a Charlotte Bronté regarding the Casterton Clergy Daughters' School." The pamphlet contains, among other matter, the letter which have appeared in the *Examiner and Times* from the pens of Mr, Wilson, Mr. Nicholls, and Mr. Shepherd.
 ```
@@ -540,7 +540,7 @@ As well as engaging in a public debate, it seems that W. W. Carus Wilson had als
 
 ```{admonition} Rectifying the injury, July 1857
 :class: dropdown
-[Manchester Daily Examiner & Times - Monday 13 July 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0003157/18570713/040/0004)
+In *Manchester Daily Examiner & Times*, [Monday 13 July 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0003157/18570713/040/0004).
 
 THE CHARLOTTE BRONTE CONTROVERSY:—
 
@@ -559,7 +559,7 @@ A review of the third edition in September 1857 appears to have allayed many of 
 
 ```{admonition} Revised and corrected, free from all mistakes and personalities, September 1857
 :class: dropdown
-[Weston-super-Mare Gazette, and General Advertiser - Saturday 26 September 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001443/18570926/021/0004)
+In *Weston-super-Mare Gazette, and General Advertiser*, [Saturday 26 September 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001443/18570926/021/0004).
 
 THIRD EDITION OF THE LIFE OF CHARLOTTE BRONTE.
 
@@ -590,7 +590,7 @@ Many years later, we hear the last traces of any orally communicated tales that 
 
 ```{admonition} A lady of 80, October 1912
 :class: dropdown
-[Yorkshire Post and Leeds Intelligencer - Wednesday 16 October 1912](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000687/19121016/113/0006)
+[Yorkshire Post and Leeds Intelligencer - Wednesday 16 October 1912](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000687/19121016/113/0006).
 
 CHARLOTTE BRONTE AND SILVERDALE (FROM A CORRESPONDENT.)
 

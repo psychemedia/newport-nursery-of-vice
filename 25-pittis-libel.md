@@ -4,7 +4,7 @@ Upon receipt of the Mayor's letter challenging the claims made in "Tempters and 
 
 ```{admonition} Pamphlet adverts, March 1856
 :class: dropdown
-[Isle of Wight Mercury - Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560301/004/0001)
+In *Isle of Wight Mercury*, [Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560301/004/0001).
 
 JUST PUBLISHED.
 
@@ -30,7 +30,7 @@ The charge laid was that the Rev. W. Carus Wilson, *"for having written a false 
 
 ```{admonition} Libel Case, March 1856
 :class: dropdown
-[Isle of Wight Mercury - Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560301/027/0005)
+In *Isle of Wight Mercury*, [Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560301/027/0005).
 
 COUNTY POLICE
 
@@ -96,7 +96,7 @@ In passing, I note the very next article in the column was championing a forthco
 
 ```{admonition} A grand Bazaar
 :class: dropdown
-[Isle of Wight Mercury - Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560301/004/0001)
+In *Isle of Wight Mercury*, [Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560301/004/0001).
 
 ST. THOMAS'S CHURCH, NEWPORT.— We have much pleasure in calling the attention of our readers to an advertisement in our columns of a grand Bazaar to be held, in August next, under the patronage of the Queen, at Carisbrooke Castle, for the purpose of augmenting the Building Fund of the new Church of St. Thomas at Newport. We are convinced our lady readers will gladly seize this opportunity of encouraging art in connection with religion, by donations to the Bazaar of those curious and highly interesting specimens of ingenuity in needlework, crotchet, chenille, &c., &c., &c., which only ladies can fabricate. At the same time, it will be in the power of the husband, the tither, the son the brother, to devote his sympathy by contributions of books. paintings, or "*hard cash*."— Now this is not a local matter: it appeals to the sympathies of all who love high art. Indeed, every islander is interested in the decoration of the capital of the Island by so noble a specimen of ecclesiastical architecture, —by a structure so vividly exemplifying the pure and refined principles of a cultivated taste as the new Church of St. Thomas. Let it not be said that the Inhabitants of the Isle of Wight are insensible to the beauty of art, when devoted to its grandest purpose—the illustration of religion.
 
@@ -104,7 +104,7 @@ ST. THOMAS'S CHURCH, NEWPORT.— We have much pleasure in calling the attention 
 
 The advert mentioned for the Bazaar appeared on the front page of the paper. It also just happened to be immediately followed by an advert for Carus Wilson's pamphlets!
 
-![Front page of Isle of Wight Mercury - Saturday 01 March 1856 - showing one advert for the Bazaar in aid of Church Building Fund, immediately followed by another for Carus Wilson's tracts](images/mercury_front_page.png)
+!In *Front page of Isle of Wight Mercury*, [Saturday 01 March 1856 - showing one advert for the Bazaar in aid of Church Building Fund, immediately followed by another for Carus Wilson's tracts](images/mercury_front_page.png)
 
 The *Isle of Wight Mercury* report of the libel case seems rather concise, even garbled, so can we learn any more from other reports?
 
@@ -114,7 +114,7 @@ The report opens by reviewing the circumstances that led to the Mayor's letter t
 
 ```{admonition} Denunciations and denial, March 1856
 :class: dropdown
-[Hampshire Telegraph - Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18560301/012/0004)
+In *Hampshire Telegraph*, [Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18560301/012/0004).
 
 "TEMPTERS AND TEMPTED."
 
@@ -177,7 +177,7 @@ The opening provides an implicit set up by mentioning the failed prosecution of 
 
 ```{admonition} Defamation of character, March 1856
 :class: dropdown
-[Hampshire Advertiser - Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560301/045/0007)
+In *Hampshire Advertiser*, [Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560301/045/0007).
 
 CHARGE AGAINST THE REV. WM. CARUS WILSON FOR DEFAMATION OF CHARACTER.
 
@@ -289,7 +289,7 @@ The editorial opens with a reflection that immorality is on the increase, and ca
 
 ```{admonition} The immorality existing in our large towns, March 1856
 :class: dropdown
-[Isle of Wight Mercury - Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/BL/0001417/18560301/025/0003)
+In *Isle of Wight Mercury*, [Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/BL/0001417/18560301/025/0003).
 
 `[Editorial]`
 
@@ -329,7 +329,7 @@ At this point, Francis Pittis leaves our story. He went on to live to the age of
 
 ```{admonition} Death of Sir Francis Pittis, November 1889
 :class: dropdown
-[Hampshire Chronicle - Saturday 09 November 1889](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000231/18891109/063/0007)
+In *Hampshire Chronicle*, [Saturday 09 November 1889](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000231/18891109/063/0007).
 
 ISLE OF WIGHT
 

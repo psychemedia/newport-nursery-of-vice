@@ -9,7 +9,7 @@ The first annual report of the Soldiers' Institute, in March 1857, describes som
 ```{admonition} The report of the Committee, March 1857
 :class: dropdown
 
-[Portsmouth Times and Naval Gazette - Saturday 14 March 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18570314/044/0003)
+In *Portsmouth Times and Naval Gazette*, [Saturday 14 March 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18570314/044/0003).
 
 ANNUAL MEETING OF THE SOLDIERS' INSTITUTE.
 
@@ -93,7 +93,7 @@ Publication of the annual report in the *Portsmouth Times and Naval Gazette* was
 ```{admonition} A great omission was made on Tuesday evening, March 1857
 :class: dropdown
 
-[Portsmouth Times and Naval Gazette - Saturday 14 March 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18570314/044/0003)
+In *Portsmouth Times and Naval Gazette*, [Saturday 14 March 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18570314/044/0003).
 
 To the Editor of the Portsmouth Times and Naval Cazette.
 
@@ -115,7 +115,7 @@ Back on the Island, Carus Wilson appears to have also been engaged in trying to 
 
 ```{admonition} We come as friends, not as enemies, May 1856
 :class: dropdown
-[Isle of Wight Mercury - Saturday 31 May 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0001417/18560531/024/0005)
+In *Isle of Wight Mercury*, [Saturday 31 May 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0001417/18560531/024/0005).
 
 VENTNOR
 
@@ -126,7 +126,7 @@ Britain's hope is in her youth. We look not to those who have run a long course 
 
 ```{admonition} A lecture was delivered, May 1856
 :class: dropdown
-[Portsmouth Times and Naval Gazette - Saturday 31 May 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18560531/074/0004)
+In *Portsmouth Times and Naval Gazette*, [Saturday 31 May 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18560531/074/0004).
 
 VENTNOR. 
 
@@ -138,7 +138,7 @@ In passing, from this first annual report of the Portsea Island Young Men's Chri
 
 ```{admonition} Thanks to Carus Wilson for his donation, October 1857
 :class: dropdown
-[Portsmouth Times and Naval Gazette - Saturday 03 October 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18571003/130/0006)
+In *Portsmouth Times and Naval Gazette*, [Saturday 03 October 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18571003/130/0006).
 
 PORTSEA ISLAND YOUNG MEN'S CHRISTIAN ASSOCIATION
 
@@ -159,7 +159,7 @@ It is perhaps worth noting that the Rev. J. Knapp seems to be another of those s
 
 ```{admonition} Public Reading of Indian News, November 1857
 :class: dropdown seealso
-[Morning Advertiser - Saturday 07 November 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001427/18571107/059/0003)
+In *Morning Advertiser*, [Saturday 07 November 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001427/18571107/059/0003).
 
 PUBLIC READING OF INDIAN NEWS
 
@@ -170,7 +170,7 @@ In the years that followed, even following the death of Carus Wilson at the end 
 
 ```{admonition} About six years ago, March 1861
 :class: dropdown
-[Hampshire Advertiser - Saturday 02 March 1861](https://britishnewspaperarchive.co.uk/viewer/bl/0000495/18610302/040/0008)
+In *Hampshire Advertiser*, [Saturday 02 March 1861](https://britishnewspaperarchive.co.uk/viewer/bl/0000495/18610302/040/0008).
 
 PORTSMOUTH SOLDIERS' INSTITUTE.
 
@@ -198,7 +198,7 @@ As well as preaching to troops in advance of being sent off to their overseas po
 ```{admonition} A powerful and interesting sermon, August 1857
 :class: dropdown
 
-[Hampshire Chronicle - Saturday 08 August 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000231/18570808/067/0008)
+In *Hampshire Chronicle*, [Saturday 08 August 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000231/18570808/067/0008).
 
 A powerful and interesting sermon was preached on Sunday last, the church of St. John, Forton, by the Rev. Carus Wilson, and a most feeling address made by the talented preacher to the Royal Marines, Light Infantry, 350 in number, about to embark for China or India. The discourse was listened to with profound attention by above 500 of the marines, and a numerous congregation. The text, which was most striking and appropriate, was taken from Titus c. 2, v. 12, 13. and 14 :— "Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly in this present world; looking for that blessed hope and glorious appearing of the great God our Saviour Jesus Christ, who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good work's. The plain and gospel observations deduced by the preacher from these words of inspiration, cannot we hope, have failed, by the grace of God, to have made a lasting and saving impression on the minds of the brave troops about to leave their native land to fight the battles of their Queen and country; to return, we shall trust and pray, crowned with fresh laurels of victory and success; or, it was feelingly observed by the preacher "if the battle field should prove a grave to any having borne in mind and carried with them in their hearts the inspired words of the text, having done their duty, and faithfully fought under the banners of the great captain of their salvation, redeemed from all iniquity a Saviour's blood—they shall rise to the life immortal, crowned with glory and honour the kingdom of heaven; angels rejoicing with them round their Saviour's throne." We cannot help observing that the decorous and marked attention of the Royal Marines during divine service, not only on this interesting occasion, but now for many years has given the greatest gratification to the incumbent, their respected chaplain, and the congregation in general; but has also been noted and mentioned by strangers who hove attended divine service. Our thoughts and prayers on each returning Sabbath will be with them "with all who travel land or water," and we trust and believe that no Sabbath day, either in deep sea or sandy shore, will be passed without thought of the good and gospel advice they have heard at St. Johns, Forton, and that their prayers will ascend to the throne of grace, with those of their anxious chaplain, and distant and wellwishing friends and congregation, at the church St. John, Forton.
 
@@ -209,7 +209,7 @@ A report from later in the year describes the means by which the serving men wer
 
 ```{admonition} Presented with a handsome bible and prayer-book, December 1857
 :class: dropdown
-[Hampshire Telegraph - Saturday 05 December 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18571205/017/0005)
+In *Hampshire Telegraph*, [Saturday 05 December 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18571205/017/0005).
 
 Gosport
 
@@ -229,7 +229,7 @@ That same year, Carus Wilson also preached in support of local schools, and chai
 
 ```{admonition} Two sermons were preached, September 1857
 :class: dropdown
-[Portsmouth Times and Naval Gazette - Saturday 12 September 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18570912/103/0005)
+In *Portsmouth Times and Naval Gazette*, [Saturday 12 September 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18570912/103/0005).
 
 GOSPORT. On Sunday last two sermons were preached by the Rev. W. Carus Wilson, M.A., in the Church of St. John the Evangelist, Forton, in aid of the Infant and Girls' Schools of that district. The sermons were most appropriate, and were listened to with the deepest attention by crowded congregations. Every heart seemed impressed by the saving truths so earnestly delivered to them. The text in the morning was taken from the 5th chapter of St. John, 40th verse, "And ye will not come Me, that ye might have Life." In the evening the text was taken from the 6th chapter of St. John, the latter part of the 37th verse, "And him that cometh unto Me, will in no wise cast out." The collections were most liberal, amounting to £15 8s. The appropriate anthem, from the Collect for the 14th Sunday after Trinity, composed by the late ever to be regretted organist, Mr. Thomas Cooper, was solemnly and sweetly performed by the organist and choristers, as well the usual choral services of the church.
 
@@ -242,7 +242,7 @@ Carus Wilson's support for, and interest in, the lives of the wives and families
 
 ```{admonition} The paramount duty of attending to the wants of the families left behind, August 1857
 :class: dropdown
-[Portsmouth Times and Naval Gazette - Saturday 22 August 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18570822/065/0005)
+In *Portsmouth Times and Naval Gazette*, [Saturday 22 August 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18570822/065/0005).
 
 To the Editor of the Portsmouth Times and Naval Gazette.
 
@@ -266,7 +266,7 @@ On the island, Carus Wilson was also engaged in fundraising for the soldiers' wi
 
 ```{admonition} A public meeting, held at the Victoria-rooms (Ryde), November 1857
 :class: dropdown
-[Isle of Wight Observer - Saturday 07 November 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18571107/009/0003)
+In *Isle of Wight Observer*, [Saturday 07 November 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18571107/009/0003).
 
 At a public meeting, held at the Victoria-rooms, on the 18th September, the Rev. W. Carus Wilson (late rector of Casterton, in Cumberland) stated that a great amount of distress prevailed amongst the families of the British soldiers now on their way to India. His appeal was responded to by a collection of £8 after the meeting, and subsequently by larger contributions at the banks and libraries. A ladies' working party made up materials for clothing for the wives and children of soldiers, of which the cost was £10; a further sum of £3 3s. was expended behalf of the distressed wife and family of a soldier; and balance of £45 0s. 3d. was paid into the Portsmouth bank to the credit of the committee, who are there vigilantly and prudently meeting the wants of the families of our brave soldiers, and so relieving the minds of the gallant men of the heaviest care which could follow to their distant sphere of duty.
 ```
@@ -275,7 +275,7 @@ The following report of the same event is perhaps more noteable for the tone of 
 
 ```{admonition} On (not) raising funds for the benefit of soldiers' wives, September 1857
 :class: dropdown
-[Isle of Wight Observer - Saturday 26 September 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18570926/018/0003)
+In *Isle of Wight Observer*, [Saturday 26 September 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18570926/018/0003).
 
 MEETINGS AT THE VICTORIA ROOMS. A meeting was held (so we understand, as we had no intimation of it sent to our office, and consequently knew nothing of it until it was over) on Friday evening last for the important purpose of assisting the funds raised for the benefit of soldiers' wives, 300 of whom are left behind in Portsmouth alone, to starve upon the Government pittance of sixpence a-day, while their husbands are fighting India, and covering themselves with renown, and renown will be their only reward. The meeting, we believe, was held under the auspices of the Rev. Carus Wilson, the gentleman who created such a sensation in Newport sometime ago upon the question of prostitution amongst soldiers in Parkhurst garrison. Suffice it to say that the organisation of the meeting was a decided failure, the collection after it did not amount to more than about eight pounds; which, after deducting expenses, will leave but little for the object intended. Mr. Wilson's propensity of disregarding public opinion unfortunately not only recoils upon himself but upon those poor miserables who stand in need of help; for is it not preposterous to suppose that £8 is the money representation of the sympathy of Ryde for such a purpose? Why was not the meeting called by requisition to the Chairman of the Ryde Commissioners (the only corporate body we have), and thus made a town affair, and proper advertisements previously issued to acquaint all the influential and wealthy classes of the subject? We should not have made these remarks had we not perceived by the constant complaints of a contemporary that the disregard shewn towards the Press in Ryde must be the result of design; because, as far as we are personally concerned, we take this view: if any individual or body of individuals underrate our influence or impugn our motives, be it so, for it will not hurt us. Nevertheless, after the legitimate channels of information have been neglected, let no surprise arise if barren results follow.
 
@@ -286,14 +286,14 @@ Carus Wilson also seems to have been supportive of community events on the mainl
 
 ```{admonition} Half a pound of tea, and a proportionate quantity of sugar, January 1858
 :class: dropdown
-[Portsmouth Times and Naval Gazette - Saturday 09 January 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18580109/084/0005)
+In *Portsmouth Times and Naval Gazette*, [Saturday 09 January 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18580109/084/0005).
 
 The Rev. Carus Wilson, and the Soldiers' Wives.— On Monday a tea party under the superintendence and the expense of the Rev. Carus Wilson, was given to the wives and children located in Portsmouth, of soldiers serving in India, in the schoolroom of Colewort Barracks. There were between eighty and ninety women, and about 160 children present. After tea, which consisted of a plentiful supply of bread and batter, cake, &c., the rev. gentleman addressed the party in a very kind and appropriate speech, referring particularly to the affairs in India, and exhorting them to put their trust in their best Friend, who is always ready comfort and assist them. On the party breaking up about seven o'clock, Mr. Wilson presented each woman with half a pound of tea, and a proportionate quantity of sugar. One of the women thanked the rev. gentleman for his kindness to them, not only on that occasion, but ever since their husbands left for India, and we are sure no thanks were ever more truly deserved. The band of the Royal Artillery was in attendance, and several ladies and gentlemen were present, amongst others the Rev. E. and Mrs. Milner, the Rev. Mr. Windsor, Sir Harry Varney, Bart, M. P. Mr. Wheatey, Colonel end Mrs. Travers, R.A. Mrs. Ozendon.
 ```
 
 ```{admonition} A New Year's Party to the Soldiers' Wives, January 1858
 :class: dropdown
-[Hampshire Advertiser - Saturday 09 January 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18580109/064/0008)
+In *Hampshire Advertiser*, [Saturday 09 January 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18580109/064/0008).
 
 A New Year's Party to the Soldiers' Wives. — On Monday afternoon a tea party, consisting of all the soldiers' wives whose husbands are serving with the army in India, with their children, numbering in all between eighty and ninety women, and about 160 children, assembled at Portsmouth, at the invitation and expense of the Rev. W. Carua Wilson, in the schoolroom of the Colenut Barracks. Several ladies and gentlemen were present, including the Rev. E. and Mrs. Milner, the Rev. Mr. Windsor, Sir Harry Varney, Bart, M.P. Mr. Wheatly, Colonel and Mrs. Travers, R.A., Mrs. Oxendon, and sundry other influential ladies and gentlemen; the band of the Royal Artillery stationed at Portsmouth attended. About four o'clock the children sat down to tea, and the women about an hour afterwards, each party to a comfortable repast of bread and butter, cake, &c. After tea the Rev. Carus Wilson addressed the party in a speech very appropriate to the occasion, on matters in which they were highly interested, namely, the affairs in India, and exhorted them to turn to their best Friend, who is at all times ready and willing to assist them. The women appeared highly interested, and well satisfied with the discourse of the rev. gentleman, and after enjoying a few airs from the band, they separated about seven o'clock. On parting the Rev. Carus Wilson presented each woman with half a pound of tea and a proportionate quantity of sugar. Mrs. ————, 19th Regiment, on the part of the whole present, rose and returned thanks to the rev. gentleman for the handsome manner in which they had been treated, not only on the present occasion, but ever since they had had the misfortune to be separated from their husbands.
 ```

@@ -8,7 +8,7 @@ Indeed, the need for rebuilding project was a required to save the very soul of 
 
 ```{admonition} Important Vestry Meeting, July, 1848
 :class: dropdown
-[Hampshire Independent - Saturday 01 July 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18480701/104/0008)
+In *Hampshire Independent*, [Saturday 01 July 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18480701/104/0008).
 
 IMPORTANT VESTRY MEETING.
 
@@ -47,7 +47,7 @@ Mr. NICHOLSON enquired if the right of the parishioners to their different sitti
 
 Mr. SEWELL Certainly.
 
-There being neither amendment nor opposition offered the proposition, the CHAIRMAN put tbs question to the meeting, and it was carried unanimously, not a single hand being held up against it in a crowded vestry.
+There being neither amendment nor opposition offered the proposition, the CHAIRMAN put the question to the meeting, and it was carried unanimously, not a single hand being held up against it in a crowded vestry.
 
 Mr. B. Mew expressed himself highly gratified with the novel unanimity of the meeting, and proposed a vote of thanks to the Senior Warden. Mr. Pring, for his kindness.
 
@@ -59,7 +59,7 @@ Eighteen months further on, and a competition was being held for the design of t
 
 ```{admonition} Six of the best designs, December 1849
 :class: dropdown
-[Hampshire Advertiser - Saturday 08 December 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18491208/030/0005)
+In *Hampshire Advertiser*, [Saturday 08 December 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18491208/030/0005).
 
 At a General Meeting or the Subscribers to the New Church, (to replace the old one), held at the Assembly Rooms, on Monday last, six of the best designs were selected, out of which the most suitable one will be chosen by the selecting committee. The number of designs sent for competition has been considerable, and many of them possessing great excellence. Their exhibition, at 1s each, has realised a considerable sum.
 
@@ -71,7 +71,7 @@ Around about the same time — June 1849 — it seems as if the magistrates were
 
 ```{admonition} Calling down the judgment of the Almighty, June 1849
 :class: dropdown
-[Hampshire Telegraph - Saturday 02 June 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18490602/023/0004)
+In *Hampshire Telegraph*, [Saturday 02 June 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18490602/023/0004).
 
 At the Borough Petty Sessions, before the Mayor and Mr. Abraham Clarke, Esq.,—Eliza Lacount, Fanny Castles, Mary Tayler, Ann Gladdis, Emma Kimber, and Caroline Kimber, who had been locked up from the Saturday evening, and others from Sunday, were complained against by Mr. George Grapes, inspector of police, as common prostitutes, and having been found in the streets late at night. The mayor said the magistrates were determined to put down such open and gross vice and immorality. It was enough to call down the judgment of the Almighty, if not attempted to be checked. The court would not deal severely in the present instance, but it was intended as a warning to others and to themselves, if brought again before the court. As the defendants had been locked up a considerable time they would be discharged, with the exception of Emma Kimber, who was intoxicated and fined 5s., and 2s. 6d. costs, or one week's imprisonment.
 
@@ -83,13 +83,13 @@ A couple of months later, the Mayor noted that he "had given instructions to the
 
 ```{admonition} September 1849
 :class: dropdown
-[Hampshire Advertiser - Saturday 29 September 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18490929/020/0003)
+In *Hampshire Advertiser*, [Saturday 29 September 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18490929/020/0003).
 
 Borough Court.— On Monday, before the Major and other magistrates.
 
 A DISORDERLY CHARACTER.
 
-Mary Ann Downer, a very young woman, was charged by Police Constable Cooke with making a great noise, in company with several young men, near the White Hart Inn, Pyie-street.
+Mary Ann Downer, a very young woman, was charged by Police Constable Cooke with making a great noise, in company with several young men, near the White Hart Inn, Pyle-street.
 
 The Policeman stated that he ordered her off, but afterwards found her there, with men, at two o'clock; desired her again to go home; they were all making a great noise; she would not go, and he took her to the station-house; had often seen her out late at night. but never knew her noisy before, and when sober she is always quiet. Whilst the girls were out he could never get the men away.
 
@@ -105,7 +105,7 @@ Perhaps to cope with the "crackdown on vice", it seems several new policeman had
 
 ```{admonition} Two newly-appointed borough policemen charged with being drunk, March 1851
 :class: dropdown
-[Hampshire Advertiser - Saturday 22 March 1851](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18510322/033/0005)
+In *Hampshire Advertiser*, [Saturday 22 March 1851](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18510322/033/0005).
 
 Borough Court.— On Monday, before the Mayor, and R. M. Wavell, esq.
 
@@ -123,7 +123,7 @@ Over the next few years, the fund-raising programme for the new Church went well
 
 ```{admonition} A sermon in aid of rebuilding funds, Bonchurch, June 1853
 :class: dropdown
-[Isle of Wight Observer - Saturday 04 June 1853](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18530604/015/0004)
+In *Isle of Wight Observer*, [Saturday 04 June 1853](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18530604/015/0004).
 
 VENTNOR REPORTER.
 
@@ -135,7 +135,7 @@ By 1854, enough funds had been raised to commit to the rebuilding programme.
 
 ```{admonition} Closing of St. Thomas's Church, July 1854
 :class: dropdown
-[Hampshire Advertiser - Saturday 15 July 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540715/035/0007)
+In *Hampshire Advertiser*, [Saturday 15 July 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540715/035/0007).
 
 Closing of St. Thomas's Church.—
 
@@ -148,7 +148,7 @@ In the center of town, the increasingly dilapidated St. Thomas Church was finall
 ```{admonition} A dilapidated state in 1848, August 1854
 :class: dropdown
 
-[Hampshire Chronicle - Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000231/18540826/053/0005)
+In *Hampshire Chronicle*, [Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000231/18540826/053/0005).
 
 ...
 
@@ -161,7 +161,7 @@ As the *Hampshire Advertiser* of Saturday 05 August, 1854, announced, the founda
 
 ```{admonition} Foundation Stone to be laid, Hampshire Advertiser, August 1854
 
-[Hampshire Advertiser, Saturday 05 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540805/034/0006)
+[Hampshire Advertiser, Saturday 05 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540805/034/0006).
 
 NEWPORT, Saturday, August 5. St. Thomas's Church.— The foundation-stone of the new church is intended to be laid, on the 24th instant, by his Royal Highness Prince Albert. Invites have been sent to the Provincial Grand Master and the Masonic brethren, the authorities of the Island, the members, the Magistrates, Mayor and Corporation, the Bishop of Winchester, the Archdeacon of the Diocese, the Rural Dean, and the clergy of the Island, the officers of the Garrison, &c. and we imagine the sight will be the grandest that we shall have witnessed in the Island for years.
 
@@ -172,7 +172,7 @@ The Mayor hoped the town officials should welcome to the Prince in "a becoming m
 ```{admonition} A becoming manner, August 1854
 :class: dropdown
 
-[Hampshire Advertiser - Saturday 05 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540805/034/0006)
+In *Hampshire Advertiser*, [Saturday 05 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540805/034/0006).
 
 NEWPORT TOWN COUNCIL. [Tuesday, the Mayor, F. Pittis, esq. in the chair]
 
@@ -190,7 +190,7 @@ The Mayor again observed he should be happy to see them all, and the subject dro
 
 ```{admonition} The old church's afters and walls steadily disappearing, August 1854
 :class: dropdown
-[Hampshire Telegraph - Saturday 12 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18540812/011/0004)
+In *Hampshire Telegraph*, [Saturday 12 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18540812/011/0004).
 
 NEWPORT. St. THOMAS'S CHURCH.— The strong rafters and solid walls of the old church give much labour and require strong attacks to move them from their positions occupied for many centuries, but they are fast disappearing and little will remain standing on the 24th instant, when his Royal Highness Prince Albert will lay the foundation-stone of the new edifice. It will be seen by our advertising columns that the Freemasons will add to the procession and ceremony their presence, and the splendour of their costume and regalia.
 
@@ -200,7 +200,7 @@ Advertisements announcement the laying of the foundation stone appeared in the l
 
 ```{admonition} Seats affording a view of the ceremony, August 1854
 :class: dropdown
-[Hampshire Advertiser - Saturday 12 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540812/023/0005?browse=true)
+In *Hampshire Advertiser*, [Saturday 12 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540812/023/0005?browse=true).
 
 NEWPORT, ISLE OF WIGHT
 
@@ -219,7 +219,7 @@ The local Freemasons also made an announcement for a "Provincial Grand Lodge" an
 
 ```{admonition} A Provincial Grand Lodge, August 1854
 :class: dropdown
-[Hampshire Advertiser - Saturday 12 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540812/023/0005?browse=true)
+In *Hampshire Advertiser*, [Saturday 12 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540812/023/0005?browse=true).
 
 FREEMASONRY. — Isle of Wight — Thomas Willis Fleming. esq. Right Worshipful Provincial Grand Master.
 
@@ -239,7 +239,7 @@ A royal connection with the earlier Church buildings was also recalled, in the f
 
 ```{admonition} A rebuke on the practice of burying within the church, August 1854
 :class: dropdown
-[Hampshire Advertiser - Saturday 12 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540812/038/0006?browse=true)
+In *Hampshire Advertiser*, [Saturday 12 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540812/038/0006?browse=true).
 
 NEWPORT, Saturday, August 12.
 
@@ -259,7 +259,7 @@ The weather was not so good the evening before. The wind was blowing a hurricane
 
 ```{admonition} Annual Licensing Day and Borough Court, August 1854
 :class: dropdown
-[Hampshire Advertiser - Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540826/038/0006?browse=true)
+In *Hampshire Advertiser*, [Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540826/038/0006?browse=true).
 
 The Annual Licensing Day was on Wednesday, when thirteen new applications for spirit licenses were made, and eleven of them were granted *instanter*— the others were only adjourned for the purpose of producing the usual certificates of character.
 
@@ -278,7 +278,7 @@ A reasonably concise report of the foundation stone laying event was published i
 
 ```{admonition} Laying the foundation of St. Thomas's Church, August 1854
 :class: dropdown
-[Hampshire Chronicle - Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000231/18540826/053/0005)
+In *Hampshire Chronicle*, [Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000231/18540826/053/0005).
 
 THE HAMPSHIRE AND SOUTHAMPTON COUNTY PAPER.—SATURDAY, AUGUST 26, 1854.
 
@@ -300,7 +300,7 @@ A rather more comprehensive report was given in the *Hampshire Advertiser*.
 
 ```{admonition} Grand Ceremony, August 1854
 :class: dropdown
-[Hampshire Advertiser - Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540826/038/0006?browse=true)
+In *Hampshire Advertiser*, [Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540826/038/0006?browse=true).
 
 NEWPORT, Saturday, August 26.
 
@@ -441,7 +441,7 @@ It was then the turn of the Bishop to Winchester to say the Church prayers.
 
 ```{admonition} The prayers begin
 :class: dropdown
-The Bishop of Winchester then audibly repeated the folowing prayers:—
+The Bishop of Winchester then audibly repeated the following prayers:—
 
 "O, Almighty God, who hast built Thy Church upon the foundation of the apostles and prophets, Jesus Christ himself being the head corner-stone, grant us so to be joined together in unity of spirit by their doctrine, that we may be made an holy temple, acceptable unto Thee, through Jesus Christ our Lord. Amen."
 
@@ -491,7 +491,7 @@ In a Town Hall profusely decorated with flowers and paintings of the new Church.
 
 ```{admonition} The Celebratory Banquet is seated
 :class: dropdown
-[Hampshire Advertiser - Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540826/038/0006?browse=true)
+In *Hampshire Advertiser*, [Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540826/038/0006?browse=true).
 
 The Town Hall was externally covered with evergreens and flowers, while internally the scene was of a magnificent character. At one end, appropriated to the principal guests, was a dais, over which was displayed the banner of Newport, and around the room were hung festoons of laurels and flowers, with devices in dahlias and other flowers. The tables were covered with every delicacy and the choicest wines, the banquet being provided by Messrs. Mew, of the Bugle inn. There were several beautiful paintings adorning the walls, with the designs for the new church, and the fine life-like full-length portrait of the late Sir Leonard Holmes. The tables were bedecked with several massive silver epergnes, cups, and dishes. The Mayor took the chair, supported on his right by the Bishop of Winchester and on the left by General Lord Downes, the Ven. Archdeacon Wigram, Colonel Rumley, Colonel Delacombe, T. W. Fleming, esq. The whole of the clergy of the Island, and amongst the general company were Lieutenant- Colonel Dwyer, Captain Symonds, Lieutenant and Adjutant Driver, Lieutenant Pearse, Lieutenant Taylor, Dr. Wilday, M.D. Commander Adams. Captain Daly, Captain Henries, Captain Scott, Lieutenant Wesley, Captain Gordon, R.M. Lieutenant Manners, Lieutenant Waterworth. Captain Crozier, R.N. Hon. A'Court Holmes, Colonel Harcourt, M.P., Admiral Symonds, Le Marchant Thomas, esq. Sir Henry Oglander, bart. A. J. Hambrough, esq. B. Kerr, esq. L. P. Lind, esq. &c. The principal members of the Corporation, including Messrs. Hearn, Estcourt, Pragnell, Jewell, H. Mew, E. Way, J. Way, &c. were present.
 
@@ -504,7 +504,7 @@ But for some, however, it seems they were not invited to the ball, as the rather
 
 ```{admonition} A spirit of exclusiveness
 :class: dropdown
-[Isle of Wight Observer - Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540826/006/0002)
+In *Isle of Wight Observer*, [Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540826/006/0002).
 
 [SIMILAR REPORT TO ELSEWHERE]
 
@@ -555,7 +555,7 @@ The Mayor said it was certainly, and must be, a memorable day they had passed th
 
 Mr. Alderman Estcourt, after a pause, said as he had been waiting for the senior members of the Corporation to return thanks, he had hesitated to rise. He never, until that day, thoroughly appreciated the honour of belonging to the Corporation, by whose combined action had been gathered such an honourable assembly on that occasion. He returned thanks on behalf of himself and the other members of the Corporation— (cheers).
 
-The Mayor said the next toast was one respecting which he felt some diffidence in approaching. It was the health of the Provincial Grand Master, who had left the room to join in the duties of his lodge, and the Masonic brethren—(cheers). Although these gentlemen kept many things in the dark, some would shine forth; they could see that the brethren visited the fatherless and the widow, relieved the distressed, and came forth in any work which had for its ends the benefit of mankind, and they might therefore conclude that their principles and motives sprung from the purest source— (cheers). He was honoured by their presence and thanked them for their attendance. He gave them the toast of the Masonic brethren, coupling it with the name of Brother Waterworth-(cbeers).
+The Mayor said the next toast was one respecting which he felt some diffidence in approaching. It was the health of the Provincial Grand Master, who had left the room to join in the duties of his lodge, and the Masonic brethren—(cheers). Although these gentlemen kept many things in the dark, some would shine forth; they could see that the brethren visited the fatherless and the widow, relieved the distressed, and came forth in any work which had for its ends the benefit of mankind, and they might therefore conclude that their principles and motives sprung from the purest source— (cheers). He was honoured by their presence and thanked them for their attendance. He gave them the toast of the Masonic brethren, coupling it with the name of Brother Waterworth-(cheers).
 
 Mr. Waterworth acknowledged the toast, and said that although there were many good men in the town who were not Masons, there could not exist a Mason who was not a good man (hear, hear, and cheers). He concluded by returning thanks for the Masonic craft.
 

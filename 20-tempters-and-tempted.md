@@ -4,7 +4,7 @@ As 1855 ended, and 1856 began, work was proceeding well on the new church, if no
 
 ```{admonition} Beautiful new church, now fast developing, January 1856
 :class: dropdown
-[Isle of Wight Mercury - Saturday 05 January 1856](https://britishnewspaperarchive.co.uk/viewer/BL/0001417/18560105/007/0002)
+In *Isle of Wight Mercury*, [Saturday 05 January 1856](https://britishnewspaperarchive.co.uk/viewer/BL/0001417/18560105/007/0002).
 
 The old year, with all its cares and sorrows, its clouds and tempests has passed. We stand on the threshold of a new, and we hope, a brighter and a better one. Newport has made but little improvement or progress, excepting its beautiful new church, now fast developing its elegant proportions and exquisite workmanship. It will be a structure worthy of the capital town of the Isle of Wight, and will reflect honour on the names and memories of those, by whose liberality, zeal, and perseverance, the great work will be accomplished.
 ```
@@ -17,9 +17,9 @@ As well as his evangelical penny tracts, he also seems to have been quite outspo
 
 ```{admonition} Against the new Poor Law, November 1837
 :class: dropdown
-[Westmorland Gazette - Saturday 04 November 1837](https://britishnewspaperarchive.co.uk/viewer/bl/0000399/18371104/027/0004).
+In *Westmorland Gazette*, [Saturday 04 November 1837](https://britishnewspaperarchive.co.uk/viewer/bl/0000399/18371104/027/0004).
 
-*Also appears in [Blackburn Standard - Wednesday 15 November 1837](https://britishnewspaperarchive.co.uk/viewer/bl/0000151/18371115/019/0004) under the title "WORKING OF THE NEW POOR LAW IN THE CASE OF AN AGED FEMALE PAUPER, AT CASTERTON"*.
+*Also appears in In *Blackburn Standard*, [Wednesday 15 November 1837](https://britishnewspaperarchive.co.uk/viewer/bl/0000151/18371115/019/0004) under the title "WORKING OF THE NEW POOR LAW IN THE CASE OF AN AGED FEMALE PAUPER, AT CASTERTON"*.
 
 KENDAL POOR-LAW UNION.
 
@@ -99,7 +99,7 @@ Casterton Hall Kirkby Lonsdale, Oct. 2.
 
 ```{admonition} The Rev. Cornelius William Wilson, M.A., November 1858
 :class: seealso dropdown
-[Portsmouth Times and Naval Gazette - Saturday 27 November 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18581127/089/0005)
+In *Portsmouth Times and Naval Gazette*, [Saturday 27 November 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18581127/089/0005).
 
 Testimonial of Respect to the Rev. C. W. Wilson, M.A. There are probably few of the inhabitants of Cowes, of whatever sect or denomination, who will not gratefully acknowledge the good which the town at large has derived from the untiring and active exertions of the Rev. C. W. Wilson during his ministration of three years among us as Curate of St. Mary's. The rev. gentleman, having been presented by the Bishop of Winchester with the perpetual curacy of Northam near Southampton, has this week left us to enter upon his new charge; albeit rejoicing at his good fortune, we cannot avoid expressing our hearty regret that any circumstance should have occurred to compel him to leave us. His many acts of charity; his indefatigable industry in establishing the night-schools for the working classes; his instrumentality in obtaining from Mr. Ward the grant of a field for public recreation, and his many other deeds of public usefulness have combined to render him deservedly popular, and with this feeling the inhabitants have subscribed together for the purchase of a silver salver of the value of £50 which has this week been presented to him by a deputation appointed for the purpose. The salver bears the following inscription :—" Presented to the Rev. Cornelius William Wilson, M.A., by the inhabitants of West Cowes in the Isle of Wight on the 24th day of November, 1858, as an affectionate token of their esteem, and appreciation of his many excellent qualities both as a Christian minister and a resident, ever ready to alleviate the sufferings of the distressed and to promote the education, happiness and comfort of the poor."
 ```
@@ -113,14 +113,14 @@ A sample of articles about *this* Revd. Wilson shows the apparently universal hi
 
 ```{admonition} The National Schools, December 1855
 :class: dropdown
-[Portsmouth Times and Naval Gazette - Saturday 22 December 1855](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18551222/087/0005)
+In *Portsmouth Times and Naval Gazette*, [Saturday 22 December 1855](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18551222/087/0005).
 
 The National Schools. — Through the active and benevolent exertions of the Rev. Mr. Wilson, our respected curate, the debt, which had been for years suffered to accumulate on this useful institution, has been reduced to an almost nominal amount, and we may henceforth hope to see its sphere usefulness extended, and its financial condition prosperous. Mr. Wilson's exertions are the more be commended as he is a late comer amongst us.
 ```
 
 ```{admonition} Popular Education, but..., October 1856
 :class: dropdown
-[Portsmouth Times and Naval Gazette - Saturday 25 October 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18561025/062/0004)
+In *Portsmouth Times and Naval Gazette*, [Saturday 25 October 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18561025/062/0004).
 
 COWES. Popular Education.— We ere exceedingly gratified to learn that our respected curate, the Rev. Mr. Wilson, with the assistance of two or three well meaning gentlemen, has set on foot a plan by which it is proposed, at a nominal cost to the scholars, to afford the rudiments of ordinary education to all those of the working classes who desire to receive it. Reading, writing, and arithmetic, will be the principal branches of study at first, and such other elements of education as may be found advantageous, will be afterwards introduced. We receive the announcement of this forward movement with pleasure, and trust it will have the desired effect, but we have experienced so much of the supineness and ingratitude of the class for whose benefit it is mainly designed, that we almost despair of seeing good result from any efforts, however disinterested.
 
@@ -128,21 +128,21 @@ COWES. Popular Education.— We ere exceedingly gratified to learn that our resp
 
 ```{admonition} Preaching in the afternoon, May 1857
 :class: dropdown
-[Hampshire Telegraph - Saturday 23 May 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18570523/011/0004)
+In *Hampshire Telegraph*, [Saturday 23 May 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18570523/011/0004).
 
 Sermons are to be preached to-morrow (Sunday) at Carisbrooke Church in aid of the funds of the National School is established in this parish. The Rev. E. McAll, M.A., Rector of Brighston, preaches in the morning, and the Rev. W. C. Wilson, Curate of Cowes, in the afternoon.
 ```
 
 ```{admonition} Night Schools for the labouring classes, November 1857
 :class: dropdown
-[Portsmouth Times and Naval Gazette - Saturday 07 November 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18571107/069/0005)
+In *Portsmouth Times and Naval Gazette*, [Saturday 07 November 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18571107/069/0005).
 
 The Night Schools for the labouring classes, which were established in this town last winter, mainly by the exertions of the Rev. W. C. Wilson, have been again opened, through the indefatigable efforts of the same respected gentlemen. Whether the end sought will be really attained or not is to be proved by the future, but Mr. Wilson, during his residence among us, has effected a vast amount of good, and by his benevolence and affability has endeared himself to all classes. We heartily wish there were more such reverend gentlemen in the Church of England; there is plenty of work for them. 
 ```
 
 ```{admonition} Roast beef and plum pudding, January 1858
 :class: dropdown
-[Portsmouth Times and Naval Gazette - Saturday 30 January 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18580130/052/0005)
+In *Portsmouth Times and Naval Gazette*, [Saturday 30 January 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18580130/052/0005).
 
 COWES
 
@@ -152,7 +152,7 @@ The Marriage of H.R.H. the Princess Royal. — In celebration of this auspicious
 
 ```{admonition} Charitable and Christian kindness to all, November 1858
 :class: dropdown
-[Hampshire Advertiser - Saturday 20 November 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18581120/083/0012)
+In *Hampshire Advertiser*, [Saturday 20 November 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18581120/083/0012).
 
 COWES
 
@@ -169,7 +169,7 @@ He originally *applied for ordination to the Bishop of Chester*, but *was reject
 
 ```{admonition} Preferment to the rectory of Whittington, June 1825
 :class: dropdown
-[Baldwin's London Weekly Journal - Saturday 11 June 1825](https://britishnewspaperarchive.co.uk/viewer/bl/0002243/18250611/015/0001)
+In *Baldwin's London Weekly Journal*, [Saturday 11 June 1825](https://britishnewspaperarchive.co.uk/viewer/bl/0002243/18250611/015/0001).
 
 PREFERMENTS
 
@@ -212,7 +212,7 @@ The Profits will be devoted to charitable purposes.
 It seems he was also not averse to publishing to his local community.
 
 ```{admonition} Just published, A sermon, October 1825
-[Westmorland Gazette - Saturday 01 October 1825](https://britishnewspaperarchive.co.uk/viewer/bl/0000399/18251001/027/0001)
+In *Westmorland Gazette*, [Saturday 01 October 1825](https://britishnewspaperarchive.co.uk/viewer/bl/0000399/18251001/027/0001).
 
 JUST PUBLISHED,  
 Price One Shilling,  
@@ -230,7 +230,7 @@ Sermons, Two Volumes, price 10s.— The Friendly Visitor and Children's Friend, 
 In 1820, he established a School for Training Servants and Teachers, and followed this a few years later by founding a school for the daughters of clergymen.
 
 ```{admonition} Clergyman's Daughters School Proposal, October 1823
-[Westmorland Gazette - Saturday 25 October 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0000399/18231025/007/0003)
+In *Westmorland Gazette*, [Saturday 25 October 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0000399/18231025/007/0003).
 
 Clergyman's Daughters.— A Society is forming Lancaster, whose object is to establish a school, upon an extensive scale, the education at a cheap rate of the daughters of Clergymen whose livings do not afford the means of provision for their families. The chief mover in this benevolent undertaking is the Rev. W. Carus Wilson, vicar of Tunstal.
 ```
@@ -277,7 +277,7 @@ In the first place, he objected to the way in which the tract appeared to have b
 
 ```{admonition} No ordinary feelings of indignation, Saturday 09 February 1856
 :class: dropdown
-[Isle of Wight Mercury - Saturday 09 February 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560209/015/0005)
+In *Isle of Wight Mercury*, [Saturday 09 February 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560209/015/0005).
 
 The Mayor rose, and said, that he should not be doing justice to his own feelings or to the town if he did not bring before the Council the gross insult which had been cast on them by the address, the Tempter and Tempted, written, it was said, by a gentleman lately come to reside there, the Rev. Carus Wilson, and it was with no ordinary feelings of indignation that he found the beastly tract had been taken to his house, and was in the hands of his family and female domestics; could any honest man, could any father of a family avoid feeling grieved that such gross accounts of vice should be brought to defile the minds of young persons? He was more astonished and indignant to find that copies had been delivered to the children at the Sunday schools, and the National schools. He hoped the British schools had escaped the pollution. He considered these females who distributed such a work and placed them in the hands of children a disgrace to their sex. He regretted that these meddling troublesome fellows who were interfering where they had no connection with the town, and he should have thought that Mr. Smith might have found other ditties for which he was paid by the Treasury, rather than interfering with the town of Newport.
 
@@ -317,7 +317,7 @@ Another report of the same meeting seemed to lay the authorship of the tract at 
 
 ```{admonition} The Reported Immoral State of the Inhabitants of Newport, February 1856
 :class: dropdown
-[Hampshire Advertiser - Saturday 09 February 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560209/049/0007)
+In *Hampshire Advertiser*, [Saturday 09 February 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560209/049/0007).
 
 NEWPORT, Saturday, February 9.
 
@@ -336,7 +336,7 @@ In a report a week later, it seems that the Revd. Henry Smith was *not* so keen 
 
 ```{admonition} The Meeting of last week and the Tabooed Tract, February 1856
 :class: dropdown seealso
-[Hampshire Advertiser - Saturday 16 February 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18560216/046/0007)
+In *Hampshire Advertiser*, [Saturday 16 February 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18560216/046/0007).
 
 The Meeting of last week and the Tabooed Tract.—
 
@@ -404,7 +404,7 @@ A third report of the meeting covers much the same ground as the previous two.
 
 ```{admonition} The Mayor defends Newport, Saturday 09 February 1856
 :class: dropdown
-[Hampshire Telegraph - Saturday 09 February 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18560209/013/0004)
+In *Hampshire Telegraph*, [Saturday 09 February 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18560209/013/0004).
 
 MEETING OF THE NEWPORT TOWN COUNCIL.
 
@@ -444,7 +444,7 @@ The letter was duly written, but rather than the hoped for retraction, is seems 
 
 ```{admonition} A reply to letter of the Mayor, February 1856
 :class: dropdown
-[Hampshire Telegraph - Saturday 23 February 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18560223/014/0004)
+In *Hampshire Telegraph*, [Saturday 23 February 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18560223/014/0004).
 
 In consequence of the resolution of the Newport Town Council, J. H.Hearn, Esq., Mayor, wrote a letter of remonstrance to Rev. Carus Wilson, denying the truth of the charges brought against the morality of the Borough in his tract "The Tempters and Tempted." Large bills arrived in Newport from Ventnor on Thursday, announcing a reply to letter of the Mayor, to be sold at 2d. each, in which there is not only no retraction of the former scandal, but additional invectives and personal charges. We understand that legal proceedings will be taken forthwith against Mr. Wilson, and a caution has been issued by Mr. James Eldridge, Town Clerk, that the pamphlet entitled "A Letter to the Mayor of Newport," contains a libel, and any person distributing or otherwise publishing such Pamphlet will be prosecuted.
 ```
@@ -453,7 +453,7 @@ Adverts publicising the sale of the letter were also published.
 
 ```{admonition} Just Published, A Letter to the Mayor of Newport, February 1856
 :class: dropdown
-[Hampshire Advertiser - Saturday 23 February 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560223/002/0008)
+In *Hampshire Advertiser*, [Saturday 23 February 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560223/002/0008).
 
 Just Published
 
@@ -470,7 +470,7 @@ That same week, Carus Wilson could be found attending a meeting of the Protestan
 ```{admonition} One of the most interesting meetings ever held in Ventnor, February 1856
 :class: dropdown
 
-[Isle of Wight Observer - Saturday 23 February 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18560223/009/0003)
+In *Isle of Wight Observer*, [Saturday 23 February 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18560223/009/0003).
 
 Protestant Reformation Society.— A public meeting in behalf this society was held at the Institution on Tuesday evening, the Rev. J. N. Coleman in the chair. The meeting was opened by prayer by the Rev. W. Carus Wilson. The first speaker was the Rev. M. Clementson, the secretary, who stated the objects of the society. The Rev. Dr. Cumming, in his usual talented manner, spoke at a considerable length, and greatly interested the audience. The next speaker was the Rev. J. Rogers, of the Irish Church Missionary Society, followed by the Rev. W. Carus Wilson, who closed the meeting. This was one of the most interesting meetings ever held in Ventnor, and the room was crowded to excess. The next morning another meeting was held at the same place, for the same object, and the meeting was equally interesting and well attended. Sunday next sermons will preached in behalf of the same society by the Rev. M. Clementson, at Ventnor Church in the morning and evening, and at Bonchurch Church in the afternoon. 
 
@@ -480,7 +480,7 @@ From a debate a week later on the question of maintaining the Sabbath and the ap
 
 ```{admonition} An institution for spy purposes, February 1856
 :class: dropdown
-[Hampshire Advertiser - Saturday 23 February 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18560223/040/0007)
+In *Hampshire Advertiser*, [Saturday 23 February 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18560223/040/0007).
 
 Mr. Robert Pinnock ... Their Chairman had referred to Mr. Eldridge's mayoralty, to which he wished to add a rider. On the occasion of one of his Corporation processions to Church, a poor man who had been walking from the country on that very Sunday, and was dry and dusty, procured half-a-pint of beer from a neighbour of his, who kept the Crispin public-house in the town, at a forbidden time of the day according to the law, which had just then been altered in it a opening and closing regulations; and the next day the landlord was brought before Mr. Eldridge and other magistrates and fined 7s 6d for this grave offence, although he pleaded that he was not aware of the alteration of the law in question— (uproar); bui the Mayor and his party could retire to his house and drink their wine and enjoy the repast spread for them on that day, and yet be held blameless— (cries of "shame!") He merely mentioned the fact by contrast, to show how the law oftener bears down on the poor man than on the rich.
 
@@ -502,7 +502,7 @@ From the Petty Sessions of Monday, February 25th, 1856, we get the sense that so
 
 ```{admonition} No one appearing to prosecute, March 1856
 :class: dropdown
-[Hampshire Advertiser - Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560301/045/0007)
+In *Hampshire Advertiser*, [Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560301/045/0007).
 
 BOROUGH COURT. Monday.— Magistrates present: The Mayor, and Thomas Cooke, esq.
 
@@ -512,7 +512,7 @@ BOROUGH COURT. Monday.— Magistrates present: The Mayor, and Thomas Cooke, esq.
 
 ```{admonition} Arrested for selling the letter of the Rev. W. Carus Wilson, March 1856
 :class: dropdown
-[Isle of Wight Mercury - Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560301/027/0005)
+In *Isle of Wight Mercury*, [Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560301/027/0005).
 
 BOROUGH PETTY SESSIONS, Monday Feb. 25
 
@@ -526,7 +526,7 @@ A little more detail about why the initial arrest appears to have been made can 
 
 ```{admonition} A caution signed by Mr. Eldridge, Town Clerk, March 1856
 :class: dropdown
-[Hampshire Telegraph - Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18560301/012/0004)
+In *Hampshire Telegraph*, [Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18560301/012/0004).
 
 At the Borough Petty Sessions, on Monday, before the Mayor, Thomas Cooke, and Edward Way, Esqrs.
 

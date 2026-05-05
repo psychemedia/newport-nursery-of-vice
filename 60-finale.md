@@ -6,7 +6,7 @@ One mention we do find depicts him to be in a somewhat curmudgeonly frame of min
 
 ```{admonition} The astonishment of the Board at so uncourteous a letter, February 1859
 :class: dropdown
-[Isle of Wight Observer - Saturday 12 February 1859](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18590212/015/0004)
+In *Isle of Wight Observer*, [Saturday 12 February 1859](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18590212/015/0004).
 
 VENTNOR
 
@@ -28,7 +28,7 @@ Later that year, a death notice appears for his printer in Ventnor, Mr. Thomas B
 
 ```{admonition} With painful feelings, October 1859
 :class: dropdown
-[Isle of Wight Observer - Saturday 15 October 1859](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18591015/016/0004)
+In *Isle of Wight Observer*, [Saturday 15 October 1859](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18591015/016/0004).
 
 Ventnor
 
@@ -41,7 +41,7 @@ In November, 1859, W. Carus Wilson's wife of almost fifty years died at her home
 
 ```{admonition} At Eglinton House, Ventnor, November 1859
 :class: dropdown
-[Hampshire Telegraph - Saturday 19 November 1859](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18591119/035/0005)
+In *Hampshire Telegraph*, [Saturday 19 November 1859](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18591119/035/0005).
 
 DEATHS
 
@@ -52,7 +52,7 @@ The *Isle of Wight Observer* offers a different date — and gets the name wrong
 
 ```{admonition} On the 11th inst., at Ventnor, November 1859
 :class: dropdown
-[Isle of Wight Observer - Saturday 19 November 1859](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18591119/033/0004)
+In *Isle of Wight Observer*, [Saturday 19 November 1859](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18591119/033/0004).
 
 DIED.
 
@@ -63,7 +63,7 @@ On the 11th inst., at Ventnor, Mary, wife of the Rev. Carus Wilson, aged 70 year
 And then, as so often happens with couples that have lived closely together, and nursed each other through old age, Revd. W. W. Carus Wilson died, at the very end of the year, in London, just six weeks after the death of his own dear wife.
 
 ```{admonition} On the 30th ult., January 1860
-[Isle of Wight Observer - Saturday 07 January 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18600107/029/0004)
+In *Isle of Wight Observer*, [Saturday 07 January 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18600107/029/0004).
 
 Died.
 
@@ -72,7 +72,7 @@ On the 30th ult., at 20, Montague-place, Russell-square, the Rev. William Carus 
 
 ```{admonition} At 20, Montagu-place, Russell-square, January 1860
 :class: dropdown
-[Hampshire Telegraph - Saturday 07 January 1860](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18600107/021/0005)
+In *Hampshire Telegraph*, [Saturday 07 January 1860](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18600107/021/0005).
 
 DEATHS
 
@@ -80,13 +80,14 @@ WILSON— On the 30th ult., at 20, Montagu-place, Russell-square, the Rev. Willi
 ```
 
 ![THE LATE REV. W. CARUS WILSON, MA. (THE SOLDIER'S FRIEND)](images/carus_soldiers_friend.png)
-THE LATE REV. W. CARUS WILSON, MA. (THE SOLDIER'S FRIEND)
+
+THE LATE REV. W. CARUS WILSON, MA. (THE SOLDIER'S FRIEND).
 
 A fitting epitaph honoring his works appeared shortly after, reprinted from the *Dublin Daily Express*.
 
 ```{admonition} A venerable servant of God, January 1860
 :class: dropdown
-[Portsmouth Times and Naval Gazette - Saturday 21 January 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18600121/053/0006)
+In *Portsmouth Times and Naval Gazette*, [Saturday 21 January 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18600121/053/0006).
 
 THE LATE REV. CARUS WILSON
 
@@ -132,7 +133,7 @@ Not quite two years later, a memorial to the Revd. W. Carus Wilson was placed in
 
 ```{admonition} The late Carus Wilson, October 1861
 :class: dropdown
-[Isle of Wight Observer - Saturday 26 October 1861](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18611026/020/0003)
+In *Isle of Wight Observer*, [Saturday 26 October 1861](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18611026/020/0003).
 
 NEWPORT
 
@@ -150,7 +151,7 @@ The following articles tells of coming across the story via a short work on **Th
 
 ```{admonition} Portsmouth Link With The Brontes
 :class: dropdown
-[Hampshire Telegraph - Friday 04 September 1959](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001973/19590904/055/0004)
+[Hampshire Telegraph - Friday 04 September 1959](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001973/19590904/055/0004).
 
 Portsmouth Link With The Brontes
 
@@ -202,7 +203,7 @@ Though this reverend gentleman's theology was harsh, and though he employed a ba
 ```{admonition} As the expense of postage is heavy, June 1864
 :class: dropdown
 
-*The Children's Friend*, June 1, 1864, [pp. 95-6](https://books.google.co.uk/books?id=YR0FAAAAQAAJ&pg=RA3-PA96)
+*The Children's Friend*, June 1, 1864, [pp. 95-6](https://books.google.co.uk/books?id=YR0FAAAAQAAJ&pg=RA3-PA96).
 
 REV. W. CARUS WILSON. MA.
 

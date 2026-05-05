@@ -6,7 +6,7 @@ But in the streets and lanes around St. Thomas Square, as we have already seen, 
 
 ```{admonition} Loitering and fighting, September 1855
 :class: dropdown
-[Isle of Wight Observer - Saturday 08 September 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550908/009/0003)
+In *Isle of Wight Observer*, [Saturday 08 September 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550908/009/0003).
 
 Borough sessions.
 
@@ -22,7 +22,7 @@ Fanny Gutteridge, Martha Linnington, and Martha Denness, three common prostitute
 
 ```{admonition} Loitering with a soldier, September, 1855
 :class: dropdown
-[Hampshire Advertiser - Saturday 08 September 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550908/030/0007)
+In *Hampshire Advertiser*, [Saturday 08 September 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550908/030/0007).
 
 BOROUGH COURT. Monday.— Magistrates present:- R. M. Wavell, and E Way, esqrs.
 
@@ -32,7 +32,7 @@ A girl of loose character, named Jane Snudden, was brought up by Police constabl
 
 ```{admonition} An unfortunate young woman, stealing a beer-glass, September 1855
 :class: dropdown
-[Portsmouth Times and Naval Gazette - Saturday 29 September 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001365/18550929/073/0004)
+In *Portsmouth Times and Naval Gazette*, [Saturday 29 September 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001365/18550929/073/0004).
 
 County Petty Sessions, Saturday.— Before Captain Hamond, R.N. (Chairman). Captain Kerr, A. J. Hamborough, and F. W. Popham, Esqs.
 
@@ -42,7 +42,7 @@ Jane Snudden, an unfortunate young woman, was charged with stealing a beer-glass
 
 ```{admonition} Attempting a rescue, October 1855
 :class: dropdown
-[Hampshire Advertiser - Saturday 13 October 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18551013/039/0007)
+In *Hampshire Advertiser*, [Saturday 13 October 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18551013/039/0007).
 
 NEWPORT
 
@@ -66,7 +66,7 @@ The following report suggests some confusion in the reporting of names.
 
 ```{admonition} Hard labour for being drunk and creating a disturbance, October 1855
 :class: dropdown
-[Isle of Wight Observer - Saturday 13 October 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18551013/010/0003)
+In *Isle of Wight Observer*, [Saturday 13 October 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18551013/010/0003).
 
 BOROUGH SESSIONS.— Before R. M. Wavell, esq., and Thomas Cooke.
 
@@ -75,7 +75,7 @@ Fanny Vince was fined 5s. and 5s. costs, and in default committed for 14 days to
 
 ```{admonition} Drunk and riotous, November 1855
 :class: dropdown
-[Hampshire Advertiser - Saturday 17 November 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18551117/052/0007)
+In *Hampshire Advertiser*, [Saturday 17 November 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18551117/052/0007).
 
 NEWPORT
 
@@ -91,7 +91,7 @@ Despite being assaulted, it seems that working girls could well be prosecuted al
 
 ```{admonition} A batch of disorderlies, December 1855
 :class: dropdown
-[Hampshire Advertiser - Saturday 15 December 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18551215/048/0008)
+In *Hampshire Advertiser*, [Saturday 15 December 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18551215/048/0008).
 
 ISLE OF WIGHT PETTY SESSIONS. BOROUGH COURT.
 
@@ -119,7 +119,7 @@ It's not clear what we can read into their assertion that *"they are not seeking
 
 ```{admonition} Appeal to Newport magistrates, October, 1855
 :class: dropdown
-[Isle of Wight Observer - Saturday 06 October 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18551006/013/0003)
+In *Isle of Wight Observer*, [Saturday 06 October 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18551006/013/0003).
 
 During the last week a deputation, consisting of the clergymen of St. Thomas' Church, the ministers of the different dissenting congregations and others, presented the following memorial to the magistrates at the Townhall respecting the social condition of the borough, in the hope that means may be taken to prevent a continuation the present exhibition of indecency and open prostitution which now disgrace its thoroughfares :—
 
@@ -147,7 +147,7 @@ The editors of the Hampshire Advertiser, apparently against their better judgmen
 
 ```{admonition} *The Retrograding State of Morals in Newport*, Hampshire Advertiser, Saturday 06 October 1855
 :class: dropdown
-[Hampshire Advertiser - Saturday 06 October 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18551006/038/0007)
+In *Hampshire Advertiser*, [Saturday 06 October 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18551006/038/0007).
 
 Newport, Saturday, October 6.
 

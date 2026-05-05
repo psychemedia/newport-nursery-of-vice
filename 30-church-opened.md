@@ -4,14 +4,14 @@ Hopeful of the new St. Thomas' Church being completed before the Advent season o
 
 ```{admonition} Church opening postponed, November 1856
 :class: dropdown
-[Hampshire Advertiser - Saturday 01 November 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18561101/057/0008)
+In *Hampshire Advertiser*, [Saturday 01 November 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18561101/057/0008).
 
 NEWPORT, Saturday, Nov. 1. The Reopening of St. Thomas's Church. is postponed for a fortnight, in consequence of the elaborate nature of the work connected with the erection of the pulpit and reading-desk, and some other parts of the interior; but Mr. Dashwood, the builder, has guaranteed that the edifice shall be ready for consecration by the 11th of December next; so that it will now be about Monday, the 15th, that the consecration will take place, subject to arrangements of the Bishop of Winchester as to the day.
 ```
 
 ```{admonition} Consecration date postponed, November 1856
 :class: dropdown
-[Isle of Wight Observer - Saturday 08 November 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18561108/015/0003)
+In *Isle of Wight Observer*, [Saturday 08 November 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18561108/015/0003).
 
 St. Thomas's Church.— The consecration of this beautiful edifice, which was to have taken place the 25th inst., is postponed for another fortnight, in consequence the elaborate nature of the work to be completed rendering it impossible to be advanced sufficiently far before that time. 
 
@@ -22,7 +22,7 @@ Even with a fortnight's delay, it seems the Church was still not ready. And so a
 ```{admonition} Opening of the new Church, December 1856
 :class: dropdown
 
-[Isle of Wight Mercury - Saturday 20 December 1856](https://www.britishnewspaperarchive.co.uk/viewer/BL/0001417/18561220/032/0004?browse=true)
+In *Isle of Wight Mercury*, [Saturday 20 December 1856](https://www.britishnewspaperarchive.co.uk/viewer/BL/0001417/18561220/032/0004?browse=true).
 
 On Sunday, the 21st init., the new church of St. Thomas will be opened for Divine service, by license of the Lord Bishop of the diocese. The Rev. E. Mc All, Rector of Brighstone, and Rural Dean, will preach in the morning; the Rev. G. Prothero, of Whippingham, chaplain to Her Majesty, in the afternoon; and the Rev. G. H. Connor, M.A., Minister of St. Thomas's, in the evening. Great commendation is due to the Committee and all who have assisted in bringing this great work so near completion, as nothing but untiring zeal, great perseverance, much industry, and an indomitable determination to overcome difficulties could have succeeded in the vast undertaking. Newport has now a Metropolitan Church, worthy of the capital of the late of Wight, a pride and ornament to the borough, and a proof of the denoted attachment of the inhabitants to the church of their forefathers.
 
@@ -32,7 +32,7 @@ Another month was to pass, and then the church was consecrated at the end of Jan
 
 ```{admonition} Consecration of St. Thomas' Church, January 1857
 :class: dropdown
-[Hampshire Advertiser - Saturday 24 January 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18570124/050/0007)
+In *Hampshire Advertiser*, [Saturday 24 January 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18570124/050/0007).
 
 CONSECRATION OF ST. THOMAS'S CHURCH.
 
@@ -49,7 +49,7 @@ The following, more comprehensive, report, poetically describes how Churches lin
 
 ```{admonition} Consecration of the Church of St. Thomas, January 1857
 :class: dropdown
-[Isle of Wight Mercury - Saturday 24 January 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570124/020/0003)
+In *Isle of Wight Mercury*, [Saturday 24 January 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570124/020/0003).
 
 CONSECRATION THE CHURCH OF ST. THOMAS.
 
@@ -117,6 +117,6 @@ The Morning Service was then read most impressively by the Rev. G. H. Connor, M.
 ```{admonition} The Sermon
 :class: seealso
 
-The sermon preached at the consecration service can be found in the *Isle of Wight Mercury*, dated [Saturday 24 January 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570124/020/0003)
+The sermon preached at the consecration service can be found in the *Isle of Wight Mercury*, dated [Saturday 24 January 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570124/020/0003).
 
 ```

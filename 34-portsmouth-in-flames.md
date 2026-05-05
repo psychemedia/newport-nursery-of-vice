@@ -14,7 +14,7 @@ See the full tract in the Appendix.
 
 ```{admonition} Portsmouth in Flames, January 1857
 :class: dropdown
-[Hampshire Telegraph - Saturday 17 January 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18570117/017/0005)
+In *Hampshire Telegraph*, [Saturday 17 January 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18570117/017/0005).
 
 PORTSMOUTH IN FLAMES!
 
@@ -25,7 +25,7 @@ We do not see that Mr. Wilson attributes a larger amount of crime and vice to th
 
 ```{admonition} A great imbecility of argument, January 1857
 :class: dropdown
-[Portsmouth Times and Naval Gazette - Saturday 24 January 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18570124/044/0005)
+In *Portsmouth Times and Naval Gazette*, [Saturday 24 January 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18570124/044/0005).
 
 "PORTSMOUTH IN FLAMES," BY THE REV. W. CARUS WILSON, M.A. [COMMUNICATED.]
 
@@ -59,7 +59,7 @@ A couple of years later, in June 1859, an encounter with the pamphlet is precede
 
 ```{admonition} Irreverence, June 1859
 :class: dropdown
-[Westmorland Gazette - Saturday 11 June 1859](https://britishnewspaperarchive.co.uk/viewer/bl/0000399/18590611/008/0003)
+In *Westmorland Gazette*, [Saturday 11 June 1859](https://britishnewspaperarchive.co.uk/viewer/bl/0000399/18590611/008/0003).
 
 MISCELLANEA
 

@@ -8,9 +8,9 @@ https://archive.org/details/acollectionpubl19britgoog/page/n556/mode/2up
 See: Parkhurst Prison Act, 1838,1 & 2 Vict., ch. 82
 
 ---
-https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18430415/018/0003
 
-Hampshire Advertiser - Saturday 15 April 1843
+
+In *Hampshire Advertiser*, [Saturday 15 April 1843](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18430415/018/0003),
 
 NEWPORT, APRIL 15. Convict Discipline. — In compliance with a return moved for in the House of Commons, for copies of correspondence on the subject of convict discipline, the following letter was laid on the table, addressed by Sir James Graham to the Committee of Visitors of Parkhurst Prison —
 
@@ -138,7 +138,7 @@ MEETING OF MIDDLESEX MAGISTRATES. A meeting of justices of the county of Middles
 
 
 
-[Globe - Wednesday 07 January 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001652/18460107/030/0004)
+In *Globe*, [Wednesday 07 January 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001652/18460107/030/0004).
 
 TO DO
 

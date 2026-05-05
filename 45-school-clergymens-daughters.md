@@ -15,7 +15,7 @@ A look at the sign as you enter the hamlet today shows the spelling today to be 
 ```{admonition} School for Clergymen's Daughters, November 1823
 :class: dropdown
 
-[Lancaster Gazette - Saturday 22 November 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18231122/007/0003) and widely syndicated in other local papers.
+In *Lancaster Gazette*, [Saturday 22 November 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18231122/007/0003) and widely syndicated in other local papers.
 
 SCHOOL FOR CLERGYMEN'S DAUGHTERS.
 
@@ -51,7 +51,7 @@ Though the school continued, its physical location changed in 1835, with a move 
 
 ```{admonition} Consecration of Casterton Chapel, October 1833
 :class: dropdown
-[Lancaster Gazette - Saturday 12 October 1833](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18331012/009/0003)
+In *Lancaster Gazette*, [Saturday 12 October 1833](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18331012/009/0003).
 
 CONSECRATION OF CASTERTON CHAPEL
 
@@ -77,7 +77,7 @@ Despite the improved location, and increased school roll, it seems the move may 
 ```{admonition} Assessed taxes, February 1835
 :class: dropdown
 
-[Kendal Mercury - Saturday 28 February 1835](https://britishnewspaperarchive.co.uk/viewer/bl/0000429/18350228/010/0004)
+In *Kendal Mercury*, [Saturday 28 February 1835](https://britishnewspaperarchive.co.uk/viewer/bl/0000429/18350228/010/0004).
 
 ASSESSED TAXES.—WESTMORLAND.
 
@@ -266,7 +266,7 @@ Whilst Charlotte's sisters did not die at the school, it seems that deaths there
 
 ```{admonition} After a few days' illness, September 1829
 :class: dropdown
-[Worcester Journal - Thursday 10 September 1829](https://britishnewspaperarchive.co.uk/viewer/bl/0000150/18290910/012/0003)
+In *Worcester Journal*, [Thursday 10 September 1829](https://britishnewspaperarchive.co.uk/viewer/bl/0000150/18290910/012/0003).
 
 DIED
 

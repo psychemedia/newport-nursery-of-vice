@@ -12,7 +12,7 @@ A character that appears from the 1830s and into the 1850s, often around the win
 
 ```{admonition} Epiphany Sessions, Patience Adams, January 1834
 :class: dropdown
-[Hampshire Advertiser - Saturday 11 January 1834](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18340111/024/0003)
+In *Hampshire Advertiser*, [Saturday 11 January 1834](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18340111/024/0003).
 
 NEWPORT.
 
@@ -24,7 +24,7 @@ Patience Adams, aged 42, charged with having stolen a bed, the property of Marth
 
 ```{admonition} Two old offenders stealing turnips, December 1835
 :class: dropdown
-[Hampshire Advertiser - Saturday 12 December 1835](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18351212/020/0003)
+In *Hampshire Advertiser*, [Saturday 12 December 1835](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18351212/020/0003).
 
 At our Petty Sessions, on Saturday last, Repentance Adams, and Jane Wheeler, two old offenders, were sentenced to 14 days in the House of Correction, for stealing turnips from Fairlee.
 
@@ -32,7 +32,7 @@ At our Petty Sessions, on Saturday last, Repentance Adams, and Jane Wheeler, two
 
 ```{admonition} Stealing a mat, December 1838
 :class: dropdown
-[Hampshire Telegraph - Monday 10 December 1838](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18381210/022/0004)
+In *Hampshire Telegraph*, [Monday 10 December 1838](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18381210/022/0004).
 
 Repentance Adams, an old offender, was committed to Winchester to take her trial, for stealing a mat from the door of Mr. Minns, dyer, at Newport.
 
@@ -40,7 +40,7 @@ Repentance Adams, an old offender, was committed to Winchester to take her trial
 
 ```{admonition} Peeking out from under her apron, December 1838
 :class: dropdown
-[Hampshire Independent - Saturday 08 December 1838](https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18381208/034/0003)
+In *Hampshire Independent*, [Saturday 08 December 1838](https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18381208/034/0003).
 
 Borough Court.
 
@@ -49,7 +49,7 @@ An old offender, under the singular but inappropriate cognomen of *Repentance* A
 
 ```{admonition} Committed to the County Gaol, December 1838
 :class: dropdown
-[Salisbury and Winchester Journal - Monday 10 December 1838](https://britishnewspaperarchive.co.uk/viewer/bl/0000361/18381210/020/0004)
+In *Salisbury and Winchester Journal*, [Monday 10 December 1838](https://britishnewspaperarchive.co.uk/viewer/bl/0000361/18381210/020/0004).
 
 Winchester. SATURDAY, Committed to the County Gaol
 
@@ -58,7 +58,7 @@ Repentance Adams, stealing, Newport, I. W., a door-mat, the property of Wm. Minn
 
 ```{admonition} Patience Adams, 2 months imp., January 1839
 :class: dropdown
-[Salisbury and Winchester Journal - Monday 07 January 1839](https://britishnewspaperarchive.co.uk/viewer/bl/0000361/18390107/025/0004)
+In *Salisbury and Winchester Journal*, [Monday 07 January 1839](https://britishnewspaperarchive.co.uk/viewer/bl/0000361/18390107/025/0004).
 
 Winchester. SATURDAY, JANUARY 5.
 
@@ -69,35 +69,35 @@ Patience Adams stealing a mat— *2 months' imp.*
 
 ```{admonition} Stealing a rush basket, December 1845
 :class: dropdown
-[Hampshire Advertiser - Saturday 06 December 1845](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18451206/037/0008)
+In *Hampshire Advertiser*, [Saturday 06 December 1845](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18451206/037/0008).
 
 A woman named Repentance Adams (an old offender, who some years ago created such a consternation by her numerous robberies of door-mats all over the town), was charged with stealing a new rush basket from the shop of Mrs. Mills, Town Gate. A woman named Inkstone, deposed to seeing her steal it; and Mr. Cooke, the borough policeman, stated he found it exposed for sale, shortly after she had stolen it, at the shop of Mr. Hale, grocer, Cosham-street, to whom, it appeared, she had just before disposed of it. She was committed to take her trial.
 ```
 
 ```{admonition} Mats from doors, December 1845
 :class: dropdown
-[Hampshire Telegraph - Saturday 13 December 1845](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18451213/004/0001)
+In *Hampshire Telegraph*, [Saturday 13 December 1845](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18451213/004/0001).
 
 At the Borough Court, on Monday, Repentance Adams, an old woman. was charged with stealing a rush basket, from the door of Mr. Mills, in St. James's street, and was fully committed for trial at the sessions.— She was a few years ago tried for stealing mats from doors. 
 ```
 
 ```{admonition} Stealing a basket, January 1846
 :class: dropdown
-[Hampshire Advertiser - Saturday 17 January 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460117/041/0008)
+In *Hampshire Advertiser*, [Saturday 17 January 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460117/041/0008).
 
 Repentance Adams, an old offender, was charged with stealing a basket, the property of Mrs. Mills, of Newport. Former indictments were put in, and she was sentenced to four months' imprisonment and hard labour.
 ```
 
 ```{admonition} Vagrancy, January 1850
 :class: dropdown
-[Hampshire Chronicle - Saturday 19 January 1850](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18500119/023/0004)
+In *Hampshire Chronicle*, [Saturday 19 January 1850](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18500119/023/0004).
 
 Committed to the County Gaol.— For vagrancy— Repentance Adams, 14 days.
 ```
 
 ```{admonition} Stealing a handkerchief and its contents, aged eighty, April 1858
 :class: dropdown
-[Hampshire Advertiser - Saturday 17 April 1858](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18580417/034/0007)
+In *Hampshire Advertiser*, [Saturday 17 April 1858](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18580417/034/0007).
 
 An old woman of eighty, named Repentance Adams, was charged with stealing a hand kerchief, containing tobacco, bacon, sugar, cakes, &c., the property of an inmate of the House of Industry, named James Harwood.
 
@@ -109,7 +109,7 @@ In a report of the same case in the *Isle of Wight Mercury*, Mrs. Adams first na
 
 ```{admonition} An inmate of the House of Industry, April 1858
 :class: dropdown
-[Isle of Wight Mercury - Saturday 17 April 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0001417/18580417/013/0002)
+In *Isle of Wight Mercury*, [Saturday 17 April 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0001417/18580417/013/0002).
 
 NEWPORT. County Petty Sessions, APRIL 10th.
 
@@ -135,8 +135,7 @@ The following adverts, from 1826 and 1847 respectively, give a sense of the layo
 
 ```{admonition} To Brewers, Inn Keepers, and Others, December 1826
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000231/18261218/026/0003
-Hampshire Chronicle - Monday 18 December 1826
+In *Hampshire Chronicle*, [Monday 18 December 1826](https://britishnewspaperarchive.co.uk/viewer/bl/0000231/18261218/026/0003).
 
 TO BREWERS, INN KEEPERS, AND OTHERS.
 
@@ -151,7 +150,7 @@ TO SOLD by AUCTION, by Mr FRANCIS PITTIS, by order and under the direction of th
 
 ```{admonition} Free Public House, to Let, February, 1847
 :class: dropdown
-[Hampshire Advertiser - Saturday 27 February 1847](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18470227/002/0008)
+In *Hampshire Advertiser*, [Saturday 27 February 1847](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18470227/002/0008).
 
 FREE PUBLIC HOUSE WITH BREWERY COMPLETE.— TO LET with immediate possession if required, in a first-rate situation, being at the centre of the Town of Newport, where the Cattle Market is held. The House is convenient, with capital spirit shop, 2 parlours, large club-room, sitting-room, with 9 good bed-rooms, tap, kitchen, cellar, Sec. The above desirable premises offer a good opportunity to any person with a small capital for carrying on an extensive trade in the Wine and Spirit line— also with a genuine Home Brewed Beer trade, there being but few houses of toe kind in toe town. For further particulars, apply to Mr. HENRY ROPER, House and Estate Agent, West Cowes, Isle of Wight. 
 
@@ -161,12 +160,11 @@ Another advert, this time from 1842, gives a sense of the scale of some of the b
 
 ```{admonition} Brewery and Thirty-Four Public Houses, August, 1842
 :class: dropdown
-[Hampshire Chronicle - Monday 15 August 1842
-](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18420815/054/0004)
+[Hampshire Chronicle - Monday 15 August 1842](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18420815/054/0004).
 
 NEWPORT, ISLE OF WIGHT. BREWERY *and Thirty-Four PUBLIC HOUSES*.
 
-MR. W. W. SIMPSON has received directions from John Cooke. Esq. the proprietor (who is retiring from business), to SELL by AUCTION, at the Mart, London, on Tuesday the 6th of September, 1842, in oue lot. — An eaccedingly desirable CONCERN; comprising an old established FREEHOLD BREWERY, with excellent stores, and every requisite appendage: a commodious RESIDENCE with large garden, two Malt Houses with ample stowage for barley, malt, &c. Thirty-four INNS and PUBLIC-HOUSES, eleven of which are situate in the town of Newport, eight in West Cowes, and the remaining fifteen at East Cowes, Ryde, and other places in the island, all within a few miles of the brewery. The houses, which are chiefly freehold, generally are in very good state of repair, and doing considerable trades both in beer and spirits. There is a good free and private trade attached to the brewery, and the average consumption during the last six years has been about 3000 barrels of beer, and 2000 gallons of spirits. The brewery has the advantage of being situate in a district where barley of fine malting quality is readily obtained, and it abuts upon a navigable river, which affords great facility for the shipment of goods; besides which the water power is made available for grinding, pumping, and other work in the brewery, whereby great saving of labour is effected. The transit of the beer to the customers is attended with very little expense, those houses which are not close to the brewery being chiefly situate at Cowes, to which place the beer is conveyed by water at a very cheap rate.
+MR. W. W. SIMPSON has received directions from John Cooke. Esq. the proprietor (who is retiring from business), to SELL by AUCTION, at the Mart, London, on Tuesday the 6th of September, 1842, in one lot. — An exceedingly desirable CONCERN; comprising an old established FREEHOLD BREWERY, with excellent stores, and every requisite appendage: a commodious RESIDENCE with large garden, two Malt Houses with ample stowage for barley, malt, &c. Thirty-four INNS and PUBLIC-HOUSES, eleven of which are situate in the town of Newport, eight in West Cowes, and the remaining fifteen at East Cowes, Ryde, and other places in the island, all within a few miles of the brewery. The houses, which are chiefly freehold, generally are in very good state of repair, and doing considerable trades both in beer and spirits. There is a good free and private trade attached to the brewery, and the average consumption during the last six years has been about 3000 barrels of beer, and 2000 gallons of spirits. The brewery has the advantage of being situate in a district where barley of fine malting quality is readily obtained, and it abuts upon a navigable river, which affords great facility for the shipment of goods; besides which the water power is made available for grinding, pumping, and other work in the brewery, whereby great saving of labour is effected. The transit of the beer to the customers is attended with very little expense, those houses which are not close to the brewery being chiefly situate at Cowes, to which place the beer is conveyed by water at a very cheap rate.
 
 The proprietor and his ancestors have carried on the business for upwards of a century with great success, and the retirement of Mr. Cooke affords a rare opportunity for the advantageous employment of capital in the brewing trade, as a considerable part of the purchase money would he allowed to remain on mortgage.
 
@@ -178,7 +176,7 @@ At the annual licensing day in 1851, the Tontine Tap, whose license at the time 
 ```{admonition} "Tontine Tap" and "Valiant Soldier" called out, Licensing Day, 1851
 :class: dropdown
 
-[Hampshire Advertiser - Saturday 30 August 1851](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18510830/037/0005)
+In *Hampshire Advertiser*, [Saturday 30 August 1851](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18510830/037/0005).
 
 Borough of Newport Annual Licensing-day.— The Mayor and Abraham Clarke, esq. sat on Monday for granting licenses to public-houses. Most of the renewals passed without observation, but on Robert Dyer applying for a license for the Old King's Arms, the Mayor made some strong observations on the general conduct and character or the house, stating that unless it was better conducted, the license would be refused next year. He said that observations had been made at the last meeting of the Town Council against the house, and the magistrates felt that they had a duty to perform to the public to prevent the annoyance to the neighbourhood, occasioned by bad and dissolute characters resorting to the house.
 
@@ -204,7 +202,7 @@ The item at the Council meeting referred to by Mr. Mew was presumably the bye-la
 
 ```{admonition} The more easy suppression of disorderly houses, August, 1851
 :class: dropdown
-[Hampshire Advertiser - Saturday 09 August 1851](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18510809/027/0005)
+In *Hampshire Advertiser*, [Saturday 09 August 1851](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18510809/027/0005).
 
 COUNCIL MEETING. The quarterly meeting of the Town Council was held on Tuesday last, Edward Way, esq., in the chair. There were eighteen Aldermen and Councillors, present, which was an improvement on the late short attendance.
 
@@ -212,13 +210,13 @@ COUNCIL MEETING. The quarterly meeting of the Town Council was held on Tuesday l
 
 Mr. Hearn then proposed a bye-law for the more easy suppression of disorderly houses, the resort of prostitutes, on notice being given; proceedings to be taken by thr police, and the fine of £5 to be inflicted on conviction before the magistrates.
 
-A long conversation then took place, in which Mr. Pring, Mr. Eldridge. Mr. Abraham Clarke, Mr. Sayer, Mr. Pinnoek, Mr. Estcourt, and the Mayor took part, and ultimately the bye-law was adopted, on the amendment that complaint should first be made by two householders.
+A long conversation then took place, in which Mr. Pring, Mr. Eldridge. Mr. Abraham Clarke, Mr. Sayer, Mr. Pinnock, Mr. Estcourt, and the Mayor took part, and ultimately the bye-law was adopted, on the amendment that complaint should first be made by two householders.
 
 ```
 
 ```{admonition} Two new bye-laws adopted, August 1851
 :class: dropdown
-[Portsmouth Times and Naval Gazette - Saturday 09 August 1851](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18510809/086/0005)
+In *Portsmouth Times and Naval Gazette*, [Saturday 09 August 1851](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18510809/086/0005).
 
 NEWPORT  
 TOWN COUNCIL MEETING. The quarterly meeting of the Town Council was held on Tuesday last at the Town Hall, the Mayor presiding. ... Two new bye-laws were adopted, one for inflicting a fine on all persons, for taking up or disturbing the pavements and roads within the Borough, without the consent of the Town Council, the other to levy a fine of all keepers of lodging-houses who should harbour common prostitutes after notice.
@@ -228,7 +226,7 @@ The long conversation was reported elsewhere:
 
 ```{admonition} Houses of Ill Fame, August, 1851
 :class: dropdown
-[Hampshire Independent - Saturday 09 August 1851](https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18510809/066/0007)
+In *Hampshire Independent*, [Saturday 09 August 1851](https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18510809/066/0007).
 
 NEWPORT TOWN COUNCIL. The Quarterly Meeting of the Town Council of this Borough was held at the Guildhall on Tuesday last, the Mayor (Edward Way, Esq.) in the chair. ...
 
@@ -305,7 +303,7 @@ The alteration, being approved of, was passed unanimously.
 
 ```{admonition} Similar admonitions respecting bad conduct, August 1851
 :class: dropdown
-[Portsmouth Times and Naval Gazette - Saturday 30 August 1851](https://www.britishnewspaperarchive.co.uk/viewer/BL/0001365/18510830/045/0003)
+In *Portsmouth Times and Naval Gazette*, [Saturday 30 August 1851](https://www.britishnewspaperarchive.co.uk/viewer/BL/0001365/18510830/045/0003).
 
 BOROUGH PETTY SESSIONS On Monday, before the Mayor, and Abraham Clarke, Esq.
 
@@ -319,7 +317,7 @@ The following year, Hollywood spoke out against one particular drunk and disorde
 
 ```{admonition} Drunk and disorderly at the Tontine Tap, May, 1852
 :class: dropdown
-[Portsmouth Times and Naval Gazette - Saturday 22 May 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001365/18520522/058/0003)
+In *Portsmouth Times and Naval Gazette*, [Saturday 22 May 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001365/18520522/058/0003).
 
 Borough Petty Sessions, Monday.— Present, C. W. Estcourt, Esq., Mayor, E. Way, and R. M. Wavell, Esqs.
 
@@ -331,7 +329,7 @@ From a court report later that year regarding the theft of a pillow, it seems th
 
 ```{admonition} Stealing and swindling, October 1853
 :class: dropdown
-[Hampshire Independent - Saturday 23 October 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18521023/084/0007)
+In *Hampshire Independent*, [Saturday 23 October 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18521023/084/0007).
 
 BOROUGH COURT. On Monday, in the Council Chamber, before the Mayor and Edward Way, Esq.
 
@@ -341,7 +339,7 @@ James Matthews, a waterman, belonging to Sea-view, near Ryde, was charged with t
 
 Ellen Howes said she lived at the Fortune Tap `[is this an *erratum*]`, in Corsham-street, and attended to the customers for her son in-law, John Hollywood, the landlord. The prisoner came there on Thursday evening, and engaged a bed. There were two pillows on it when he went to bed. After he had gone away in the morning a pillow was missing. It was the pillow now produced. It was brought to the house by the police, and was the property of John Hollywood.
 
-Henry Rashleish, Jun., sworn: I am a carrier between Newport and Niton. On Fnday the prisoner came to me at the Duke of York with a brown paper parcel under his arm, and asked me if I was the Niton carrier, and if I knew the Sandrock hotel. I told him I went close to it. He then asked me if I knew James Beazley, who lived there as waiter. I said I did. He said he had a parcel for him which came from his sister, at Reading, and then was five shillings to pay on it. I him I required a bill, and he wrote on the cover "paid 5s. James Matthews." It was directed to James Beazley, Sandrock Hotel, Niton. After he was gone I looked at the parcel, and by one end of it being broken I saw it was only a pillow, which I thought could be of no use to Beazley. I therefore communicated the fact to the police. I saw the prisoner afterwards at the Lamb Inn, and told him what I had discovered. He said he would give me the money again I was afraid. He then gave it to me back, but the Police said they should not let it drop, and went to find an owner for the pillow, knowing where he had slept that night. He said he had bought it in Quay Street, and that he gave sixpence for it.
+Henry Rashleish, Jun., sworn: I am a carrier between Newport and Niton. On Friday the prisoner came to me at the Duke of York with a brown paper parcel under his arm, and asked me if I was the Niton carrier, and if I knew the Sandrock hotel. I told him I went close to it. He then asked me if I knew James Beazley, who lived there as waiter. I said I did. He said he had a parcel for him which came from his sister, at Reading, and then was five shillings to pay on it. I him I required a bill, and he wrote on the cover "paid 5s. James Matthews." It was directed to James Beazley, Sandrock Hotel, Niton. After he was gone I looked at the parcel, and by one end of it being broken I saw it was only a pillow, which I thought could be of no use to Beazley. I therefore communicated the fact to the police. I saw the prisoner afterwards at the Lamb Inn, and told him what I had discovered. He said he would give me the money again I was afraid. He then gave it to me back, but the Police said they should not let it drop, and went to find an owner for the pillow, knowing where he had slept that night. He said he had bought it in Quay Street, and that he gave sixpence for it.
 
 P. C. Jacobs said he apprehended the prisoner at the Lamb under a charge of stealing the pillow, when the prisoner told him that he bought it for 6d., of a man in Quay Street.
 
@@ -358,7 +356,7 @@ A later report in the *Hampshire Advertiser* of [Saturday 15 December 1855](http
 ```{admonition} For stealing a pillow, three months' imprisonment, October 1852
 :class: dropdown
 
-[Hampshire Telegraph - Saturday 23 October 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18521023/042/0008)
+In *Hampshire Telegraph*, [Saturday 23 October 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18521023/042/0008).
 
 
 James Matthews, for stealing a pillow, the property of John Hollywood, at Newport. *Three months' imprisonment.*
@@ -371,7 +369,7 @@ In 1853, the license of the Tontine was transferred to a Mr. Joseph Phillipps.
 
 ```{admonition} Transfer of license, April 1853
 :class: dropdown
-[Isle of Wight Observer - Saturday 23 April 1853](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18530423/017/0003)
+In *Isle of Wight Observer*, [Saturday 23 April 1853](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18530423/017/0003).
 
 Borough Sessions
 
@@ -386,7 +384,7 @@ Called as a witness in a case of burglary, we learn Joseph Phillips' wife's name
 ```{admonition} The wife of Joseph Phillips, 1854
 :class: dropdown
 
-[Isle of Wight Observer - Saturday 11 February 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540211/011/0002)
+In *Isle of Wight Observer*, [Saturday 11 February 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540211/011/0002).
 
 NEWPORT PETTY SESSIONS. Saturday.—(Before the Honble. W. aCourt Holmes and Sir H. P. Gordon, Bart.)
 
@@ -402,7 +400,7 @@ At the licensing day of 1854, another establishment, the landlord of the "Race H
 
 ```{admonition} Cautioned in consequence of complaints, August 1854
 :class: dropdown
-[Isle of Wight Observer - Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540826/006/0002)
+In *Isle of Wight Observer*, [Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540826/006/0002).
 
 BOROUGH SESSIONS
 
@@ -418,14 +416,14 @@ The Race Horse had also received mentions several years earlier, once, in 1847, 
 
 ```{admonition} A low public-house in Corn-market, December, 1847
 :class: dropdown
-[Hampshire Advertiser - Saturday 11 December 1847](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18471211/029/0005)
+In *Hampshire Advertiser*, [Saturday 11 December 1847](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18471211/029/0005).
 
 Newport Borough Court.-On Monday, (before J. Eldridge esq. mayor, and other gentlemen.) James Lee, landlord of a low public-house in Corn-market, called the Race-horse, was fined 5s and costs, for allowing card-playing in his house; and on Tuesday he was again brought up for being drunk ana disorderly in his own house on the previous evening, and behaving in a most disreputable manner. This time he was fined £3 and costs. 
 ```
 
 ```{admonition} Indicted for stealing his own goods, September, 1850
 :class: dropdown
-[Hampshire Telegraph - Saturday 28 September 1850](https://britishnewspaperarchive.co.uk/viewer/BL/0000069/18500928/012/0005)
+In *Hampshire Telegraph*, [Saturday 28 September 1850](https://britishnewspaperarchive.co.uk/viewer/BL/0000069/18500928/012/0005).
 
 At the Borough Petty Sessions, before R. M. Wavell Esq. and other Magistrates, Joseph Yelf (remanded from Tuesday), was charged with felony, in stealing goods from the Race Horse Inn, Corn Market, Newport. Mr. Hearn appeared for the prosecution; and Mr. Beckingsale for the defence. The case occupied a considerable time; but the following account will present the principal features. An execution was put into the Race Horse on Saturday last, for a judgment of the County Court for the sum of 16l. 5s. 3d., at the suit of Mr. Henry D. Cole. An assistant bailiff, of the name Wm. Leigh, admitted, in his cross-examination, that after drinking and smoking in the tap-room, he went to bed with a woman, but did not think the pillows were removed from under his head! During the evening and night the house was nearly stripped of the furniture, which was afterwards found secreted in a loft near the Green Dragon Inn; the goods were recovered, and this was a criminal proceeding for felony against the owners. Mr. Beckingsale cited several cases, and argued that a man under such circumstances could not be indicted for stealing his own goods. Mr. Hearn on the contrary cited several cases, and argued that the present was a clear case of felony. Mr. Beckingsale afterwards cited the clause in the County Courts' Act, which gave a power to the Magistrates to fine any person rescuing goods or assaulting an officer any sum not to exceed 5l., and in default three months' imprisonment. The Bench, after a consultation, committed the prisoner for trial at the Quarter Sessions; but afterwards accepted bail.
 
@@ -435,7 +433,7 @@ The licensing day sessions also provided an opportunity for the magistrates to c
 
 ```{admonition} According to the New Act..., September, 1855
 :class: dropdown
-[Isle of Wight Observer - Saturday 01 September 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550901/007/0003)
+In *Isle of Wight Observer*, [Saturday 01 September 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550901/007/0003).
 
 Monday.—Before C. W. Estcourt, esq., mayor, R. M. Wavell, esq., and F. Pittis, esq., magistrates.
 
@@ -445,7 +443,7 @@ This being the annual licensing day for the Borough the Court was pretty full of
 
 ```{admonition} But what are the new hours?! September 1855
 :class: dropdown
-[Isle of Wight Observer - Saturday 01 September 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550901/007/0003)
+In *Isle of Wight Observer*, [Saturday 01 September 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550901/007/0003).
 
 BOROUGH SESSIONS.
 
@@ -461,7 +459,7 @@ In September 1806, an announcement is made calling for creditors of Mr. John Ste
 
 ```{admonition} Dividing the estate of a bankrupt, September, 1806
 :class: dropdown
-[Hampshire Chronicle - Monday 22 September 1806](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18060922/019/0001)
+In *Hampshire Chronicle*, [Monday 22 September 1806](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18060922/019/0001).
 
 THE Commissioners in a Commission of Bankrupt, bearing date the 3d day of March 1806, awarded and issued against JOHN STEANE, late of Newport, in the Isle of Wight, in the county of Southampton, Liquor-Merchant, Dealer and Chapman, intend to meet on Monday the 13th day of October next, at the Bugle Inn, Newport aforesaid, at one o'clock in the afternoon, in order to make a Dividend of the Estate and Effects of the said Bankrupt; when and where the Creditors who have not already proved their debts are to come prepared to prove the same, or they will be excluded the benefit of the said Dividend: And all claims not then substantiated, will be disallowed.
 
@@ -472,7 +470,7 @@ In April, 1807, an auction of brewing utensils was advertised in Newport, presum
 
 ```{admonition} To be sold — brewing utensils, April 1807
 :class: dropdown
-[Hampshire Telegraph - Monday 27 April 1807](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18070427/008/0003) and again in [Hampshire Telegraph - Monday 04 May 1807](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18070504/001/0001).
+In *Hampshire Telegraph - Monday 27 April 1807](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18070427/008/0003) and again in [Hampshire Telegraph*, [Monday 04 May 1807](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18070504/001/0001).
 
 NEWPORT, ISLE 0F WIGHT.
  
@@ -480,7 +478,7 @@ Brewing Utensils.
 
 TO BE SOLD. BY AUCTION, By MEW & PORTER,
 
-On Tuesday, the 12th day of May, 1807, and following day, ar the Brewhouse lately occupied by Mr. Stean, in Sea-sreet, Newport, at 11 o'clock in forenoon each day, (by order of the Assignees of Mr. John Stean, a Bankrupt),
+On Tuesday, the 12th day of May, 1807, and following day, ar the Brewhouse lately occupied by Mr. Stean, in Sea-street, Newport, at 11 o'clock in forenoon each day, (by order of the Assignees of Mr. John Stean, a Bankrupt),
 
 THE following BREWING UTENSILS; consisting of a large copper with brass cocks, with brick and iron work belonging thereto, coolers, mash tubs, backs, stillions, stands, a vat containing 31 barrels, with lie brick stand, patent vat and other brass cocks, a large quantity of hogsheads, halfhogsheads, and other sized casks, a malt and water mill with stones, complete lead pipes, a dray, a truck, about ten load of sacks, two pockets of hops, pumps, spouts, funnels, buckets, cans, and other brewing utensils. Catalogues may be had by application to Mr. Steane, or of the Auctioneers; also at the Bugle Inn, Newport; Blue Posts, Portsmouth; Blue Posts, Gosport; Angel, Lymington; Dolphins, Southampton, and the George, Winchester.
 ```
@@ -489,7 +487,7 @@ Almost a decade later, in 1816, it seems that Mr. John Steane had re-established
 
 ```{admonition} To Wine and Corn Merchants, June 1816
 :class: dropdown
-[Hampshire Chronicle - Monday 10 June 1816](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18160610/014/0001)
+In *Hampshire Chronicle*, [Monday 10 June 1816](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18160610/014/0001).
 
 TO WINE AND CORN MERCHANTS.
 
@@ -503,7 +501,7 @@ A couple of years later, he is advertising the sale of well-established brewery 
 
 ```{admonition} Public House and Liquor Shop, Corn-market, March, 1818
 :class: dropdown
-[Hampshire Chronicle - Monday 30 March 1818](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18180330/037/0004)
+In *Hampshire Chronicle*, [Monday 30 March 1818](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18180330/037/0004).
 
 NEWPORT, ISLE OF WIGHT.
 
@@ -522,9 +520,9 @@ The following year, a brewery went up for sale in Carisbrooke.
 
 ```{admonition} To be sold by private contract, March 1819
 :class: dropdown seealso
-[Hampshire Telegraph - Monday 29 March 1819](https://britishnewspaperarchive.co.uk/viewer/BL/0000069/18190329/001/0001)
+In *Hampshire Telegraph*, [Monday 29 March 1819](https://britishnewspaperarchive.co.uk/viewer/BL/0000069/18190329/001/0001).
 
-Also in: [Salisbury and Winchester Journal - Monday 29 March 1819](https://britishnewspaperarchive.co.uk/viewer/bl/0000361/18190329/029/0002)
+Also in: In *Salisbury and Winchester Journal*, [Monday 29 March 1819](https://britishnewspaperarchive.co.uk/viewer/bl/0000361/18190329/029/0002).
 
 ISLE OF WIGHT.
 
@@ -551,7 +549,7 @@ In the same edition of that newspaper was another advert, John Steane was again 
 
 ```{admonition} To Wine, Spirit and Corn Merchants, March 1819
 :class: dropdown
-[Hampshire Telegraph - Monday 29 March 1819](https://britishnewspaperarchive.co.uk/viewer/BL/0000069/18190329/012/0004)
+In *Hampshire Telegraph*, [Monday 29 March 1819](https://britishnewspaperarchive.co.uk/viewer/BL/0000069/18190329/012/0004).
 
 To Wine, Spirit and Corn Merchants.  
 Wholesale and Retail Wine and Brandy Trade, Newport, Isle of Wight.
@@ -566,7 +564,7 @@ On the same day, the advert appears in another form in the *Hampshire Chronicle*
 ```{admonition} Wholesale and retail wine and brandy vaults, March 1819
 :class: dropdown
 
-[Hampshire Chronicle - Monday 29 March 1819](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18190329/039/0004)
+In *Hampshire Chronicle*, [Monday 29 March 1819](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18190329/039/0004).
 
 *To Wine, Spirit, and Corn-Merchants.*
 
@@ -590,7 +588,7 @@ A week later, the *Hampshire Telegraph* advert reappeared, along with a correcti
 
 ```{admonition} An error appeared in this advertisement last week, April 1819
 :class: dropdown
-[Hampshire Telegraph - Monday 05 April 1819](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18190405/003/0001)
+In *Hampshire Telegraph*, [Monday 05 April 1819](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18190405/003/0001).
 
 To Wine, Spirit and Corn Merchants.  
 Wholesale and Retail Wine and Brandy Trade, Newport, Isle of Wight.
@@ -609,7 +607,7 @@ By the end of the following month, another advert had appeared, this time announ
 
 ```{admonition} To be sold by auction, May, 1819
 :class: dropdown
-[Hampshire Telegraph - Monday 31 May 1819](https://britishnewspaperarchive.co.uk/viewer/BL/0000069/18190531/008/0003)
+In *Hampshire Telegraph*, [Monday 31 May 1819](https://britishnewspaperarchive.co.uk/viewer/BL/0000069/18190531/008/0003).
 
 NEWPORT, ISLE OF WIGHT
 
@@ -623,7 +621,7 @@ A year later, it seems the John Steane's ill health had got the better — or th
 
 ```{admonition} Death notice, John Steane, April 1820
 :class: dropdown
-[Hampshire Chronicle - Monday 10 April 1820](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18200410/016/0004)
+In *Hampshire Chronicle*, [Monday 10 April 1820](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18200410/016/0004).
 
 ISLE OF WIGHT
 
@@ -644,7 +642,7 @@ The details also suggest that the Wine business and the brewery were next to eac
 
 ```{admonition} Valuable Premises and Business, May 1820
 :class: dropdown
-[Hampshire Telegraph - Monday 29 May 1820](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18200529/011/0003)
+In *Hampshire Telegraph*, [Monday 29 May 1820](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18200529/011/0003).
 
 NEWPORT, ISLE OF WIGHT.
 
@@ -664,7 +662,7 @@ Another year, and still the Tontine hasn't sold. This time, it is offered for sa
 ```{admonition} To be sold by auction, a capital free inn, July 1821
 :class: dropdown
 
-[Hampshire Chronicle - Monday 23 July 1821](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18210723/032/0004)
+In *Hampshire Chronicle*, [Monday 23 July 1821](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18210723/032/0004).
 
 A CAPITAL FREE INN,
 
@@ -704,7 +702,7 @@ The advert immediately following also announced the sale of fixtures and fitting
 
 ```{admonition} To Brewers, Publicans, Farmers, and others, July 1821
 :class: dropdown
-[Hampshire Chronicle - Monday 23 July 1821](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18210723/032/0004)
+In *Hampshire Chronicle*, [Monday 23 July 1821](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18210723/032/0004).
 
 NEWPORT, ISLE OF WIGHT.
 
@@ -725,7 +723,7 @@ Another couple of years on, and it seems *another* of John Steane's holdings was
 
 ```{admonition} A commodious premises, June 1823
 :class: dropdown seealso
-[Hampshire Telegraph - Monday 23 June 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18230623/003/0001)
+In *Hampshire Telegraph*, [Monday 23 June 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18230623/003/0001).
 
 TO BREWERS, CORN, WINE, AND SPIRIT MERCHANTS.  
 A commodious PREMISES, where the above Business has been carried on for several Years.—A Free and Good-accustomed PUBLIC-HOUSE, now in Full Trade.
@@ -748,7 +746,7 @@ The following report also includes a rather amusing description of a rooftop esc
 
 ```{admonition} A disorderly house of the worst description, June 1842
 :class: dropdown
-[Hampshire Independent - Saturday 11 June 1842](https://www.britishnewspaperarchive.co.uk/viewer/BL/0002941/18420611/033/0003)
+In *Hampshire Independent*, [Saturday 11 June 1842](https://www.britishnewspaperarchive.co.uk/viewer/BL/0002941/18420611/033/0003).
 
 BOROUGH COURT
 
@@ -758,7 +756,7 @@ James Tansom, landlord of the Fountain Tap `[the following week, he was describe
 
 ```{admonition} Please take "these here things" into consideration, June 1842
 :class: dropdown
-[Hampshire Independent - Saturday 18 June 1842](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18420618/043/0003)
+In *Hampshire Independent*, [Saturday 18 June 1842](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18420618/043/0003).
 
 BOROUGH COURT— On Monday, before Mr. A. Clarke.— James Tansom, of the Tontine Tap, who was fined 40s. and costs on the previous Monday, for keeping a disorderly house, now stepped into the defendant's box, and pointed out the hardship, injustice, and cruelty, of fining him, he being perfectly innocent according to his own showing. He said be thought it was a very hard case, for he had a sick wife, and scarcely any of the drunkenness was produced in his house; but people got drunk in other houses. and came to his house, and "knocked up a row." Tansom said he had nothing but the public-house to look to for the support of three of them, himself, his wife, and the doctor (immense laughter); and, besides, he had never been brought before magistrates before from infancy to old age (laughter). As soon as he turned his back to draw a drop of beer, they began their rookery again, and he wished the Bench to take "these here things" into consideration.—The Bench said that it was most extraordinary that these rows, by people who get drunk elsewhere, should only occur in his house; that women and soldiers should be found in his rooms day and night, on Sundays and workdays, and yet he know nothing at all of it. These things must be by his own comment, and the penalty they had inflicted was exceedingly moderate, for if he had had his due he would have been indicted at the sessions. They could not alter their previous decision.—Tansom: "Then you must take me to prison, that's all I have to say."
 
@@ -776,14 +774,14 @@ Borough Court.—At this Court, on Monday, the licence of the Row Barge was tran
 
 ```{admonition} Theft of a decanter of rum, April, 1844
 :class: dropdown
-[Hampshire Advertiser - Saturday 06 April 1844](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18440406/032/0008)
+In *Hampshire Advertiser*, [Saturday 06 April 1844](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18440406/032/0008).
 
 Borough Court, Thursday.— A soldier, named Thomas Lyner, was remanded for further examination on Saturday next, charged with stealing a decanter, containing about a pint and a half of rum, from the bar of the Tontine public-house, occupied by Daniel Webb, South-street.
 ```
 
 ```{admonition} Stealing a decanter and a pint of run, April 1844
 :class: dropdown
-[Hampshire Independent - Saturday 20 April 1844](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18440420/072/0003)
+In *Hampshire Independent*, [Saturday 20 April 1844](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18440420/072/0003).
 
 County Quarter Sessions
 
@@ -792,14 +790,14 @@ Thomas Lynagh, a private in the 97th regiment, charged with stealing a decanter 
 
 ```{admonition} A house of ill fame, June 1845
 :class: dropdown
-[Hampshire Advertiser - Saturday 28 June 1845](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18450628/040/0008)
+In *Hampshire Advertiser*, [Saturday 28 June 1845](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18450628/040/0008).
 
 Newport Borough Court.— Daniel Webb, landlord of the Tontine public-house, was brought up on Monday for further examination, charged with keeping a house of ill fame, also with encouraging drunkenness and gaming on his premise. The principal witnesses were William Coggen and George Baker, parties who were living within a few yards of the defendant's house. They entered into a description of the demoralizing scenes they had witnessed; and the Magistrates convicted him in the full penalty of 5l and 5s costs. –The defendant wa* allowed a week to pay the fine.
 ```
 
 ```{admonition} Depraved morals and indecency, 1845
 :class: dropdown
-[Hampshire Independent - Saturday 20 September 1845](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18450920/044/0003)
+In *Hampshire Independent*, [Saturday 20 September 1845](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18450920/044/0003).
 
 Borough Sessions
 
@@ -821,7 +819,7 @@ The suspension of his license appears to be not the only misfortune that Daniel 
 
 ```{admonition} Bigamy, October, 1845
 :class: dropdown
-[Hampshire Advertiser - Saturday 18 October 1845](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18451018/012/0003)
+In *Hampshire Advertiser*, [Saturday 18 October 1845](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18451018/012/0003).
 
 Southampton Police
 
@@ -836,7 +834,7 @@ The licence of the Tontine Tap then made its way to a Mr. Charles Green, who app
 
 ```{admonition} Stealing two bottles of spirits, May 1846
 :class: dropdown
-[Hampshire Independent - Saturday 02 May 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18460502/082/0008)
+In *Hampshire Independent*, [Saturday 02 May 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18460502/082/0008).
 
 BOROUGH COURT
 
@@ -860,7 +858,7 @@ The same Ann Gladdis, presumably, had also appeared as a witness in a case of th
 
 ```{admonition} An impudent request, January 1846
 :class: dropdown
-[Hampshire Advertiser - Saturday 17 January 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460117/041/0008)
+In *Hampshire Advertiser*, [Saturday 17 January 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460117/041/0008).
 
 ISLE OF WIGHT GENERAL QUARTER SESSIONS. These Sessions commenced on Wednesday last, before Wm. Thresher, esq.
 
@@ -878,7 +876,7 @@ Despite prosecuting his clientele, it seems the new licensee was unable to do mu
 
 ```{admonition} Keeping a disorderly house, January 1848
 :class: dropdown
-[Hampshire Independent - Saturday 08 January 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18480108/141/0008)
+In *Hampshire Independent*, [Saturday 08 January 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18480108/141/0008).
 
 BOROUGH COURT. On Monday last, before the Mayor, Abraham Clarke, Esq., and Percy Scott, Esq.
 
@@ -908,7 +906,7 @@ Although no longer the licensee of the Tontine Tap, it seems as if James Tansom 
 
 ```{admonition} Sufficient to breed a pestilence, November 1848
 :class: dropdown
-[Hampshire Independent - Saturday 25 November 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18481125/080/0008)
+In *Hampshire Independent*, [Saturday 25 November 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18481125/080/0008).
 
 BOROUGH SESSIONS
 
@@ -927,7 +925,7 @@ But it was not just the Tontine Tap where disorder could be found.
 ```{admonition} Drunk and disorderly in the Tontine Yard, February 1851
 :class: dropdown
 
-[Hampshire Advertiser - Saturday 08 February 1851](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18510208/025/0005)
+In *Hampshire Advertiser*, [Saturday 08 February 1851](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18510208/025/0005).
 
 Borough Court.— Before the Mayor, (Edward Way, esq.), and A. Clarke, esq.
 
@@ -939,7 +937,7 @@ Several years later, the Tontine area still seemed to have a reputation where "t
 
 ```{admonition} "Take care or I'll give you more", February 1858
 :class: dropdown
-[Isle of Wight Mercury - Saturday 20 February 1858](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18580220/031/0004)
+In *Isle of Wight Mercury*, [Saturday 20 February 1858](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18580220/031/0004).
 
 BOROUGH PETTY SESSIONS. February 15th. Before the Worshipful the Mayor (in the chair), and E. Way, Esq.
 
@@ -964,7 +962,7 @@ Convicted in the penalty 10s., and 5s. costs, or committed to the House of Corre
 
 ```{admonition} Hawker charged with indecent exposure, June 1858
 :class: dropdown
-[Hampshire Advertiser - Saturday 05 June 1858](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18580605/047/0007)
+In *Hampshire Advertiser*, [Saturday 05 June 1858](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18580605/047/0007).
 
 BOROUGH COURT. Monday.— Magistrates present: The Mayor, R. M. Wavell, and E. Way, esqrs.
 
@@ -977,7 +975,7 @@ Another frequently mentioned establishment, most notably for the landlord's rath
 
 ```{admonition} "Somebody in de house", October. 1854
 :class: dropdown
-[Hampshire Advertiser - Saturday 07 October 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18541007/026/0007)
+In *Hampshire Advertiser*, [Saturday 07 October 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18541007/026/0007).
 
 Isle of Wight Petty Sessions
 
@@ -1002,7 +1000,7 @@ Fined 20s and 5s costs, or fourteen days' imprisonment.
 ```{admonition} Open at 10pm on a Sunday night, October 1854
 :class: dropdown
 
-[Isle of Wight Observer - Saturday 07 October 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541007/006/0002)
+In *Isle of Wight Observer*, [Saturday 07 October 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541007/006/0002).
 
 BOROUGH SESSIONS. Mayor F. Pittis, esq. (mayor), and Edw. Way, esq.
 
@@ -1017,7 +1015,7 @@ In defence, Anderson said no beer had been drawn since ten minutes before 10 o'c
 ```{admonition} Knock-knock, who's there? No-one. October, 1854
 :class: dropdown
 
-[Isle of Wight Observer - Saturday 07 October 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541007/006/0002)
+In *Isle of Wight Observer*, [Saturday 07 October 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541007/006/0002).
 
 Joseph Anderson, of the Crab and Lobster public-house, was charged with keeping his house open for the sale of beer after 10 o'clock on Sunday night, the 24th ult.
 
@@ -1031,7 +1029,7 @@ In the March of the next year, Joseph Anderson, landlord of the Crab and Lobster
 
 ```{admonition} In search of absent soldiers, March 1855
 :class: dropdown
-[Isle of Wight Observer - Saturday 10 March 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550310/007/0003)
+In *Isle of Wight Observer*, [Saturday 10 March 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550310/007/0003).
 
 BOROUGH SESSIONS.
 
@@ -1049,7 +1047,7 @@ The defendant was fined £2, and 5s. costs, and in default of payment committed 
 
 ```{admonition} After hours beer and secreting soldiers, March 1855
 :class: dropdown
-[Isle of Wight Observer - Saturday 10 March 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550310/007/0003)
+In *Isle of Wight Observer*, [Saturday 10 March 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550310/007/0003).
 
 BOROUGH SESSIONS.
 
@@ -1069,7 +1067,7 @@ A couple of months later, in May, he was back again for a third time, at least, 
 
 ```{admonition} Sale of beer, at hours not allowed, May 1855
 :class: dropdown
-[Isle of Wight Observer - Saturday 26 May 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550526/012/0003)
+In *Isle of Wight Observer*, [Saturday 26 May 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550526/012/0003).
 
 BOROUGH SESSIONS
 
@@ -1083,7 +1081,7 @@ Joseph Anderson was charged with keeping his house (the Crab and Lobster beer sh
 
 ```{admonition} Soldiers and prostitutes, May 1855
 :class: dropdown
-[Hampshire Advertiser - Saturday 26 May 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550526/044/0006)
+In *Hampshire Advertiser*, [Saturday 26 May 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550526/044/0006).
 
 NEWPORT
 
@@ -1105,7 +1103,7 @@ Mr. Inspector Grapes recited several cases of previous convictions. He was calle
 
 ```{admonition} Open after legal hours, May 1855
 :class: dropdown
-[Hampshire Telegraph - Saturday 26 May 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18550526/013/0004)
+In *Hampshire Telegraph*, [Saturday 26 May 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18550526/013/0004).
 
 Isle of Wight — Saturday May 26. — Newport
 
@@ -1123,7 +1121,7 @@ Another name that crops up a few of times is August Jager, the German keeper of 
 
 ```{admonition} Lewd and disorderly conduct, August 1855
 :class: dropdown
-[Portsmouth Times and Naval Gazette - Saturday 04 August 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001365/18550804/054/0005)
+In *Portsmouth Times and Naval Gazette*, [Saturday 04 August 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001365/18550804/054/0005).
 
 Newport
 
@@ -1136,7 +1134,7 @@ August Jager, keeper of the "Prince Albert," beer shop, was convicted of allowin
 ```{admonition} For the purpose of prostitution, August 1855
 :class: dropdown
 
-[Isle of Wight Observer - Saturday 04 August 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550804/010/0003)
+In *Isle of Wight Observer*, [Saturday 04 August 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550804/010/0003).
 
 NEWPORT
 
@@ -1156,7 +1154,7 @@ From another report, we get the sense that running such a disorderly house was n
 
 ```{admonition} A colourful argument? May, 1855
 :class: dropdown
-[Isle of Wight Observer - Saturday 19 May 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550519/010/0003)
+In *Isle of Wight Observer*, [Saturday 19 May 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550519/010/0003).
 
 BOROUGH SESSIONS. Monday.—Before C. W. Estcourt, Esq., mayor; E. Way, and W. M. Wavell, Esqrs.
 
@@ -1178,7 +1176,7 @@ Eighteen months later, it seems that Rosa may have been somewhat less than faith
 
 ```{admonition} A black eye, and kicked out into the street, July 1857
 :class: dropdown
-[Hampshire Advertiser - Saturday 18 July 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18570718/022/0007)
+In *Hampshire Advertiser*, [Saturday 18 July 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18570718/022/0007).
 
 BOROUGH COURT. Monday.— Magistrates present, the Mayor, and R. M. Wavell, and E. Way. esqrs.
 
@@ -1199,7 +1197,7 @@ Living in such a place appears not to have been without its hazards, as the foll
 
 ```{admonition} Sleeping in the wrong house? June 1855
 :class: dropdown
-[Hampshire Advertiser - Saturday 30 June 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550630/030/0007)
+In *Hampshire Advertiser*, [Saturday 30 June 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550630/030/0007).
 
 BOROUGH COURT. MONDAY.-Magistrates present: E. Way, R. M. Wavell. and F. Pittis, esqrs.
 
@@ -1213,7 +1211,7 @@ And the following provides a good example of some of the verbal slapstick that c
 
 ```{admonition} A dashing young Cyprian of Paradise Row, June 1846
 :class: dropdown
-[Hampshire Independent - Saturday 27 June 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18460627/070/0008)
+In *Hampshire Independent*, [Saturday 27 June 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18460627/070/0008).
 
 BOROUGH COURT. On Monday last, before Mr. B. Mew, Esq., Mayor, T. Cooke and Abraham Clarke, Esqrs.
 
@@ -1258,7 +1256,7 @@ The following report adds a little more colour to the case:
 
 ```{admonition} Biting a policeman unmercifully, June 1846
 :class: dropdown
-[Hampshire Advertiser - Saturday 27 June 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460627/047/0008)
+In *Hampshire Advertiser*, [Saturday 27 June 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460627/047/0008).
 
 Newport Borough Court.— On Monday— (Before the Mayor and Thomas Cooke and A. Clarke, esqrs.)
 
@@ -1274,7 +1272,7 @@ Another example of someone perhaps forcing their way into a house makes us wonde
 
 ```{admonition} A disturbance in Paradise Row, December 1848
 :class: dropdown
-[Hampshire Advertiser - Saturday 16 December 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18481216/028/0005)
+In *Hampshire Advertiser*, [Saturday 16 December 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18481216/028/0005).
 
 Borough Court, Saturday.— (Before the Mayor.) Richard Shepherd, and a young man named Cooke, were charged with having, between eleven and twelve the previous night, created a disturbance in Paradise Row, by breaking the door of one Jane Blow's house. The defendants were fined 7s 6d each, and to pay costs, or in default, fourteen days' imprisonment.
 
@@ -1284,7 +1282,7 @@ But from reports otherwhen, we maybe start to be able to join the dots...
 
 ```{admonition} Keeping a disorderly house in Paradise Row, November 1849
 :class: dropdown
-[Hampshire Independent - Saturday 24 November 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18491124/088/0007)
+In *Hampshire Independent*, [Saturday 24 November 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18491124/088/0007).
 
 BOROUGH COURT. On Monday last, before the Mayor (E. Way, Esq.), A. Clarke and R. M. Wavell, Esqrs.
 
@@ -1300,7 +1298,7 @@ Defendant was liberated on her own recognisance to appear at the Sessions.
 
 ```{admonition} For keeping a disordely house, January 1850
 :class: dropdown
-[Hampshire Chronicle - Saturday 05 January 1850](https://britishnewspaperarchive.co.uk/viewer/BL/0000230/18500105/019/0005)
+In *Hampshire Chronicle*, [Saturday 05 January 1850](https://britishnewspaperarchive.co.uk/viewer/BL/0000230/18500105/019/0005).
 
 Hampshire Epiphany Sessions, ..., in the Grand Jury Chamber, Winchester
 
@@ -1312,7 +1310,7 @@ Jane Blow, for keeping disorderly house the parish of Newport-Two months.
 
 *In passing, it is interesting to note the following item that was discussed at the Epiphany Sessions in Winchester.*
 
-[Hampshire Chronicle - Saturday 05 January 1850](https://britishnewspaperarchive.co.uk/viewer/BL/0000230/18500105/019/0005)
+In *Hampshire Chronicle*, [Saturday 05 January 1850](https://britishnewspaperarchive.co.uk/viewer/BL/0000230/18500105/019/0005).
 
 The Rev. R. W. White informed the Court that the Committee on Newport Bridewell had no report to make, as they had not received an answer from the Town Council which contained a proposition which they could not agree to. They claimed a right to half of the prison, although the county had expended a considerable sum in improving the accommodation. The letter from the Corporation Committee stated that they should recommend that body, in the event of a separate quarter sessions being obtained, to offer £800 to the county for its interest in the whole property, or for the purchase.
 
@@ -1335,7 +1333,7 @@ Reports in the weekly local press of the time regularly included general mention
 
 ```{admonition} Repaying a beating, with interest, June 1846
 :class: dropdown
-[Hampshire Advertiser - Saturday 27 June 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460627/047/0008)
+In *Hampshire Advertiser*, [Saturday 27 June 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460627/047/0008).
 
 Newport Borough Court.— On Monday— (Before the Mayor and Thomas Cooke and A. Clarke, esqrs.)
 
@@ -1353,7 +1351,7 @@ Perhaps the same Eliza Young was also involved in another incident a couple of y
 
 ```{admonition} Ill-using a wife, March 1848
 :class: dropdown
-[Hampshire Advertiser - Saturday 18 March 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18480318/037/0005)
+In *Hampshire Advertiser*, [Saturday 18 March 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18480318/037/0005).
 
 Borough Court.— On Monday, (before J. Eldridge, esq. Mayor, and other gentlemen.)
 
@@ -1369,7 +1367,7 @@ Reports of drunken and disorderly behaviour were even more commonplace.
 
 ```{admonition} An old offender, drunk and disorderly, March 1851
 :class: dropdown
-[Hampshire Advertiser - Saturday 22 March 1851](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18510322/033/0005)
+In *Hampshire Advertiser*, [Saturday 22 March 1851](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18510322/033/0005).
 
 Borough Court.— On Monday, before the Mayor, and R. M. Wavell, esq.
 
@@ -1379,7 +1377,7 @@ William Young, an old offender, was convicted on the evidence of P.C. Jacobs, Jo
 
 ```{admonition} Drunk and loitering, September 1853
 :class: dropdown
-[Isle of Wight Observer - Saturday 10 September 1853](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18530910/010/0002)
+In *Isle of Wight Observer*, [Saturday 10 September 1853](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18530910/010/0002).
 
 BOROUGH SESSION'S. Monday.—(Before F. Pittis, Esq., mayor; C. W. Estcourt, Esq., R. M. Wavell, Esq., and Thos. Cooke, Esq., magistrates.)
 
@@ -1391,7 +1389,7 @@ The following tale has an interesting possible set-up regarding a lost £10 note
 
 ```{admonition} Making a great noise in the street, November 1853
 :class: dropdown
-[Isle of Wight Observer - Saturday 05 November 1853](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18531105/008/0003)
+In *Isle of Wight Observer*, [Saturday 05 November 1853](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18531105/008/0003).
 
 BOROUGH SESSIONS. Monday.—(Before F. Pittis, Esq., mayor; E. Way, Esq., R. M. Wavell, Esq., and C. W. Estcourt, Esq., magistrates.)
 
@@ -1401,7 +1399,7 @@ Elizabeth Carr, was charged by P.C. Cave with making a great noise in the street
 
 ```{admonition} Her first appearance, November 1853
 :class: dropdown
-[Hampshire Telegraph - Saturday 05 November 1853](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18531105/017/0004)
+In *Hampshire Telegraph*, [Saturday 05 November 1853](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18531105/017/0004).
 
 Borough Petty Sessions, Monday, before F. Pittis, Esq., (Mayor) R. M. Wavell, C. W. Estcourt, and E. Way, Esqrs.
 
@@ -1412,7 +1410,7 @@ Perhaps the same Elizabeth Carr receives another mention a few months later.
 
 ```{admonition} Caught with turnip greens, March 1854
 :class: dropdown
-[Isle of Wight Observer - Saturday 11 March 1854](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18540311/018/0003)
+In *Isle of Wight Observer*, [Saturday 11 March 1854](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18540311/018/0003).
 
 NEWPORT PETTY SESSIONS. Saturday.—Before the Rev. R. W. White, chairman, and Sir H. P. Gordon, Bart.
 
@@ -1422,7 +1420,7 @@ Catherine Courtenay and Elizabeth Carr were charged by P.C. Purchase with having
 
 ```{admonition} Drunk and disorderly, December 1853
 :class: dropdown
-[Isle of Wight Observer - Saturday 31 December 1853](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18531231/016/0004)
+In *Isle of Wight Observer*, [Saturday 31 December 1853](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18531231/016/0004).
 
 BOROUGH SESSIONS.
 
@@ -1434,7 +1432,7 @@ Fanny Young, a common prostitute, was fined 5s. with 5s. costs, having been drun
 
 ```{admonition} Indecent language in the street, April 1854
 :class: dropdown
-[Isle of Wight Observer - Saturday 22 April 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540422/014/0003)
+In *Isle of Wight Observer*, [Saturday 22 April 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540422/014/0003).
 
 BOROUGH SESSIONS. Monday.—Before R. M. Wavell, Esq., E. Way, Esq., and Percy Scott, Esq.
 
@@ -1450,7 +1448,7 @@ Making too much noise could also lead to a fine.
 
 ```{admonition} Indecent language in the street, April 1854
 :class: dropdown
-[Isle of Wight Observer - Saturday 22 April 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540422/014/0003)
+In *Isle of Wight Observer*, [Saturday 22 April 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540422/014/0003).
 
 BOROUGH SESSIONS. Monday.—Before R. M. Wavell, Esq., E. Way, Esq., and Percy Scott, Esq.
 
@@ -1460,7 +1458,7 @@ Abraham Rackett was charged by P.C. Lockhart with making a great noise in Quay S
 
 ```{admonition} Making a great noise and singing indecent songs, December 1854
 :class: dropdown
-[Isle of Wight Observer - Saturday 09 December 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541209/009/0003)
+In *Isle of Wight Observer*, [Saturday 09 December 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541209/009/0003).
 
 BOROUGH SESSIONS.
 
@@ -1473,7 +1471,7 @@ Sometimes, trying to stop someone from singing could also lead to an altercation
 
 ```{admonition} Violin, banjo, and a little the worse for liquor, September 1855
 :class: dropdown
-[Isle of Wight Observer - Saturday 01 September 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550901/007/0003)
+In *Isle of Wight Observer*, [Saturday 01 September 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550901/007/0003).
 
 BOROUGH SESSIONS.
 
@@ -1493,7 +1491,7 @@ The throwing of insults could also lead to fights, although the magistrates seem
 
 ```{admonition} "A nasty drunken whore", April 1854
 :class: dropdown
-[Isle of Wight Observer - Saturday 22 April 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540422/014/0003)
+In *Isle of Wight Observer*, [Saturday 22 April 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540422/014/0003).
 
 BOROUGH SESSIONS. Monday.—Before R. M. Wavell, Esq., E. Way, Esq., and Percy Scott, Esq.
 
@@ -1521,7 +1519,7 @@ At other times, the use of obscene or indecent language could lead to a fine.
 
 ```{admonition} Obscene and indecent language, October 1854
 :class: dropdown
-[Isle of Wight Observer - Saturday 07 October 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541007/006/0002)
+In *Isle of Wight Observer*, [Saturday 07 October 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541007/006/0002).
 
 BOROUGH SESSIONS. Monday.— Before F. Pittis, esq. (mayor), and Edw. Way, esq.
 
@@ -1539,7 +1537,7 @@ In reports of cases of prostitution, we can occasionally get a sense of where th
 
 ```{admonition} A Christmas-time excuse, for loud and drunken behaviour? December, 1848
 :class: dropdown
-[Hampshire Independent - Saturday 30 December 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18481230/084/0008)
+In *Hampshire Independent*, [Saturday 30 December 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18481230/084/0008).
 
 Borough Court
 
@@ -1562,7 +1560,7 @@ In the following case, the route leads from the High Street to the Mechanics Ins
 ```{admonition} Loitering in the High-street, July 1854
 :class: dropdown
 
-[Hampshire Advertiser - Saturday 29 July 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540729/043/0007)
+In *Hampshire Advertiser*, [Saturday 29 July 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540729/043/0007).
 
 BOROUGH COURT. Monday.— Magistrates present: T. Cooke, and Edward Way, esqrs.
 
@@ -1574,7 +1572,7 @@ Caroline Pierce and Ellen Pierce, two girls of the town, were charged with loite
 
 ```{admonition} Two sisters being in the street for the purpose of prostitution, July 1854
 :class: dropdown
-[Isle of Wight Observer - Saturday 29 July 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540729/013/0003)
+In *Isle of Wight Observer*, [Saturday 29 July 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540729/013/0003).
 
 BOROUGH SESSIONS.
 
@@ -1588,7 +1586,7 @@ The policeman not being able to swear that Ellen was present at the time she was
 
 ```{admonition} Doubt as to the identity, July 1854
 :class: dropdown
-[Hampshire Telegraph - Saturday 29 July 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18540729/012/0004)
+In *Hampshire Telegraph*, [Saturday 29 July 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18540729/012/0004).
 
 At the Borough Petty Sessions on Monday, before T. Cooke and E. Way, Esqrs.— Two sisters, Ellen and Caroline Pierce, there charged by P.C. Hobbs, under the bye laws, with having been in the streets the previous Wednesday night, between twelve and one o'clock, as common prostitutes. There was some doubt as to the identity of Ellen, and she was discharged; the other was convicted in the penalty of 1Os., with 5s. costs, which she instantly paid. 
 
@@ -1598,7 +1596,7 @@ Other deliberate cases of soliciting also attracted the ire of the court:
 
 ```{admonition} Nymphs of the pave, strolling the streets for improper purposes, December 1850
 :class: dropdown
-[Hampshire Independent - Saturday 14 December 1850](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18501214/071/0007)
+In *Hampshire Independent*, [Saturday 14 December 1850](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18501214/071/0007).
 
 BOROUGH COURT. Monday, before the Mayor, Abraham Clarke and R. M. Wavell, Esqrs.
 
@@ -1618,7 +1616,7 @@ Fighting also appears to have been a problem:
 
 ```{admonition} Bonnets and dresses being torn, August 1844
 :class: dropdown
-[Hampshire Advertiser - Saturday 31 August 1844](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18440831/036/0008)
+In *Hampshire Advertiser*, [Saturday 31 August 1844](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18440831/036/0008).
 
 Borough Court
 
@@ -1627,7 +1625,7 @@ Two nymphs of the pave, named Mary Ann Fry and Martha Bone, appeared before the 
 
 ```{admonition} Diverting themselves by fighting, May 1852
 :class: dropdown
-[Hampshire Independent - Saturday 01 May 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18520501/087/0005)
+In *Hampshire Independent*, [Saturday 01 May 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18520501/087/0005).
 
 BOROUGH COURT. On Monday, before the Mayor, Edward Way, and R. M. Wavell, Esqrs.
 
@@ -1646,7 +1644,7 @@ The Mayor: you are committed as common prostitutes to Winchester Gaol, there to 
 
 ```{admonition} Drinking but not drunk, May 1852
 :class: dropdown
-[Portsmouth Times and Naval Gazette - Saturday 01 May 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001365/18520501/042/0004)
+In *Portsmouth Times and Naval Gazette*, [Saturday 01 May 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001365/18520501/042/0004).
 
 Borough Petty Sessions, Monday. —Present, C. W, Estcourt, Esq., Mayor; Edward Way, and R. M. Wavell, Esqs.
 
@@ -1658,7 +1656,7 @@ Brief reports of creating a disturbance can also be regularly found.
 
 ```{admonition} Creating a disturbance in the street, November 1854
 :class: dropdown
-[Isle of Wight Observer - Saturday 23 December 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541223/008/0003)
+In *Isle of Wight Observer*, [Saturday 23 December 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541223/008/0003).
 
 BOROUGH SESSIONS.
 
@@ -1670,7 +1668,7 @@ Elizabeth Hurst, common prostitute, was charged with creating a disturbance in t
 
 ```{admonition} Being drunk and making use of obscene language, June 1855
 :class: dropdown
-[Isle of Wight Observer - Saturday 30 June 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550630/006/0003)
+In *Isle of Wight Observer*, [Saturday 30 June 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550630/006/0003).
 
 BOROUGH SESSIONS. Wednesday.—Before Dr. Wavell, and F. Pittis, esqrs.
 
@@ -1682,7 +1680,7 @@ Fined 5s. and 7s. 6d. costs, and in default of payment in a week, to be committe
 
 ```{admonition} Being drunk and creating a disturbance, May 1855
 :class: dropdown
-[Isle of Wight Observer - Saturday 12 May 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550512/010/0003)
+In *Isle of Wight Observer*, [Saturday 12 May 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550512/010/0003).
 
 BOROUGH SESSIONS. Monday.—Before C. W. Estcourt, Esq., mayor; and E. Way and H. M. Wavell, Esqrs.
 
@@ -1692,7 +1690,7 @@ Ann Jones was fined 5s. and 5s. costs for being drunk and creating a disturbance
 
 ```{admonition} Drunk and disorderly in the street, July 1855
 :class: dropdown
-[Isle of Wight Observer - Saturday 28 July 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550728/007/0003)
+In *Isle of Wight Observer*, [Saturday 28 July 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550728/007/0003).
 
 BOROUGH SESSIONS. Monday,—Before R. M. Wavell and E. Way, Esq.
 
@@ -1703,7 +1701,7 @@ Ellen Mills was fined 5s. and 5s. costs for being drunk and disorderly in the st
 ```{admonition} Drunken and brawling propensities, July 1855
 :class: dropdown
 
-[Hampshire Advertiser - Saturday 28 July 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550728/040/0007)
+In *Hampshire Advertiser*, [Saturday 28 July 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550728/040/0007).
 
 BOROUGH COURT. Monday.— Magistrates present E. Way, and R. M. Wavell, esqrs.
 
@@ -1714,7 +1712,7 @@ Drunkenness.— Ellen Mills, well known to the Police for her drunken and brawli
 ```{admonition} Drunk and asleep, August 1855
 :class: dropdown
 
-[Hampshire Advertiser - Saturday 04 August 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550804/036/0007)
+In *Hampshire Advertiser*, [Saturday 04 August 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550804/036/0007).
 
 NEWPORT
 
@@ -1734,7 +1732,7 @@ As well as being a hotbed of drunkenness and vice, it seems that a certain famil
 
 ````{admonition} A wretched denizen of Tontine-yard, May, 1846
 :class: dropdown
-[Hampshire Advertiser - Saturday 23 May 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460523/039/0008)
+In *Hampshire Advertiser*, [Saturday 23 May 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460523/039/0008).
 
 NEWPORT PETTY SESSIONS.—Saturday.—(Before the Rev. R. W. White, S. Sanders, J. P. Lind, and J. Simeon esqrs.)
 
@@ -1748,7 +1746,7 @@ Prisoner, in defence, entered into a long account of her whereabouts on the nigh
 
 ```{admonition} Acquitted, July 1846
 :class: dropdown
-[Hampshire Advertiser - Saturday 25 July 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460725/029/0006)
+In *Hampshire Advertiser*, [Saturday 25 July 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460725/029/0006).
 
 ISLE OF WIGHT MIDSUMMER QUARTER SESSIONS. These Sessions commenced on Wednesday, before Sir William Heathcote, bart.
 
@@ -1761,7 +1759,7 @@ Several of the court reports highlight one of the possible risks of letting your
 
 ```{admonition} Stealing from company, November 1853
 :class: dropdown
-[Isle of Wight Observer - Saturday 19 November 1853](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000170/18531119/011/0002?browse=true)
+In *Isle of Wight Observer*, [Saturday 19 November 1853](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000170/18531119/011/0002?browse=true).
 
 BOROUGH SESSIONS. Monday.—Before F. Pittis, Esq., Mayor; R. M. Wavell, Esq., and Thomas Cooke, Esq.
 
@@ -1772,7 +1770,7 @@ Elizabeth Sterratt, a common prostitute, was charged with stealing two half-sove
 ```{admonition} Stealing from a pocket, March 1854
 :class: dropdown
 
-[Isle of Wight Observer - Saturday 04 March 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540304/013/0003)
+In *Isle of Wight Observer*, [Saturday 04 March 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540304/013/0003).
 
 BOROUGH SESSIONS.
 
@@ -1788,7 +1786,7 @@ Another report of the same case reveals the prosecutor was "drunk at the time".
 
 ```{admonition} Stealing a silver pocket watch, March 1854
 :class: dropdown
-[Hampshire Advertiser - Saturday 04 March 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540304/034/0007)
+In *Hampshire Advertiser*, [Saturday 04 March 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540304/034/0007).
 
 Borough Court.— Magistrates present: The Mayor, R. M. Wavell, and E. Way, esqrs.
 
@@ -1800,7 +1798,7 @@ A certain Rebecca Smith appears several times in County Sessions at Winchester c
 
 ```{admonition} Stealing a coat, March 1854
 :class: dropdown
-[Isle of Wight Observer - Saturday 25 March 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540325/012/0003)
+In *Isle of Wight Observer*, [Saturday 25 March 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540325/012/0003).
 
 Newport Petty Sessions
 
@@ -1826,7 +1824,7 @@ In other cases, it seems that thefts could take place even closer to home:
 
 ```{admonition} Found in the Tap after robbing her own mother, June 1850
 :class: dropdown
-[Hampshire Independent - Saturday 15 June 1850](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18500615/088/0007)
+In *Hampshire Independent*, [Saturday 15 June 1850](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18500615/088/0007).
 
 Wednesday. Before H. P. Gordon, Esq.
 
@@ -1845,7 +1843,7 @@ As well as being prosecuted for theft, there are plenty of reports of the workin
 ```{admonition} What have you got there?, February 1854
 :class: dropdown
 
-[Isle of Wight Observer - Saturday 11 February 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540211/011/0002)
+In *Isle of Wight Observer*, [Saturday 11 February 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540211/011/0002).
 
 (Before the Honble. W. aCourt Holmes and Sir H. P. Gordon, Bart.) 
 
@@ -1877,7 +1875,7 @@ Committed to the Assizes.
 
 ```{admonition} A woman of the town, deposed, February 1854
 :class: dropdown
-[Hampshire Advertiser - Saturday 11 February 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540211/034/0006)
+In *Hampshire Advertiser*, [Saturday 11 February 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540211/034/0006).
 
 County Petty Sessions.— Magistrates present: The Hon. A'Court Holmes, and Sir H. P. Gordon, bart.
 
@@ -1887,7 +1885,7 @@ On Saturday, James Nobbs and Edward Woodford were charged with breaking into the
 
 ```{admonition} Deposed to having been with the prisoner, April 1854
 :class: dropdown
-[Isle of Wight Observer - Saturday 22 April 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540422/014/0003)
+In *Isle of Wight Observer*, [Saturday 22 April 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540422/014/0003).
 
 NEWPORT PETTY SESSIONS. Saturday.—Before Rev. R. W. White (chairman), Sir John Simeon, Bart., Sir H. P. Gordon, Bart., the Hon. W. aCourt Holmes, and Capt. Kerr.
 
@@ -1903,7 +1901,7 @@ Committed to the Sessions.
 
 ```{admonition} A common prostitute was next examined, June 1854
 :class: dropdown
-[Isle of Wight Observer - Saturday 10 June 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540610/015/0003)
+In *Isle of Wight Observer*, [Saturday 10 June 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540610/015/0003).
 
 NEWPORT PETTY SESSIONS.
 
@@ -1937,7 +1935,7 @@ The prisoner was then charged with and committed for stealing the shirts from th
 
 ```{admonition} Deposed to having received a stolen ring, May 1855
 :class: dropdown
-[Isle of Wight Observer - Saturday 26 May 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550526/012/0003)
+In *Isle of Wight Observer*, [Saturday 26 May 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550526/012/0003).
 
 Petty Sessions
 
@@ -1963,7 +1961,7 @@ The following, very brief, report suggests that the residents of Tontine yard we
 
 ```{admonition} Breaking the house, October 1854
 :class: dropdown
-[Isle of Wight Observer - Saturday 14 October 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541014/007/0002)
+In *Isle of Wight Observer*, [Saturday 14 October 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541014/007/0002).
 
 Borough Sessions
 
@@ -1977,7 +1975,7 @@ More detail is provided in this next report:
 
 ```{admonition} "Murder!" she cried, October 1854
 :class: dropdown
-[Hampshire Advertiser - Saturday 14 October 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18541014/041/0011)
+In *Hampshire Advertiser*, [Saturday 14 October 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18541014/041/0011).
 
 BOROUGH COURT
 
@@ -2009,7 +2007,7 @@ Bailey was discharged. The others were fined 10s and 3s 6d costs each, and, in d
 
 ```{admonition} Eyes open to her manifold failings, September 1848
 :class: dropdown
-[Hampshire Independent - Saturday 23 September 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18480923/083/0006)
+In *Hampshire Independent*, [Saturday 23 September 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18480923/083/0006).
 
 ISLE OF WIGHT COUNTY PETTY SESSIONS.
 
@@ -2027,7 +2025,7 @@ Mr. White: Oh, that alters the case altogether. You must pay the cost of maintai
 
 ```{admonition} No wish to press charges against good customers, August 1853
 :class: dropdown
-[Isle of Wight Observer - Saturday 27 August 1853](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18530827/016/0003)
+In *Isle of Wight Observer*, [Saturday 27 August 1853](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18530827/016/0003).
 
 BOROUGH SESSIONS. Monday.—(Before F. Pittis, Esq., mayor; C. W. Estcourt, E. Way, Esq., and R. M. Wavell, Esq., magistrates.)
 
@@ -2039,7 +2037,7 @@ Frederick Spanner, William Lewis, and Willam Lewis, were charged with breaking i
 
 ```{admonition} Discharged having been locked up all night, September 1854
 :class: dropdown
-[Isle of Wight Observer - Saturday 23 September 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540923/014/0003)
+In *Isle of Wight Observer*, [Saturday 23 September 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540923/014/0003).
 
 PETTY SESSIONS. Thursday.— Before Dr. Lind and G. J. Sullivan, esq. 
 
@@ -2049,7 +2047,7 @@ A case of prostitution was also heard; but the defendant was discharged with a c
 
 ```{admonition} A public-house quarrel, September 1855
 :class: dropdown
-[Isle of Wight Observer - Saturday 01 September 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550901/007/0003)
+In *Isle of Wight Observer*, [Saturday 01 September 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550901/007/0003).
 
 BOROUGH SESSIONS.
 
@@ -2063,7 +2061,7 @@ This was a public-house quarrel, and the parties appearing to have been drunk at
 
 ```{admonition} Caught playing cards, March 1848
 :class: dropdown
-[Hampshire Advertiser - Saturday 18 March 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18480318/037/0005)
+In *Hampshire Advertiser*, [Saturday 18 March 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18480318/037/0005).
 
 Borough Court.— On Monday, (before J. Eldridge, esq. Mayor, and other gentlemen.)
 
@@ -2081,7 +2079,7 @@ The Mayor said he should have immediately got the assistance of the police, and 
 
 ```{admonition} The body of a new-born female child, March 1854
 :class: dropdown
-[Isle of Wight Observer - Saturday 25 March 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540325/012/0003)
+In *Isle of Wight Observer*, [Saturday 25 March 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540325/012/0003).
 
 Newport Petty Sessions
 
@@ -2103,7 +2101,7 @@ Verdict,— "The deceased was found dead, and that death was occasioned by injur
 
 ```{admonition} Ragged Schools, December 1854
 :class: dropdown
-[Isle of Wight Observer - Saturday 16 December 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541216/008/0003)
+In *Isle of Wight Observer*, [Saturday 16 December 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541216/008/0003).
 
 Ragged Schools.— These schools which have for some time past been opened the evening for instructing the poor in Cosham-street, both morally and religiously, are now found to be as far increased to require another room, and have consequently removed to Sea-street. We are pleased to observe that the names upwards of 100 children are entered on the books, and we hope that the inhabitants of the town and neighbourhood will assist the Committee, pecuniary and personally, in carrying out good work.
 
