@@ -29,7 +29,7 @@ Having has to plan to rebuild the Church proposed and seconded, it was then time
 
 Mr. SAYER, as a Dissenter, wished to have a distinct understanding, that if the present church was pulled down the new one was to be built by the voluntary principle, and that parties were not afterwards to be called upon for a church-rate to pay for any particular portion of it.
 
-Mr. BRYANT: The resolution says—" As soon as the necessary funds have been provided."
+Mr. BRYANT: The resolution says—"As soon as the necessary funds have been provided."
 
 Mr. SAYER: A distinct understanding is all I want on the subject.
 
@@ -97,7 +97,7 @@ Mr. Grapes, Inspector of Police, in answer to the court, said the prisoner was a
 
 The Mayor observed that he had given instructions to the police to endeavour to check the nuisance and wickedness of such proceedings, and he hoped the sentence he was about to pronounce would be a lesson to her and others. Such courses end in the destruction of both body and soul, and he hoped the punishment would lead her to reflect on the dreadful life she was pursuing.
 
-Fined 10s and Ss costs, which not being paid, she was committed to the House of Correction for fourteen days.
+Fined 10s and 5s costs, which not being paid, she was committed to the House of Correction for fourteen days.
 
 ```
 
@@ -113,7 +113,7 @@ James Arthur, and William Henry Stubbs, two of the newly-appointed borough polic
 
 The defendants did not deny the charge, but pleaded that they were sleepy, having been up the previous night, and had neglected taking proper food, which caused a little drink to have more effect.
 
-The Mayor said he was sorry to see them so soon in such a position. The court had not for a long time heard of drunkenness amongst policemen. It was one of those offences that could not be overlooked, ss it was their duty to bring others to be punished for the offence they had been guilty of. The judgment of the court was, that both defendants be dismissed from the borough police.
+The Mayor said he was sorry to see them so soon in such a position. The court had not for a long time heard of drunkenness amongst policemen. It was one of those offences that could not be overlooked, as it was their duty to bring others to be punished for the offence they had been guilty of. The judgment of the court was, that both defendants be dismissed from the borough police.
 
 ```
 
