@@ -1,6 +1,6 @@
 # Supporting the Troops
 
-Whilst the public battle over his reputation was being fought in the public press by his son, during the second quarter of 1857, the Revd. W. Carus seems to have continued to support the Soldiers' Institute, as well the soldiers barracked in Gosport, the families of soldier serving overseas, and, by means of a regular correspondence, those soldiers sent recently to India.
+Whilst the public battle over his reputation was being fought in the public press by his son, during the second quarter of 1857, the Revd. W. Carus Wilson seems to have continued to support the Soldiers' Institute, as well the soldiers barracked in Gosport, the families of soldier serving overseas, and, by means of a regular correspondence, those soldiers sent recently to India.
 
 ## The Soldiers' Institute, One Year On
 
