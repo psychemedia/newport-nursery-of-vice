@@ -1,6 +1,6 @@
 title: Newport Nursery of Vice Storynotes
 author: Tony Hirst
-copyright: "2025-" 
+copyright: "2025-2026" 
 only_build_toc_files: true
 
 execute:
@@ -12,4 +12,9 @@ parse:
 sphinx:
   config:
     html_copy_source: false
+    html_baseurl: https://nursery-of-vice.montystoryteller.org/
+    sitemap_url_scheme: "{link}"
+    sitemap_locales: [null]
 
+  extra_extensions:
+    - sphinx_sitemap
