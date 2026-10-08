@@ -119,7 +119,17 @@ The Mayor said he was sorry to see them so soon in such a position. The court ha
 
 ## The New Parish Church of St Thomas
 
-Over the next few years, the fund-raising programme for the new Church went well, including occasional fund-raising sermons around the island.
+Over the next few years, the fund-raising programme for the new Church seemed to have been going well, but had perhaps stalled a little.
+
+```{admonition} At Risk of Refunding Subscriptions, 1852
+:class: dropdown
+
+In *Isle of Wight Observer*, [Saturday 11 September 1852](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000170/18520911/009/0003?browse=true&fullscreen=true).
+
+Newport.—As we have already stated that a bazaar will be held some time during the of 1853, at the castle and grounds of Carisbrooke, in aid of the funds for the re-building of St. Thomas's Church, Newport, Isle of Wight, under the patronage of the Queen and the Prince Albert, —so we find the good work for re-building our parish church seems to progressing. Fifty ladies met at the residence of Lady Worsley Holmes by invitation, on Wednesday last, at three o'clock the afternoon, for the purpose of appointing a committee to carry out the intended bazaar. The proceedings were opened by the Rev. J. H. Connor, who availed himself of the opportunity to explain his reasons for suggesting tho idea of a sale of work. The impossibility of procuring further local subscriptions — the near expiration of the term of years set apart for receiving subscriptions — the clause "that unless the building was commenced within one clear year after the last year's subscriptions was collected (the fifth year 1853) that the sums subscribed should be returned to each subscriber"—and the inconvenient, unsuitable, and dilapidated state of the present building remain. The rev. gentleman concluded his address by saying, that he hoped the spirit of exertion and anxiety would not be confined to the small locality of Newport, or to the Island, but that those who loved to see the Church —the Church for all persons, rich and poor—those who desired to have the inhabitants of our lanes and close streets in their places within the courts of God's House —would now come forward speedily, and with spirit, to raise the structure to the praise and glory God. —*Hmpshire Advertiser.*
+```
+
+The fund raising effort also included occasional sermons around the island.
 
 ```{admonition} A sermon in aid of rebuilding funds, Bonchurch, June 1853
 :class: dropdown

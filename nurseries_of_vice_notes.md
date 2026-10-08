@@ -427,13 +427,13 @@ The Mayor proposed the health of Colonel Delacombe, of the Royal Marines, with t
 Colonel Delacombe suitably responded to the toast.
 
 Lord Downes gave the health of the Ladies who had worked for the bazaar.
- 
+
 Mr. E. Way proposed the health of the Rev. Bursar of Queen's College, Oxford.
  
 The Rev. Bursar, in acknowledging the compliment, said although the proposition made by Newport was received favourably by the College, it could not have been carried out for an indefinite time but for the Vicar, the Rev. Mr. Scott, who had very kindly and liberally brought the matter on to its present position, and thus enabled the College to carry out the wish of the inhabitants of Newport, with whom they very kindly sympathised —(loud cheers).
  
 The Mayor proposed the Vice-Presidents, Messrs. Eldridge (Town Clerk), W. Way, and Jewell.
- 
+
 The Town Clerk acknowledged the toast.
 
 Mr. J. Wyatt, of Oxford, responded to the toast of the Ladies.
@@ -445,9 +445,9 @@ Colonel Rumley responded, after which the health of Captain Scott and the Isle o
 The Royal Marines band, which played an appropriate selection of music in the intervals between the toasts then performed the National Anthem, and the company separated.
 
 It is worthy of remark that during the whole of the day's ceremonies the large mass of people that crammed the town behaved with the utmost decorum, and no accident of any kind happened. 
- 
+
 ...
- 
+
 The Annual Licensing Day was on Wednesday, when thirteen new applications for spirit licenses were made, and eleven of them were granted *instanter*— the others were only adjourned for the purpose of producing the usual certificates of character.
 
 ISLE OF WIGHT PETTY SESSIONS. BOROUGH COURT. Monday.— Magistrates present: The Mayor (F. Pittis, esq.), Dr. Wavell, Edward Way, and T. Cooke, esqrs.
@@ -2196,7 +2196,7 @@ After the more immediate service of consecration was performed, the usual mornin
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570103/020/0002
 Isle of Wight Mercury - Saturday 03 January 1857
 
-BOROUGH PETTY SESSIONS. (Monday. Dec. 29.—Before Edward Way, and j. H. Hearn, Esqrs.)
+BOROUGH PETTY SESSIONS. (Monday. Dec. 29.—Before Edward Way, and J. H. Hearn, Esqrs.)
 
 Female Debauchery.
 

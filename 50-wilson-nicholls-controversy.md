@@ -521,7 +521,7 @@ In *Liverpool Daily Post*, [Thursday 11 June 1857](https://britishnewspaperarchi
 
 *Also in In *The Halesworth Times and East Suffolk Advertiser.*, [Tuesday 16 June 1857](https://www.britishnewspaperarchive.co.uk/viewer/BL/0001357/18570616/013/0002) and many other publications.*
 
-We observe the Rev. W. Carus Wilson has published a "Refutation of the Statements in the Life of a Charlotte Bronté regarding the Casterton Clergy Daughters' School." The pamphlet contains, among other matter, the letter which have appeared in the *Examiner and Times* from the pens of Mr, Wilson, Mr. Nicholls, and Mr. Shepherd.
+We observe the Rev. W. Carus Wilson has published a "Refutation of the Statements in the Life of a Charlotte Bronté regarding the Casterton Clergy Daughters' School." The pamphlet contains, among other matter, the letter which have appeared in the *Examiner and Times* from the pens of Mr. Wilson, Mr. Nicholls, and Mr. Shepherd.
 ```
 
 A second pamphlet, signed by Mr. Shepheard, also collates much of the material that appeared in the newspaper correspondence, as well as copies of several letters in support of the school.
